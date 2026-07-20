@@ -1,0 +1,11 @@
+DepartmentKey,DepartmentName,DepartmentType,FloorNumber,BedCapacity,AvgCostPerDay
+1,Cardiology,Clinical,3,40,850
+2,Orthopedics,Surgical,2,35,900
+3,General Surgery,Surgical,2,45,1100
+4,Pediatrics,Clinical,4,30,600
+5,Emergency,Clinical,1,25,500
+6,Oncology,Clinical,5,30,1400
+7,Neurology,Clinical,3,25,1200
+8,Obstetrics & Gynecology,Clinical,4,35,700
+9,ICU,Critical Care,6,20,2200
+10,Internal Medicine,Clinical,2,40,650
