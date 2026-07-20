@@ -1,0 +1,26 @@
+DiagnosisKey,ICD10Code,DiagnosisName,Category
+1,I21,Acute Myocardial Infarction,Cardiovascular
+2,I50,Heart Failure,Cardiovascular
+3,I10,Hypertension,Cardiovascular
+4,S72,Femur Fracture,Musculoskeletal
+5,M17,Osteoarthritis of Knee,Musculoskeletal
+6,K35,Acute Appendicitis,Digestive
+7,K80,Gallstones,Digestive
+8,J45,Asthma,Respiratory
+9,J18,Pneumonia,Respiratory
+10,C50,Breast Cancer,Oncology
+11,C34,Lung Cancer,Oncology
+12,C61,Prostate Cancer,Oncology
+13,G40,Epilepsy,Neurological
+14,I63,Ischemic Stroke,Neurological
+15,O80,Normal Delivery,Obstetric
+16,O82,C-Section Delivery,Obstetric
+17,P07,Preterm Birth,Pediatric
+18,J20,Acute Bronchitis (Pediatric),Pediatric
+19,A41,Sepsis,Critical Care
+20,E11,Type 2 Diabetes,Endocrine
+21,N17,Acute Kidney Injury,Renal
+22,S06,Traumatic Brain Injury,Trauma
+23,T14,Multiple Trauma / Accident,Trauma
+24,K29,Gastritis,Digestive
+25,F32,Major Depressive Episode,Psychiatric
