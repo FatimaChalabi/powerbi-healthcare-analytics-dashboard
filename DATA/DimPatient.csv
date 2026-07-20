@@ -1,0 +1,3001 @@
+PatientKey,PatientID,Gender,AgeGroup,InsuranceType,City
+1,PT-100000,Male,18-34,Public/State Insurance,Ganja
+2,PT-100001,Male,18-34,Private Insurance,Shirvan
+3,PT-100002,Female,18-34,Public/State Insurance,Shirvan
+4,PT-100003,Female,51-65,Self-Pay,Sumgait
+5,PT-100004,Female,18-34,Public/State Insurance,Shirvan
+6,PT-100005,Female,35-50,Private Insurance,Baku
+7,PT-100006,Female,18-34,Corporate Insurance,Baku
+8,PT-100007,Male,51-65,Corporate Insurance,Nakhchivan
+9,PT-100008,Female,51-65,Private Insurance,Baku
+10,PT-100009,Female,51-65,Private Insurance,Baku
+11,PT-100010,Male,51-65,Public/State Insurance,Mingachevir
+12,PT-100011,Female,18-34,Self-Pay,Baku
+13,PT-100012,Male,0-17,Corporate Insurance,Nakhchivan
+14,PT-100013,Female,51-65,Self-Pay,Baku
+15,PT-100014,Female,35-50,Public/State Insurance,Baku
+16,PT-100015,Male,35-50,Public/State Insurance,Baku
+17,PT-100016,Male,0-17,Private Insurance,Sumgait
+18,PT-100017,Male,18-34,Private Insurance,Baku
+19,PT-100018,Male,0-17,Public/State Insurance,Ganja
+20,PT-100019,Male,66+,Public/State Insurance,Nakhchivan
+21,PT-100020,Female,18-34,Public/State Insurance,Lankaran
+22,PT-100021,Female,35-50,Public/State Insurance,Baku
+23,PT-100022,Male,0-17,Private Insurance,Ganja
+24,PT-100023,Male,51-65,Public/State Insurance,Ganja
+25,PT-100024,Male,18-34,Private Insurance,Lankaran
+26,PT-100025,Female,66+,Public/State Insurance,Sheki
+27,PT-100026,Female,66+,Self-Pay,Baku
+28,PT-100027,Male,18-34,Public/State Insurance,Mingachevir
+29,PT-100028,Female,66+,Corporate Insurance,Baku
+30,PT-100029,Male,66+,Private Insurance,Baku
+31,PT-100030,Male,51-65,Public/State Insurance,Baku
+32,PT-100031,Female,51-65,Private Insurance,Ganja
+33,PT-100032,Male,18-34,Public/State Insurance,Ganja
+34,PT-100033,Male,35-50,Self-Pay,Baku
+35,PT-100034,Female,0-17,Public/State Insurance,Mingachevir
+36,PT-100035,Male,0-17,Self-Pay,Baku
+37,PT-100036,Female,66+,Private Insurance,Ganja
+38,PT-100037,Male,18-34,Self-Pay,Baku
+39,PT-100038,Female,51-65,Private Insurance,Baku
+40,PT-100039,Male,51-65,Self-Pay,Baku
+41,PT-100040,Female,51-65,Private Insurance,Baku
+42,PT-100041,Female,66+,Private Insurance,Ganja
+43,PT-100042,Male,18-34,Public/State Insurance,Baku
+44,PT-100043,Female,0-17,Corporate Insurance,Ganja
+45,PT-100044,Female,35-50,Private Insurance,Baku
+46,PT-100045,Male,18-34,Public/State Insurance,Mingachevir
+47,PT-100046,Male,0-17,Self-Pay,Shirvan
+48,PT-100047,Male,35-50,Public/State Insurance,Baku
+49,PT-100048,Male,51-65,Private Insurance,Ganja
+50,PT-100049,Female,35-50,Public/State Insurance,Baku
+51,PT-100050,Female,18-34,Public/State Insurance,Sumgait
+52,PT-100051,Female,51-65,Corporate Insurance,Baku
+53,PT-100052,Male,18-34,Self-Pay,Ganja
+54,PT-100053,Male,0-17,Public/State Insurance,Ganja
+55,PT-100054,Male,51-65,Corporate Insurance,Lankaran
+56,PT-100055,Male,51-65,Public/State Insurance,Ganja
+57,PT-100056,Female,51-65,Private Insurance,Sumgait
+58,PT-100057,Female,0-17,Private Insurance,Baku
+59,PT-100058,Female,51-65,Public/State Insurance,Lankaran
+60,PT-100059,Male,35-50,Private Insurance,Shirvan
+61,PT-100060,Female,35-50,Corporate Insurance,Baku
+62,PT-100061,Male,51-65,Self-Pay,Nakhchivan
+63,PT-100062,Female,66+,Private Insurance,Baku
+64,PT-100063,Female,35-50,Public/State Insurance,Nakhchivan
+65,PT-100064,Female,35-50,Public/State Insurance,Nakhchivan
+66,PT-100065,Male,66+,Corporate Insurance,Baku
+67,PT-100066,Male,51-65,Self-Pay,Mingachevir
+68,PT-100067,Female,35-50,Public/State Insurance,Baku
+69,PT-100068,Female,51-65,Self-Pay,Baku
+70,PT-100069,Male,35-50,Public/State Insurance,Baku
+71,PT-100070,Female,18-34,Public/State Insurance,Mingachevir
+72,PT-100071,Male,35-50,Private Insurance,Baku
+73,PT-100072,Male,66+,Private Insurance,Baku
+74,PT-100073,Female,66+,Public/State Insurance,Mingachevir
+75,PT-100074,Female,18-34,Private Insurance,Baku
+76,PT-100075,Male,35-50,Private Insurance,Baku
+77,PT-100076,Female,18-34,Public/State Insurance,Baku
+78,PT-100077,Female,66+,Private Insurance,Baku
+79,PT-100078,Male,66+,Public/State Insurance,Ganja
+80,PT-100079,Male,51-65,Public/State Insurance,Baku
+81,PT-100080,Male,51-65,Corporate Insurance,Sheki
+82,PT-100081,Male,51-65,Public/State Insurance,Mingachevir
+83,PT-100082,Female,35-50,Private Insurance,Baku
+84,PT-100083,Female,0-17,Public/State Insurance,Baku
+85,PT-100084,Male,35-50,Self-Pay,Baku
+86,PT-100085,Male,51-65,Corporate Insurance,Sumgait
+87,PT-100086,Female,51-65,Public/State Insurance,Baku
+88,PT-100087,Male,35-50,Private Insurance,Baku
+89,PT-100088,Female,66+,Corporate Insurance,Nakhchivan
+90,PT-100089,Female,18-34,Private Insurance,Baku
+91,PT-100090,Female,35-50,Public/State Insurance,Baku
+92,PT-100091,Female,51-65,Public/State Insurance,Nakhchivan
+93,PT-100092,Female,51-65,Private Insurance,Sumgait
+94,PT-100093,Female,51-65,Private Insurance,Baku
+95,PT-100094,Female,18-34,Private Insurance,Mingachevir
+96,PT-100095,Male,18-34,Public/State Insurance,Baku
+97,PT-100096,Male,51-65,Corporate Insurance,Mingachevir
+98,PT-100097,Male,35-50,Private Insurance,Ganja
+99,PT-100098,Male,18-34,Self-Pay,Shirvan
+100,PT-100099,Female,51-65,Private Insurance,Sheki
+101,PT-100100,Female,35-50,Public/State Insurance,Lankaran
+102,PT-100101,Male,51-65,Private Insurance,Lankaran
+103,PT-100102,Female,51-65,Corporate Insurance,Ganja
+104,PT-100103,Male,18-34,Self-Pay,Baku
+105,PT-100104,Female,0-17,Public/State Insurance,Ganja
+106,PT-100105,Male,51-65,Self-Pay,Mingachevir
+107,PT-100106,Female,35-50,Public/State Insurance,Nakhchivan
+108,PT-100107,Male,51-65,Corporate Insurance,Baku
+109,PT-100108,Male,51-65,Public/State Insurance,Lankaran
+110,PT-100109,Male,51-65,Corporate Insurance,Shirvan
+111,PT-100110,Female,66+,Public/State Insurance,Sheki
+112,PT-100111,Male,35-50,Private Insurance,Nakhchivan
+113,PT-100112,Male,35-50,Public/State Insurance,Baku
+114,PT-100113,Male,35-50,Private Insurance,Baku
+115,PT-100114,Male,18-34,Public/State Insurance,Baku
+116,PT-100115,Male,35-50,Public/State Insurance,Baku
+117,PT-100116,Female,18-34,Public/State Insurance,Sumgait
+118,PT-100117,Male,66+,Private Insurance,Shirvan
+119,PT-100118,Male,35-50,Private Insurance,Lankaran
+120,PT-100119,Male,35-50,Public/State Insurance,Sumgait
+121,PT-100120,Female,18-34,Corporate Insurance,Baku
+122,PT-100121,Female,0-17,Public/State Insurance,Baku
+123,PT-100122,Male,0-17,Public/State Insurance,Baku
+124,PT-100123,Male,35-50,Public/State Insurance,Baku
+125,PT-100124,Female,0-17,Public/State Insurance,Ganja
+126,PT-100125,Male,35-50,Private Insurance,Baku
+127,PT-100126,Female,66+,Public/State Insurance,Baku
+128,PT-100127,Female,66+,Private Insurance,Baku
+129,PT-100128,Female,51-65,Corporate Insurance,Sumgait
+130,PT-100129,Female,18-34,Private Insurance,Ganja
+131,PT-100130,Male,66+,Public/State Insurance,Ganja
+132,PT-100131,Female,66+,Private Insurance,Baku
+133,PT-100132,Male,18-34,Private Insurance,Sheki
+134,PT-100133,Male,51-65,Self-Pay,Baku
+135,PT-100134,Male,18-34,Private Insurance,Ganja
+136,PT-100135,Male,51-65,Private Insurance,Mingachevir
+137,PT-100136,Female,66+,Public/State Insurance,Ganja
+138,PT-100137,Male,0-17,Private Insurance,Lankaran
+139,PT-100138,Male,66+,Private Insurance,Baku
+140,PT-100139,Female,51-65,Self-Pay,Ganja
+141,PT-100140,Male,66+,Self-Pay,Baku
+142,PT-100141,Male,35-50,Corporate Insurance,Sumgait
+143,PT-100142,Male,51-65,Self-Pay,Baku
+144,PT-100143,Male,0-17,Public/State Insurance,Baku
+145,PT-100144,Male,18-34,Private Insurance,Ganja
+146,PT-100145,Female,0-17,Self-Pay,Ganja
+147,PT-100146,Male,66+,Self-Pay,Baku
+148,PT-100147,Male,51-65,Self-Pay,Mingachevir
+149,PT-100148,Female,51-65,Public/State Insurance,Sumgait
+150,PT-100149,Female,66+,Private Insurance,Baku
+151,PT-100150,Female,0-17,Self-Pay,Ganja
+152,PT-100151,Male,35-50,Public/State Insurance,Mingachevir
+153,PT-100152,Male,0-17,Corporate Insurance,Ganja
+154,PT-100153,Female,18-34,Private Insurance,Baku
+155,PT-100154,Male,18-34,Private Insurance,Baku
+156,PT-100155,Female,35-50,Private Insurance,Sumgait
+157,PT-100156,Male,18-34,Self-Pay,Lankaran
+158,PT-100157,Male,0-17,Private Insurance,Mingachevir
+159,PT-100158,Male,18-34,Private Insurance,Baku
+160,PT-100159,Female,18-34,Corporate Insurance,Ganja
+161,PT-100160,Female,66+,Private Insurance,Lankaran
+162,PT-100161,Female,51-65,Self-Pay,Baku
+163,PT-100162,Female,66+,Public/State Insurance,Sheki
+164,PT-100163,Male,35-50,Self-Pay,Lankaran
+165,PT-100164,Male,18-34,Public/State Insurance,Baku
+166,PT-100165,Male,51-65,Corporate Insurance,Lankaran
+167,PT-100166,Male,18-34,Corporate Insurance,Baku
+168,PT-100167,Male,18-34,Private Insurance,Nakhchivan
+169,PT-100168,Male,18-34,Private Insurance,Baku
+170,PT-100169,Male,18-34,Private Insurance,Baku
+171,PT-100170,Male,18-34,Public/State Insurance,Sumgait
+172,PT-100171,Female,18-34,Self-Pay,Shirvan
+173,PT-100172,Female,51-65,Public/State Insurance,Baku
+174,PT-100173,Female,0-17,Public/State Insurance,Sumgait
+175,PT-100174,Male,18-34,Private Insurance,Baku
+176,PT-100175,Male,51-65,Self-Pay,Baku
+177,PT-100176,Female,18-34,Corporate Insurance,Baku
+178,PT-100177,Male,18-34,Private Insurance,Ganja
+179,PT-100178,Male,66+,Public/State Insurance,Baku
+180,PT-100179,Female,18-34,Private Insurance,Baku
+181,PT-100180,Female,0-17,Public/State Insurance,Baku
+182,PT-100181,Male,35-50,Public/State Insurance,Baku
+183,PT-100182,Male,18-34,Private Insurance,Ganja
+184,PT-100183,Male,35-50,Public/State Insurance,Sheki
+185,PT-100184,Male,51-65,Private Insurance,Baku
+186,PT-100185,Male,18-34,Public/State Insurance,Lankaran
+187,PT-100186,Male,35-50,Public/State Insurance,Mingachevir
+188,PT-100187,Male,35-50,Private Insurance,Sumgait
+189,PT-100188,Male,18-34,Self-Pay,Sumgait
+190,PT-100189,Female,51-65,Public/State Insurance,Nakhchivan
+191,PT-100190,Female,18-34,Public/State Insurance,Baku
+192,PT-100191,Female,35-50,Private Insurance,Ganja
+193,PT-100192,Male,0-17,Self-Pay,Mingachevir
+194,PT-100193,Male,35-50,Corporate Insurance,Sumgait
+195,PT-100194,Male,18-34,Private Insurance,Nakhchivan
+196,PT-100195,Female,51-65,Private Insurance,Baku
+197,PT-100196,Female,0-17,Private Insurance,Mingachevir
+198,PT-100197,Female,35-50,Public/State Insurance,Ganja
+199,PT-100198,Female,35-50,Private Insurance,Baku
+200,PT-100199,Male,51-65,Public/State Insurance,Baku
+201,PT-100200,Female,35-50,Public/State Insurance,Sumgait
+202,PT-100201,Female,51-65,Public/State Insurance,Lankaran
+203,PT-100202,Male,51-65,Public/State Insurance,Ganja
+204,PT-100203,Female,66+,Public/State Insurance,Nakhchivan
+205,PT-100204,Female,18-34,Public/State Insurance,Baku
+206,PT-100205,Male,35-50,Private Insurance,Baku
+207,PT-100206,Female,51-65,Private Insurance,Baku
+208,PT-100207,Male,66+,Self-Pay,Baku
+209,PT-100208,Male,66+,Private Insurance,Baku
+210,PT-100209,Male,35-50,Public/State Insurance,Baku
+211,PT-100210,Female,18-34,Corporate Insurance,Mingachevir
+212,PT-100211,Male,35-50,Private Insurance,Mingachevir
+213,PT-100212,Female,51-65,Public/State Insurance,Baku
+214,PT-100213,Female,35-50,Public/State Insurance,Baku
+215,PT-100214,Female,35-50,Self-Pay,Baku
+216,PT-100215,Male,51-65,Corporate Insurance,Ganja
+217,PT-100216,Female,35-50,Public/State Insurance,Baku
+218,PT-100217,Female,51-65,Private Insurance,Baku
+219,PT-100218,Male,35-50,Public/State Insurance,Lankaran
+220,PT-100219,Female,18-34,Public/State Insurance,Shirvan
+221,PT-100220,Female,35-50,Public/State Insurance,Baku
+222,PT-100221,Female,51-65,Private Insurance,Baku
+223,PT-100222,Female,18-34,Private Insurance,Baku
+224,PT-100223,Female,18-34,Self-Pay,Shirvan
+225,PT-100224,Female,66+,Public/State Insurance,Ganja
+226,PT-100225,Male,18-34,Private Insurance,Baku
+227,PT-100226,Female,35-50,Public/State Insurance,Mingachevir
+228,PT-100227,Female,35-50,Self-Pay,Baku
+229,PT-100228,Male,35-50,Public/State Insurance,Baku
+230,PT-100229,Female,51-65,Private Insurance,Baku
+231,PT-100230,Male,18-34,Private Insurance,Ganja
+232,PT-100231,Female,35-50,Private Insurance,Baku
+233,PT-100232,Female,35-50,Corporate Insurance,Baku
+234,PT-100233,Female,51-65,Public/State Insurance,Baku
+235,PT-100234,Female,18-34,Public/State Insurance,Baku
+236,PT-100235,Female,35-50,Public/State Insurance,Shirvan
+237,PT-100236,Female,18-34,Public/State Insurance,Baku
+238,PT-100237,Female,18-34,Self-Pay,Baku
+239,PT-100238,Female,18-34,Public/State Insurance,Sumgait
+240,PT-100239,Female,18-34,Private Insurance,Shirvan
+241,PT-100240,Female,51-65,Private Insurance,Shirvan
+242,PT-100241,Female,18-34,Public/State Insurance,Ganja
+243,PT-100242,Female,66+,Corporate Insurance,Baku
+244,PT-100243,Male,66+,Private Insurance,Mingachevir
+245,PT-100244,Female,35-50,Self-Pay,Mingachevir
+246,PT-100245,Male,18-34,Self-Pay,Baku
+247,PT-100246,Male,35-50,Private Insurance,Lankaran
+248,PT-100247,Female,51-65,Private Insurance,Baku
+249,PT-100248,Male,35-50,Private Insurance,Sheki
+250,PT-100249,Male,0-17,Public/State Insurance,Nakhchivan
+251,PT-100250,Female,35-50,Private Insurance,Mingachevir
+252,PT-100251,Female,51-65,Public/State Insurance,Lankaran
+253,PT-100252,Male,51-65,Public/State Insurance,Mingachevir
+254,PT-100253,Male,18-34,Public/State Insurance,Baku
+255,PT-100254,Female,51-65,Private Insurance,Baku
+256,PT-100255,Female,18-34,Public/State Insurance,Baku
+257,PT-100256,Female,18-34,Public/State Insurance,Baku
+258,PT-100257,Female,66+,Public/State Insurance,Mingachevir
+259,PT-100258,Male,18-34,Self-Pay,Baku
+260,PT-100259,Female,18-34,Private Insurance,Baku
+261,PT-100260,Female,0-17,Self-Pay,Sumgait
+262,PT-100261,Male,66+,Public/State Insurance,Nakhchivan
+263,PT-100262,Female,51-65,Public/State Insurance,Baku
+264,PT-100263,Female,51-65,Public/State Insurance,Baku
+265,PT-100264,Male,51-65,Public/State Insurance,Baku
+266,PT-100265,Male,18-34,Private Insurance,Mingachevir
+267,PT-100266,Female,35-50,Public/State Insurance,Baku
+268,PT-100267,Male,18-34,Public/State Insurance,Sumgait
+269,PT-100268,Female,0-17,Public/State Insurance,Baku
+270,PT-100269,Female,35-50,Private Insurance,Baku
+271,PT-100270,Male,66+,Corporate Insurance,Lankaran
+272,PT-100271,Female,0-17,Public/State Insurance,Baku
+273,PT-100272,Female,18-34,Private Insurance,Baku
+274,PT-100273,Female,18-34,Public/State Insurance,Baku
+275,PT-100274,Female,18-34,Self-Pay,Ganja
+276,PT-100275,Female,66+,Self-Pay,Ganja
+277,PT-100276,Female,35-50,Public/State Insurance,Baku
+278,PT-100277,Female,35-50,Self-Pay,Baku
+279,PT-100278,Female,51-65,Private Insurance,Baku
+280,PT-100279,Male,18-34,Public/State Insurance,Mingachevir
+281,PT-100280,Male,35-50,Self-Pay,Shirvan
+282,PT-100281,Male,35-50,Self-Pay,Ganja
+283,PT-100282,Male,35-50,Public/State Insurance,Sumgait
+284,PT-100283,Female,66+,Self-Pay,Baku
+285,PT-100284,Female,51-65,Private Insurance,Baku
+286,PT-100285,Male,35-50,Self-Pay,Baku
+287,PT-100286,Male,51-65,Private Insurance,Baku
+288,PT-100287,Male,18-34,Private Insurance,Baku
+289,PT-100288,Female,0-17,Private Insurance,Ganja
+290,PT-100289,Female,18-34,Public/State Insurance,Ganja
+291,PT-100290,Female,18-34,Private Insurance,Lankaran
+292,PT-100291,Female,35-50,Private Insurance,Baku
+293,PT-100292,Male,35-50,Private Insurance,Sumgait
+294,PT-100293,Male,66+,Private Insurance,Shirvan
+295,PT-100294,Female,35-50,Public/State Insurance,Ganja
+296,PT-100295,Male,35-50,Public/State Insurance,Baku
+297,PT-100296,Male,0-17,Private Insurance,Baku
+298,PT-100297,Female,0-17,Public/State Insurance,Baku
+299,PT-100298,Female,35-50,Self-Pay,Baku
+300,PT-100299,Female,35-50,Self-Pay,Mingachevir
+301,PT-100300,Female,51-65,Private Insurance,Baku
+302,PT-100301,Female,18-34,Public/State Insurance,Baku
+303,PT-100302,Female,0-17,Private Insurance,Mingachevir
+304,PT-100303,Female,35-50,Private Insurance,Shirvan
+305,PT-100304,Female,18-34,Private Insurance,Ganja
+306,PT-100305,Male,0-17,Self-Pay,Mingachevir
+307,PT-100306,Female,51-65,Private Insurance,Baku
+308,PT-100307,Male,0-17,Private Insurance,Baku
+309,PT-100308,Female,35-50,Private Insurance,Baku
+310,PT-100309,Male,18-34,Self-Pay,Sumgait
+311,PT-100310,Female,18-34,Public/State Insurance,Lankaran
+312,PT-100311,Female,35-50,Private Insurance,Baku
+313,PT-100312,Male,51-65,Public/State Insurance,Ganja
+314,PT-100313,Male,35-50,Public/State Insurance,Baku
+315,PT-100314,Male,51-65,Public/State Insurance,Ganja
+316,PT-100315,Female,18-34,Private Insurance,Baku
+317,PT-100316,Female,51-65,Self-Pay,Baku
+318,PT-100317,Male,18-34,Private Insurance,Shirvan
+319,PT-100318,Male,51-65,Public/State Insurance,Ganja
+320,PT-100319,Male,35-50,Private Insurance,Ganja
+321,PT-100320,Male,66+,Public/State Insurance,Baku
+322,PT-100321,Female,35-50,Public/State Insurance,Baku
+323,PT-100322,Male,0-17,Public/State Insurance,Baku
+324,PT-100323,Female,0-17,Private Insurance,Nakhchivan
+325,PT-100324,Female,51-65,Self-Pay,Sheki
+326,PT-100325,Female,35-50,Private Insurance,Baku
+327,PT-100326,Female,51-65,Public/State Insurance,Baku
+328,PT-100327,Female,18-34,Self-Pay,Nakhchivan
+329,PT-100328,Female,18-34,Public/State Insurance,Baku
+330,PT-100329,Male,0-17,Public/State Insurance,Ganja
+331,PT-100330,Female,66+,Public/State Insurance,Baku
+332,PT-100331,Male,51-65,Public/State Insurance,Mingachevir
+333,PT-100332,Female,66+,Self-Pay,Ganja
+334,PT-100333,Female,18-34,Private Insurance,Shirvan
+335,PT-100334,Male,35-50,Public/State Insurance,Shirvan
+336,PT-100335,Female,51-65,Public/State Insurance,Baku
+337,PT-100336,Female,18-34,Public/State Insurance,Mingachevir
+338,PT-100337,Female,51-65,Private Insurance,Shirvan
+339,PT-100338,Female,66+,Public/State Insurance,Baku
+340,PT-100339,Male,66+,Self-Pay,Baku
+341,PT-100340,Female,51-65,Corporate Insurance,Baku
+342,PT-100341,Male,18-34,Public/State Insurance,Ganja
+343,PT-100342,Female,18-34,Public/State Insurance,Baku
+344,PT-100343,Male,66+,Corporate Insurance,Ganja
+345,PT-100344,Male,0-17,Private Insurance,Baku
+346,PT-100345,Male,51-65,Private Insurance,Nakhchivan
+347,PT-100346,Female,51-65,Public/State Insurance,Baku
+348,PT-100347,Female,51-65,Self-Pay,Baku
+349,PT-100348,Female,66+,Self-Pay,Ganja
+350,PT-100349,Male,18-34,Public/State Insurance,Ganja
+351,PT-100350,Male,18-34,Private Insurance,Baku
+352,PT-100351,Male,0-17,Public/State Insurance,Baku
+353,PT-100352,Female,35-50,Private Insurance,Baku
+354,PT-100353,Male,18-34,Private Insurance,Mingachevir
+355,PT-100354,Male,18-34,Self-Pay,Shirvan
+356,PT-100355,Female,51-65,Private Insurance,Ganja
+357,PT-100356,Female,66+,Self-Pay,Mingachevir
+358,PT-100357,Male,18-34,Public/State Insurance,Mingachevir
+359,PT-100358,Male,35-50,Public/State Insurance,Baku
+360,PT-100359,Male,66+,Private Insurance,Sheki
+361,PT-100360,Female,0-17,Private Insurance,Nakhchivan
+362,PT-100361,Male,0-17,Private Insurance,Baku
+363,PT-100362,Female,18-34,Corporate Insurance,Baku
+364,PT-100363,Female,35-50,Self-Pay,Baku
+365,PT-100364,Female,18-34,Public/State Insurance,Baku
+366,PT-100365,Male,66+,Private Insurance,Mingachevir
+367,PT-100366,Male,35-50,Corporate Insurance,Ganja
+368,PT-100367,Male,35-50,Private Insurance,Shirvan
+369,PT-100368,Female,18-34,Private Insurance,Mingachevir
+370,PT-100369,Male,35-50,Public/State Insurance,Sumgait
+371,PT-100370,Female,51-65,Corporate Insurance,Mingachevir
+372,PT-100371,Male,51-65,Private Insurance,Baku
+373,PT-100372,Female,51-65,Private Insurance,Baku
+374,PT-100373,Female,35-50,Corporate Insurance,Sumgait
+375,PT-100374,Female,66+,Private Insurance,Baku
+376,PT-100375,Female,51-65,Private Insurance,Baku
+377,PT-100376,Male,51-65,Public/State Insurance,Nakhchivan
+378,PT-100377,Female,0-17,Self-Pay,Mingachevir
+379,PT-100378,Female,0-17,Public/State Insurance,Baku
+380,PT-100379,Male,18-34,Corporate Insurance,Mingachevir
+381,PT-100380,Female,51-65,Public/State Insurance,Shirvan
+382,PT-100381,Male,35-50,Private Insurance,Baku
+383,PT-100382,Male,35-50,Corporate Insurance,Baku
+384,PT-100383,Male,66+,Public/State Insurance,Lankaran
+385,PT-100384,Female,66+,Private Insurance,Baku
+386,PT-100385,Male,66+,Public/State Insurance,Baku
+387,PT-100386,Male,18-34,Private Insurance,Ganja
+388,PT-100387,Female,51-65,Private Insurance,Shirvan
+389,PT-100388,Female,18-34,Private Insurance,Baku
+390,PT-100389,Male,18-34,Public/State Insurance,Baku
+391,PT-100390,Male,18-34,Self-Pay,Baku
+392,PT-100391,Male,18-34,Public/State Insurance,Sheki
+393,PT-100392,Male,35-50,Corporate Insurance,Baku
+394,PT-100393,Male,51-65,Private Insurance,Sumgait
+395,PT-100394,Female,0-17,Private Insurance,Lankaran
+396,PT-100395,Female,51-65,Private Insurance,Baku
+397,PT-100396,Female,35-50,Private Insurance,Sheki
+398,PT-100397,Male,18-34,Private Insurance,Lankaran
+399,PT-100398,Female,35-50,Self-Pay,Nakhchivan
+400,PT-100399,Male,18-34,Corporate Insurance,Baku
+401,PT-100400,Male,35-50,Corporate Insurance,Sumgait
+402,PT-100401,Male,35-50,Private Insurance,Shirvan
+403,PT-100402,Female,18-34,Self-Pay,Sheki
+404,PT-100403,Male,0-17,Private Insurance,Baku
+405,PT-100404,Female,35-50,Private Insurance,Shirvan
+406,PT-100405,Male,66+,Self-Pay,Baku
+407,PT-100406,Female,18-34,Public/State Insurance,Baku
+408,PT-100407,Female,51-65,Private Insurance,Baku
+409,PT-100408,Male,51-65,Public/State Insurance,Shirvan
+410,PT-100409,Female,66+,Private Insurance,Ganja
+411,PT-100410,Female,51-65,Public/State Insurance,Ganja
+412,PT-100411,Male,35-50,Public/State Insurance,Sheki
+413,PT-100412,Male,51-65,Corporate Insurance,Baku
+414,PT-100413,Male,66+,Private Insurance,Sumgait
+415,PT-100414,Male,35-50,Public/State Insurance,Baku
+416,PT-100415,Male,18-34,Public/State Insurance,Baku
+417,PT-100416,Female,0-17,Public/State Insurance,Mingachevir
+418,PT-100417,Female,51-65,Private Insurance,Lankaran
+419,PT-100418,Female,51-65,Public/State Insurance,Ganja
+420,PT-100419,Male,0-17,Self-Pay,Shirvan
+421,PT-100420,Male,35-50,Corporate Insurance,Baku
+422,PT-100421,Female,35-50,Self-Pay,Baku
+423,PT-100422,Female,0-17,Self-Pay,Ganja
+424,PT-100423,Male,66+,Public/State Insurance,Baku
+425,PT-100424,Female,18-34,Self-Pay,Baku
+426,PT-100425,Male,0-17,Private Insurance,Ganja
+427,PT-100426,Female,35-50,Public/State Insurance,Baku
+428,PT-100427,Male,51-65,Private Insurance,Baku
+429,PT-100428,Female,0-17,Public/State Insurance,Ganja
+430,PT-100429,Male,51-65,Private Insurance,Sumgait
+431,PT-100430,Male,35-50,Corporate Insurance,Lankaran
+432,PT-100431,Male,0-17,Private Insurance,Sumgait
+433,PT-100432,Male,18-34,Private Insurance,Baku
+434,PT-100433,Male,35-50,Public/State Insurance,Lankaran
+435,PT-100434,Male,18-34,Private Insurance,Shirvan
+436,PT-100435,Female,66+,Private Insurance,Baku
+437,PT-100436,Male,51-65,Private Insurance,Baku
+438,PT-100437,Male,66+,Public/State Insurance,Mingachevir
+439,PT-100438,Female,18-34,Public/State Insurance,Ganja
+440,PT-100439,Male,66+,Self-Pay,Shirvan
+441,PT-100440,Male,35-50,Public/State Insurance,Mingachevir
+442,PT-100441,Male,18-34,Public/State Insurance,Sumgait
+443,PT-100442,Female,0-17,Private Insurance,Sheki
+444,PT-100443,Female,0-17,Private Insurance,Ganja
+445,PT-100444,Male,51-65,Self-Pay,Baku
+446,PT-100445,Male,35-50,Private Insurance,Nakhchivan
+447,PT-100446,Female,18-34,Private Insurance,Baku
+448,PT-100447,Male,35-50,Self-Pay,Shirvan
+449,PT-100448,Male,18-34,Public/State Insurance,Sheki
+450,PT-100449,Female,35-50,Private Insurance,Mingachevir
+451,PT-100450,Male,18-34,Private Insurance,Sumgait
+452,PT-100451,Female,51-65,Corporate Insurance,Ganja
+453,PT-100452,Female,51-65,Self-Pay,Baku
+454,PT-100453,Female,35-50,Public/State Insurance,Baku
+455,PT-100454,Male,18-34,Public/State Insurance,Sumgait
+456,PT-100455,Female,35-50,Public/State Insurance,Shirvan
+457,PT-100456,Female,51-65,Corporate Insurance,Mingachevir
+458,PT-100457,Female,18-34,Corporate Insurance,Baku
+459,PT-100458,Male,18-34,Private Insurance,Ganja
+460,PT-100459,Male,0-17,Self-Pay,Shirvan
+461,PT-100460,Female,35-50,Private Insurance,Ganja
+462,PT-100461,Female,35-50,Private Insurance,Ganja
+463,PT-100462,Male,51-65,Public/State Insurance,Shirvan
+464,PT-100463,Female,18-34,Public/State Insurance,Sumgait
+465,PT-100464,Female,35-50,Corporate Insurance,Baku
+466,PT-100465,Female,51-65,Private Insurance,Lankaran
+467,PT-100466,Female,51-65,Public/State Insurance,Baku
+468,PT-100467,Female,35-50,Corporate Insurance,Sheki
+469,PT-100468,Female,35-50,Corporate Insurance,Baku
+470,PT-100469,Female,18-34,Private Insurance,Baku
+471,PT-100470,Male,66+,Public/State Insurance,Lankaran
+472,PT-100471,Female,0-17,Public/State Insurance,Baku
+473,PT-100472,Male,66+,Private Insurance,Mingachevir
+474,PT-100473,Male,51-65,Corporate Insurance,Shirvan
+475,PT-100474,Female,35-50,Corporate Insurance,Nakhchivan
+476,PT-100475,Male,0-17,Private Insurance,Sheki
+477,PT-100476,Female,35-50,Private Insurance,Baku
+478,PT-100477,Male,35-50,Private Insurance,Mingachevir
+479,PT-100478,Female,18-34,Corporate Insurance,Baku
+480,PT-100479,Female,51-65,Private Insurance,Baku
+481,PT-100480,Female,66+,Public/State Insurance,Nakhchivan
+482,PT-100481,Male,35-50,Public/State Insurance,Baku
+483,PT-100482,Female,51-65,Public/State Insurance,Sumgait
+484,PT-100483,Male,0-17,Private Insurance,Ganja
+485,PT-100484,Female,35-50,Private Insurance,Sumgait
+486,PT-100485,Male,0-17,Corporate Insurance,Sheki
+487,PT-100486,Female,35-50,Corporate Insurance,Baku
+488,PT-100487,Male,66+,Self-Pay,Sumgait
+489,PT-100488,Female,51-65,Private Insurance,Nakhchivan
+490,PT-100489,Female,0-17,Private Insurance,Ganja
+491,PT-100490,Female,18-34,Public/State Insurance,Baku
+492,PT-100491,Female,35-50,Private Insurance,Ganja
+493,PT-100492,Male,35-50,Corporate Insurance,Baku
+494,PT-100493,Female,51-65,Public/State Insurance,Baku
+495,PT-100494,Male,51-65,Private Insurance,Nakhchivan
+496,PT-100495,Female,35-50,Corporate Insurance,Ganja
+497,PT-100496,Male,35-50,Corporate Insurance,Lankaran
+498,PT-100497,Female,18-34,Private Insurance,Shirvan
+499,PT-100498,Female,0-17,Public/State Insurance,Mingachevir
+500,PT-100499,Male,18-34,Private Insurance,Baku
+501,PT-100500,Female,35-50,Public/State Insurance,Baku
+502,PT-100501,Female,51-65,Private Insurance,Baku
+503,PT-100502,Male,51-65,Public/State Insurance,Lankaran
+504,PT-100503,Male,0-17,Corporate Insurance,Baku
+505,PT-100504,Female,35-50,Public/State Insurance,Baku
+506,PT-100505,Female,18-34,Private Insurance,Ganja
+507,PT-100506,Male,18-34,Public/State Insurance,Baku
+508,PT-100507,Female,51-65,Private Insurance,Baku
+509,PT-100508,Female,0-17,Self-Pay,Sumgait
+510,PT-100509,Female,35-50,Public/State Insurance,Baku
+511,PT-100510,Male,18-34,Private Insurance,Baku
+512,PT-100511,Male,66+,Private Insurance,Baku
+513,PT-100512,Female,35-50,Self-Pay,Mingachevir
+514,PT-100513,Female,18-34,Private Insurance,Ganja
+515,PT-100514,Female,35-50,Self-Pay,Baku
+516,PT-100515,Male,51-65,Private Insurance,Ganja
+517,PT-100516,Female,66+,Private Insurance,Baku
+518,PT-100517,Female,18-34,Public/State Insurance,Lankaran
+519,PT-100518,Male,66+,Corporate Insurance,Baku
+520,PT-100519,Female,66+,Corporate Insurance,Mingachevir
+521,PT-100520,Male,66+,Private Insurance,Lankaran
+522,PT-100521,Female,51-65,Public/State Insurance,Shirvan
+523,PT-100522,Female,51-65,Private Insurance,Baku
+524,PT-100523,Female,35-50,Public/State Insurance,Baku
+525,PT-100524,Male,51-65,Public/State Insurance,Mingachevir
+526,PT-100525,Male,35-50,Corporate Insurance,Baku
+527,PT-100526,Male,51-65,Corporate Insurance,Shirvan
+528,PT-100527,Female,35-50,Public/State Insurance,Mingachevir
+529,PT-100528,Male,51-65,Public/State Insurance,Mingachevir
+530,PT-100529,Female,51-65,Self-Pay,Baku
+531,PT-100530,Female,18-34,Self-Pay,Mingachevir
+532,PT-100531,Male,51-65,Private Insurance,Mingachevir
+533,PT-100532,Female,35-50,Private Insurance,Nakhchivan
+534,PT-100533,Female,51-65,Public/State Insurance,Baku
+535,PT-100534,Female,35-50,Private Insurance,Baku
+536,PT-100535,Female,35-50,Private Insurance,Baku
+537,PT-100536,Female,66+,Private Insurance,Baku
+538,PT-100537,Male,18-34,Public/State Insurance,Ganja
+539,PT-100538,Female,51-65,Private Insurance,Lankaran
+540,PT-100539,Male,35-50,Private Insurance,Baku
+541,PT-100540,Male,35-50,Private Insurance,Nakhchivan
+542,PT-100541,Female,18-34,Self-Pay,Baku
+543,PT-100542,Female,35-50,Self-Pay,Baku
+544,PT-100543,Female,18-34,Public/State Insurance,Baku
+545,PT-100544,Male,0-17,Public/State Insurance,Baku
+546,PT-100545,Female,18-34,Corporate Insurance,Lankaran
+547,PT-100546,Male,0-17,Private Insurance,Baku
+548,PT-100547,Female,66+,Private Insurance,Sumgait
+549,PT-100548,Male,66+,Private Insurance,Ganja
+550,PT-100549,Female,35-50,Private Insurance,Lankaran
+551,PT-100550,Female,51-65,Public/State Insurance,Baku
+552,PT-100551,Male,18-34,Corporate Insurance,Baku
+553,PT-100552,Male,51-65,Public/State Insurance,Baku
+554,PT-100553,Female,51-65,Public/State Insurance,Baku
+555,PT-100554,Male,66+,Corporate Insurance,Baku
+556,PT-100555,Female,35-50,Private Insurance,Nakhchivan
+557,PT-100556,Male,51-65,Private Insurance,Sumgait
+558,PT-100557,Male,18-34,Public/State Insurance,Sumgait
+559,PT-100558,Female,66+,Public/State Insurance,Ganja
+560,PT-100559,Female,0-17,Private Insurance,Baku
+561,PT-100560,Female,35-50,Public/State Insurance,Baku
+562,PT-100561,Male,51-65,Public/State Insurance,Sheki
+563,PT-100562,Male,51-65,Public/State Insurance,Nakhchivan
+564,PT-100563,Female,18-34,Public/State Insurance,Lankaran
+565,PT-100564,Female,66+,Private Insurance,Nakhchivan
+566,PT-100565,Male,18-34,Private Insurance,Baku
+567,PT-100566,Male,51-65,Public/State Insurance,Baku
+568,PT-100567,Male,18-34,Private Insurance,Baku
+569,PT-100568,Female,18-34,Corporate Insurance,Baku
+570,PT-100569,Female,35-50,Public/State Insurance,Baku
+571,PT-100570,Female,35-50,Private Insurance,Ganja
+572,PT-100571,Male,18-34,Self-Pay,Mingachevir
+573,PT-100572,Female,18-34,Public/State Insurance,Nakhchivan
+574,PT-100573,Male,35-50,Private Insurance,Mingachevir
+575,PT-100574,Female,51-65,Self-Pay,Lankaran
+576,PT-100575,Male,66+,Self-Pay,Baku
+577,PT-100576,Male,0-17,Public/State Insurance,Baku
+578,PT-100577,Male,35-50,Private Insurance,Sumgait
+579,PT-100578,Female,0-17,Public/State Insurance,Baku
+580,PT-100579,Female,0-17,Self-Pay,Baku
+581,PT-100580,Female,51-65,Private Insurance,Baku
+582,PT-100581,Male,35-50,Private Insurance,Baku
+583,PT-100582,Male,18-34,Self-Pay,Ganja
+584,PT-100583,Male,18-34,Private Insurance,Baku
+585,PT-100584,Male,0-17,Self-Pay,Ganja
+586,PT-100585,Male,51-65,Public/State Insurance,Mingachevir
+587,PT-100586,Female,66+,Public/State Insurance,Baku
+588,PT-100587,Male,18-34,Private Insurance,Baku
+589,PT-100588,Female,18-34,Self-Pay,Baku
+590,PT-100589,Female,66+,Public/State Insurance,Baku
+591,PT-100590,Female,66+,Public/State Insurance,Mingachevir
+592,PT-100591,Female,35-50,Public/State Insurance,Shirvan
+593,PT-100592,Female,0-17,Public/State Insurance,Sumgait
+594,PT-100593,Male,0-17,Corporate Insurance,Baku
+595,PT-100594,Female,35-50,Public/State Insurance,Sumgait
+596,PT-100595,Male,35-50,Public/State Insurance,Sumgait
+597,PT-100596,Female,0-17,Corporate Insurance,Ganja
+598,PT-100597,Female,35-50,Public/State Insurance,Ganja
+599,PT-100598,Female,0-17,Private Insurance,Ganja
+600,PT-100599,Female,51-65,Private Insurance,Ganja
+601,PT-100600,Male,18-34,Self-Pay,Mingachevir
+602,PT-100601,Female,0-17,Public/State Insurance,Baku
+603,PT-100602,Male,35-50,Public/State Insurance,Mingachevir
+604,PT-100603,Female,35-50,Public/State Insurance,Baku
+605,PT-100604,Male,66+,Private Insurance,Baku
+606,PT-100605,Male,35-50,Public/State Insurance,Sheki
+607,PT-100606,Male,18-34,Private Insurance,Sheki
+608,PT-100607,Female,51-65,Public/State Insurance,Baku
+609,PT-100608,Female,18-34,Public/State Insurance,Baku
+610,PT-100609,Female,66+,Public/State Insurance,Baku
+611,PT-100610,Male,35-50,Public/State Insurance,Ganja
+612,PT-100611,Female,35-50,Self-Pay,Nakhchivan
+613,PT-100612,Female,0-17,Self-Pay,Sheki
+614,PT-100613,Male,35-50,Private Insurance,Sumgait
+615,PT-100614,Female,51-65,Private Insurance,Baku
+616,PT-100615,Male,51-65,Public/State Insurance,Sumgait
+617,PT-100616,Female,18-34,Corporate Insurance,Baku
+618,PT-100617,Female,18-34,Self-Pay,Lankaran
+619,PT-100618,Male,51-65,Self-Pay,Nakhchivan
+620,PT-100619,Female,66+,Private Insurance,Ganja
+621,PT-100620,Male,0-17,Public/State Insurance,Baku
+622,PT-100621,Female,35-50,Public/State Insurance,Baku
+623,PT-100622,Female,18-34,Private Insurance,Baku
+624,PT-100623,Male,66+,Private Insurance,Shirvan
+625,PT-100624,Male,0-17,Corporate Insurance,Ganja
+626,PT-100625,Male,18-34,Private Insurance,Baku
+627,PT-100626,Female,51-65,Private Insurance,Ganja
+628,PT-100627,Male,0-17,Private Insurance,Shirvan
+629,PT-100628,Female,35-50,Corporate Insurance,Baku
+630,PT-100629,Female,35-50,Public/State Insurance,Nakhchivan
+631,PT-100630,Male,18-34,Public/State Insurance,Lankaran
+632,PT-100631,Female,35-50,Corporate Insurance,Lankaran
+633,PT-100632,Male,35-50,Private Insurance,Baku
+634,PT-100633,Female,18-34,Public/State Insurance,Baku
+635,PT-100634,Female,35-50,Private Insurance,Baku
+636,PT-100635,Male,51-65,Private Insurance,Baku
+637,PT-100636,Male,51-65,Self-Pay,Baku
+638,PT-100637,Male,18-34,Self-Pay,Sumgait
+639,PT-100638,Male,18-34,Public/State Insurance,Ganja
+640,PT-100639,Male,18-34,Public/State Insurance,Nakhchivan
+641,PT-100640,Male,35-50,Public/State Insurance,Baku
+642,PT-100641,Male,35-50,Private Insurance,Sumgait
+643,PT-100642,Female,51-65,Private Insurance,Shirvan
+644,PT-100643,Female,0-17,Private Insurance,Shirvan
+645,PT-100644,Female,0-17,Private Insurance,Nakhchivan
+646,PT-100645,Male,35-50,Self-Pay,Mingachevir
+647,PT-100646,Male,51-65,Private Insurance,Lankaran
+648,PT-100647,Female,18-34,Private Insurance,Baku
+649,PT-100648,Male,51-65,Public/State Insurance,Ganja
+650,PT-100649,Male,18-34,Self-Pay,Baku
+651,PT-100650,Female,66+,Private Insurance,Baku
+652,PT-100651,Male,66+,Private Insurance,Baku
+653,PT-100652,Male,18-34,Public/State Insurance,Baku
+654,PT-100653,Female,18-34,Public/State Insurance,Baku
+655,PT-100654,Male,35-50,Public/State Insurance,Baku
+656,PT-100655,Female,18-34,Self-Pay,Baku
+657,PT-100656,Male,51-65,Corporate Insurance,Lankaran
+658,PT-100657,Male,51-65,Self-Pay,Baku
+659,PT-100658,Male,51-65,Public/State Insurance,Mingachevir
+660,PT-100659,Female,51-65,Public/State Insurance,Baku
+661,PT-100660,Male,35-50,Private Insurance,Lankaran
+662,PT-100661,Male,18-34,Corporate Insurance,Lankaran
+663,PT-100662,Female,51-65,Public/State Insurance,Sumgait
+664,PT-100663,Male,35-50,Private Insurance,Mingachevir
+665,PT-100664,Female,51-65,Public/State Insurance,Baku
+666,PT-100665,Male,18-34,Private Insurance,Sheki
+667,PT-100666,Female,0-17,Public/State Insurance,Nakhchivan
+668,PT-100667,Female,66+,Public/State Insurance,Lankaran
+669,PT-100668,Female,18-34,Public/State Insurance,Sumgait
+670,PT-100669,Male,66+,Self-Pay,Baku
+671,PT-100670,Female,66+,Private Insurance,Lankaran
+672,PT-100671,Male,51-65,Public/State Insurance,Baku
+673,PT-100672,Female,51-65,Public/State Insurance,Ganja
+674,PT-100673,Female,35-50,Public/State Insurance,Baku
+675,PT-100674,Male,66+,Self-Pay,Lankaran
+676,PT-100675,Male,18-34,Public/State Insurance,Baku
+677,PT-100676,Female,35-50,Public/State Insurance,Baku
+678,PT-100677,Male,35-50,Private Insurance,Ganja
+679,PT-100678,Male,35-50,Corporate Insurance,Shirvan
+680,PT-100679,Male,35-50,Public/State Insurance,Sumgait
+681,PT-100680,Female,18-34,Public/State Insurance,Baku
+682,PT-100681,Female,35-50,Private Insurance,Baku
+683,PT-100682,Male,51-65,Private Insurance,Shirvan
+684,PT-100683,Female,18-34,Public/State Insurance,Sheki
+685,PT-100684,Male,66+,Self-Pay,Shirvan
+686,PT-100685,Male,51-65,Public/State Insurance,Ganja
+687,PT-100686,Male,51-65,Corporate Insurance,Lankaran
+688,PT-100687,Male,35-50,Public/State Insurance,Baku
+689,PT-100688,Male,51-65,Public/State Insurance,Ganja
+690,PT-100689,Female,0-17,Private Insurance,Ganja
+691,PT-100690,Male,51-65,Self-Pay,Baku
+692,PT-100691,Female,0-17,Private Insurance,Shirvan
+693,PT-100692,Female,66+,Self-Pay,Ganja
+694,PT-100693,Male,66+,Corporate Insurance,Baku
+695,PT-100694,Male,18-34,Corporate Insurance,Baku
+696,PT-100695,Male,18-34,Public/State Insurance,Baku
+697,PT-100696,Male,51-65,Public/State Insurance,Sumgait
+698,PT-100697,Female,18-34,Self-Pay,Baku
+699,PT-100698,Female,66+,Private Insurance,Baku
+700,PT-100699,Male,0-17,Public/State Insurance,Sumgait
+701,PT-100700,Female,18-34,Private Insurance,Mingachevir
+702,PT-100701,Female,66+,Public/State Insurance,Shirvan
+703,PT-100702,Female,51-65,Private Insurance,Ganja
+704,PT-100703,Female,51-65,Private Insurance,Lankaran
+705,PT-100704,Female,18-34,Public/State Insurance,Lankaran
+706,PT-100705,Female,51-65,Public/State Insurance,Shirvan
+707,PT-100706,Female,35-50,Public/State Insurance,Sumgait
+708,PT-100707,Female,35-50,Private Insurance,Baku
+709,PT-100708,Male,51-65,Public/State Insurance,Sheki
+710,PT-100709,Female,35-50,Private Insurance,Baku
+711,PT-100710,Female,35-50,Public/State Insurance,Baku
+712,PT-100711,Male,18-34,Public/State Insurance,Baku
+713,PT-100712,Female,51-65,Public/State Insurance,Baku
+714,PT-100713,Male,18-34,Public/State Insurance,Sheki
+715,PT-100714,Male,51-65,Private Insurance,Sumgait
+716,PT-100715,Female,18-34,Self-Pay,Ganja
+717,PT-100716,Female,51-65,Public/State Insurance,Sumgait
+718,PT-100717,Male,51-65,Public/State Insurance,Ganja
+719,PT-100718,Male,18-34,Public/State Insurance,Baku
+720,PT-100719,Female,0-17,Private Insurance,Sumgait
+721,PT-100720,Male,18-34,Public/State Insurance,Mingachevir
+722,PT-100721,Female,35-50,Public/State Insurance,Baku
+723,PT-100722,Male,51-65,Private Insurance,Shirvan
+724,PT-100723,Female,0-17,Private Insurance,Baku
+725,PT-100724,Male,51-65,Private Insurance,Baku
+726,PT-100725,Male,18-34,Corporate Insurance,Baku
+727,PT-100726,Male,35-50,Public/State Insurance,Baku
+728,PT-100727,Female,66+,Private Insurance,Nakhchivan
+729,PT-100728,Female,18-34,Public/State Insurance,Nakhchivan
+730,PT-100729,Female,35-50,Public/State Insurance,Baku
+731,PT-100730,Female,0-17,Self-Pay,Sumgait
+732,PT-100731,Female,0-17,Private Insurance,Mingachevir
+733,PT-100732,Male,18-34,Private Insurance,Baku
+734,PT-100733,Female,0-17,Self-Pay,Baku
+735,PT-100734,Female,51-65,Private Insurance,Sheki
+736,PT-100735,Male,35-50,Private Insurance,Sumgait
+737,PT-100736,Male,35-50,Corporate Insurance,Sheki
+738,PT-100737,Male,18-34,Public/State Insurance,Baku
+739,PT-100738,Male,18-34,Private Insurance,Mingachevir
+740,PT-100739,Female,51-65,Private Insurance,Baku
+741,PT-100740,Female,66+,Private Insurance,Baku
+742,PT-100741,Male,0-17,Private Insurance,Ganja
+743,PT-100742,Male,66+,Self-Pay,Baku
+744,PT-100743,Female,35-50,Public/State Insurance,Baku
+745,PT-100744,Male,35-50,Public/State Insurance,Baku
+746,PT-100745,Female,35-50,Corporate Insurance,Baku
+747,PT-100746,Female,0-17,Public/State Insurance,Mingachevir
+748,PT-100747,Male,0-17,Private Insurance,Ganja
+749,PT-100748,Male,35-50,Public/State Insurance,Baku
+750,PT-100749,Male,18-34,Corporate Insurance,Baku
+751,PT-100750,Female,66+,Self-Pay,Baku
+752,PT-100751,Male,35-50,Private Insurance,Sumgait
+753,PT-100752,Female,18-34,Public/State Insurance,Baku
+754,PT-100753,Female,51-65,Public/State Insurance,Shirvan
+755,PT-100754,Male,18-34,Corporate Insurance,Baku
+756,PT-100755,Male,35-50,Private Insurance,Baku
+757,PT-100756,Male,51-65,Public/State Insurance,Lankaran
+758,PT-100757,Male,66+,Self-Pay,Mingachevir
+759,PT-100758,Male,51-65,Public/State Insurance,Baku
+760,PT-100759,Male,51-65,Public/State Insurance,Nakhchivan
+761,PT-100760,Female,51-65,Private Insurance,Ganja
+762,PT-100761,Female,66+,Private Insurance,Nakhchivan
+763,PT-100762,Female,18-34,Private Insurance,Sumgait
+764,PT-100763,Female,0-17,Corporate Insurance,Mingachevir
+765,PT-100764,Male,18-34,Private Insurance,Sheki
+766,PT-100765,Female,18-34,Public/State Insurance,Baku
+767,PT-100766,Female,51-65,Public/State Insurance,Sumgait
+768,PT-100767,Female,51-65,Private Insurance,Ganja
+769,PT-100768,Male,35-50,Public/State Insurance,Baku
+770,PT-100769,Female,0-17,Public/State Insurance,Baku
+771,PT-100770,Male,51-65,Self-Pay,Baku
+772,PT-100771,Female,18-34,Public/State Insurance,Sumgait
+773,PT-100772,Female,51-65,Public/State Insurance,Ganja
+774,PT-100773,Male,35-50,Private Insurance,Ganja
+775,PT-100774,Male,18-34,Corporate Insurance,Baku
+776,PT-100775,Female,18-34,Private Insurance,Ganja
+777,PT-100776,Male,0-17,Self-Pay,Lankaran
+778,PT-100777,Male,51-65,Private Insurance,Baku
+779,PT-100778,Female,66+,Corporate Insurance,Sumgait
+780,PT-100779,Male,51-65,Public/State Insurance,Shirvan
+781,PT-100780,Male,0-17,Self-Pay,Shirvan
+782,PT-100781,Male,35-50,Private Insurance,Ganja
+783,PT-100782,Male,51-65,Public/State Insurance,Nakhchivan
+784,PT-100783,Male,51-65,Public/State Insurance,Baku
+785,PT-100784,Male,0-17,Self-Pay,Nakhchivan
+786,PT-100785,Male,0-17,Private Insurance,Baku
+787,PT-100786,Male,51-65,Corporate Insurance,Baku
+788,PT-100787,Male,18-34,Self-Pay,Baku
+789,PT-100788,Male,18-34,Private Insurance,Shirvan
+790,PT-100789,Male,0-17,Self-Pay,Baku
+791,PT-100790,Female,35-50,Public/State Insurance,Baku
+792,PT-100791,Male,51-65,Public/State Insurance,Baku
+793,PT-100792,Male,66+,Private Insurance,Lankaran
+794,PT-100793,Female,35-50,Public/State Insurance,Nakhchivan
+795,PT-100794,Male,35-50,Public/State Insurance,Ganja
+796,PT-100795,Female,0-17,Public/State Insurance,Sumgait
+797,PT-100796,Female,35-50,Public/State Insurance,Ganja
+798,PT-100797,Male,35-50,Public/State Insurance,Baku
+799,PT-100798,Female,35-50,Public/State Insurance,Lankaran
+800,PT-100799,Male,35-50,Private Insurance,Baku
+801,PT-100800,Male,18-34,Self-Pay,Baku
+802,PT-100801,Female,0-17,Public/State Insurance,Baku
+803,PT-100802,Female,18-34,Private Insurance,Ganja
+804,PT-100803,Female,0-17,Private Insurance,Ganja
+805,PT-100804,Male,18-34,Public/State Insurance,Ganja
+806,PT-100805,Male,66+,Self-Pay,Baku
+807,PT-100806,Male,35-50,Public/State Insurance,Ganja
+808,PT-100807,Female,35-50,Public/State Insurance,Baku
+809,PT-100808,Male,66+,Private Insurance,Baku
+810,PT-100809,Male,66+,Public/State Insurance,Baku
+811,PT-100810,Male,35-50,Corporate Insurance,Shirvan
+812,PT-100811,Female,51-65,Self-Pay,Baku
+813,PT-100812,Male,18-34,Private Insurance,Sumgait
+814,PT-100813,Male,18-34,Public/State Insurance,Mingachevir
+815,PT-100814,Male,35-50,Private Insurance,Mingachevir
+816,PT-100815,Female,51-65,Public/State Insurance,Ganja
+817,PT-100816,Male,51-65,Self-Pay,Baku
+818,PT-100817,Male,18-34,Self-Pay,Baku
+819,PT-100818,Female,18-34,Private Insurance,Sumgait
+820,PT-100819,Male,51-65,Corporate Insurance,Ganja
+821,PT-100820,Male,18-34,Public/State Insurance,Nakhchivan
+822,PT-100821,Female,35-50,Public/State Insurance,Nakhchivan
+823,PT-100822,Female,51-65,Public/State Insurance,Baku
+824,PT-100823,Male,51-65,Public/State Insurance,Baku
+825,PT-100824,Female,51-65,Public/State Insurance,Sumgait
+826,PT-100825,Male,66+,Public/State Insurance,Baku
+827,PT-100826,Female,35-50,Public/State Insurance,Baku
+828,PT-100827,Male,51-65,Private Insurance,Nakhchivan
+829,PT-100828,Female,35-50,Self-Pay,Baku
+830,PT-100829,Male,18-34,Public/State Insurance,Lankaran
+831,PT-100830,Male,0-17,Private Insurance,Mingachevir
+832,PT-100831,Male,18-34,Self-Pay,Shirvan
+833,PT-100832,Male,35-50,Corporate Insurance,Baku
+834,PT-100833,Female,35-50,Corporate Insurance,Baku
+835,PT-100834,Male,51-65,Public/State Insurance,Ganja
+836,PT-100835,Female,18-34,Private Insurance,Baku
+837,PT-100836,Female,18-34,Public/State Insurance,Baku
+838,PT-100837,Female,66+,Private Insurance,Baku
+839,PT-100838,Female,0-17,Corporate Insurance,Baku
+840,PT-100839,Male,35-50,Private Insurance,Baku
+841,PT-100840,Male,35-50,Private Insurance,Shirvan
+842,PT-100841,Female,35-50,Public/State Insurance,Baku
+843,PT-100842,Female,0-17,Public/State Insurance,Baku
+844,PT-100843,Male,0-17,Self-Pay,Sumgait
+845,PT-100844,Female,0-17,Public/State Insurance,Sheki
+846,PT-100845,Female,35-50,Private Insurance,Baku
+847,PT-100846,Female,35-50,Private Insurance,Baku
+848,PT-100847,Male,18-34,Public/State Insurance,Sumgait
+849,PT-100848,Male,51-65,Private Insurance,Lankaran
+850,PT-100849,Female,51-65,Public/State Insurance,Shirvan
+851,PT-100850,Female,0-17,Public/State Insurance,Sumgait
+852,PT-100851,Male,35-50,Public/State Insurance,Baku
+853,PT-100852,Male,51-65,Corporate Insurance,Ganja
+854,PT-100853,Female,18-34,Corporate Insurance,Baku
+855,PT-100854,Male,18-34,Corporate Insurance,Mingachevir
+856,PT-100855,Female,35-50,Private Insurance,Mingachevir
+857,PT-100856,Female,66+,Private Insurance,Sheki
+858,PT-100857,Male,51-65,Private Insurance,Baku
+859,PT-100858,Female,35-50,Self-Pay,Baku
+860,PT-100859,Male,51-65,Corporate Insurance,Ganja
+861,PT-100860,Female,35-50,Self-Pay,Mingachevir
+862,PT-100861,Female,51-65,Private Insurance,Shirvan
+863,PT-100862,Male,35-50,Corporate Insurance,Baku
+864,PT-100863,Female,18-34,Public/State Insurance,Baku
+865,PT-100864,Male,51-65,Private Insurance,Ganja
+866,PT-100865,Female,35-50,Public/State Insurance,Baku
+867,PT-100866,Female,18-34,Private Insurance,Nakhchivan
+868,PT-100867,Female,66+,Public/State Insurance,Ganja
+869,PT-100868,Male,0-17,Private Insurance,Shirvan
+870,PT-100869,Female,18-34,Public/State Insurance,Sumgait
+871,PT-100870,Male,0-17,Public/State Insurance,Shirvan
+872,PT-100871,Female,51-65,Self-Pay,Baku
+873,PT-100872,Male,51-65,Public/State Insurance,Nakhchivan
+874,PT-100873,Female,18-34,Public/State Insurance,Baku
+875,PT-100874,Male,51-65,Self-Pay,Ganja
+876,PT-100875,Male,35-50,Corporate Insurance,Baku
+877,PT-100876,Male,51-65,Private Insurance,Ganja
+878,PT-100877,Male,35-50,Public/State Insurance,Baku
+879,PT-100878,Male,35-50,Private Insurance,Baku
+880,PT-100879,Male,66+,Private Insurance,Sheki
+881,PT-100880,Female,18-34,Public/State Insurance,Baku
+882,PT-100881,Female,18-34,Self-Pay,Shirvan
+883,PT-100882,Male,35-50,Private Insurance,Sheki
+884,PT-100883,Male,66+,Self-Pay,Baku
+885,PT-100884,Male,35-50,Self-Pay,Mingachevir
+886,PT-100885,Female,0-17,Corporate Insurance,Baku
+887,PT-100886,Female,18-34,Private Insurance,Baku
+888,PT-100887,Female,35-50,Corporate Insurance,Baku
+889,PT-100888,Male,18-34,Private Insurance,Lankaran
+890,PT-100889,Female,51-65,Public/State Insurance,Baku
+891,PT-100890,Female,66+,Private Insurance,Sumgait
+892,PT-100891,Female,35-50,Private Insurance,Ganja
+893,PT-100892,Female,18-34,Public/State Insurance,Nakhchivan
+894,PT-100893,Male,35-50,Public/State Insurance,Baku
+895,PT-100894,Female,0-17,Private Insurance,Mingachevir
+896,PT-100895,Male,66+,Private Insurance,Mingachevir
+897,PT-100896,Female,35-50,Public/State Insurance,Sumgait
+898,PT-100897,Female,35-50,Private Insurance,Lankaran
+899,PT-100898,Female,51-65,Self-Pay,Nakhchivan
+900,PT-100899,Female,35-50,Private Insurance,Baku
+901,PT-100900,Female,51-65,Private Insurance,Ganja
+902,PT-100901,Female,0-17,Public/State Insurance,Baku
+903,PT-100902,Male,51-65,Public/State Insurance,Baku
+904,PT-100903,Female,66+,Public/State Insurance,Ganja
+905,PT-100904,Male,51-65,Private Insurance,Baku
+906,PT-100905,Male,66+,Corporate Insurance,Baku
+907,PT-100906,Male,18-34,Public/State Insurance,Sheki
+908,PT-100907,Female,35-50,Private Insurance,Baku
+909,PT-100908,Female,35-50,Public/State Insurance,Lankaran
+910,PT-100909,Female,35-50,Self-Pay,Ganja
+911,PT-100910,Female,35-50,Private Insurance,Sumgait
+912,PT-100911,Male,18-34,Private Insurance,Nakhchivan
+913,PT-100912,Female,18-34,Self-Pay,Baku
+914,PT-100913,Female,35-50,Public/State Insurance,Baku
+915,PT-100914,Male,18-34,Public/State Insurance,Baku
+916,PT-100915,Male,51-65,Private Insurance,Baku
+917,PT-100916,Male,18-34,Private Insurance,Lankaran
+918,PT-100917,Female,0-17,Public/State Insurance,Nakhchivan
+919,PT-100918,Female,35-50,Private Insurance,Baku
+920,PT-100919,Female,35-50,Public/State Insurance,Baku
+921,PT-100920,Female,66+,Public/State Insurance,Baku
+922,PT-100921,Female,35-50,Private Insurance,Baku
+923,PT-100922,Female,18-34,Corporate Insurance,Sumgait
+924,PT-100923,Female,51-65,Self-Pay,Baku
+925,PT-100924,Female,35-50,Public/State Insurance,Ganja
+926,PT-100925,Female,0-17,Private Insurance,Baku
+927,PT-100926,Male,35-50,Private Insurance,Baku
+928,PT-100927,Male,66+,Public/State Insurance,Mingachevir
+929,PT-100928,Male,35-50,Private Insurance,Ganja
+930,PT-100929,Female,18-34,Corporate Insurance,Sheki
+931,PT-100930,Female,18-34,Private Insurance,Nakhchivan
+932,PT-100931,Female,18-34,Public/State Insurance,Baku
+933,PT-100932,Male,35-50,Public/State Insurance,Baku
+934,PT-100933,Male,35-50,Public/State Insurance,Nakhchivan
+935,PT-100934,Female,0-17,Private Insurance,Lankaran
+936,PT-100935,Male,66+,Public/State Insurance,Nakhchivan
+937,PT-100936,Female,51-65,Private Insurance,Baku
+938,PT-100937,Male,35-50,Self-Pay,Sheki
+939,PT-100938,Male,51-65,Private Insurance,Baku
+940,PT-100939,Male,0-17,Corporate Insurance,Mingachevir
+941,PT-100940,Male,35-50,Self-Pay,Lankaran
+942,PT-100941,Male,51-65,Private Insurance,Baku
+943,PT-100942,Female,51-65,Self-Pay,Lankaran
+944,PT-100943,Male,51-65,Private Insurance,Baku
+945,PT-100944,Female,18-34,Corporate Insurance,Sheki
+946,PT-100945,Male,66+,Public/State Insurance,Baku
+947,PT-100946,Male,18-34,Private Insurance,Sheki
+948,PT-100947,Male,66+,Public/State Insurance,Baku
+949,PT-100948,Female,66+,Private Insurance,Mingachevir
+950,PT-100949,Male,18-34,Corporate Insurance,Ganja
+951,PT-100950,Male,51-65,Private Insurance,Ganja
+952,PT-100951,Male,0-17,Public/State Insurance,Baku
+953,PT-100952,Female,35-50,Public/State Insurance,Mingachevir
+954,PT-100953,Female,35-50,Corporate Insurance,Baku
+955,PT-100954,Female,35-50,Private Insurance,Ganja
+956,PT-100955,Female,66+,Public/State Insurance,Baku
+957,PT-100956,Male,51-65,Public/State Insurance,Sheki
+958,PT-100957,Female,35-50,Public/State Insurance,Baku
+959,PT-100958,Male,51-65,Private Insurance,Baku
+960,PT-100959,Female,66+,Private Insurance,Baku
+961,PT-100960,Female,0-17,Private Insurance,Baku
+962,PT-100961,Male,66+,Public/State Insurance,Baku
+963,PT-100962,Male,0-17,Private Insurance,Ganja
+964,PT-100963,Female,51-65,Public/State Insurance,Nakhchivan
+965,PT-100964,Male,18-34,Private Insurance,Mingachevir
+966,PT-100965,Male,18-34,Self-Pay,Sumgait
+967,PT-100966,Female,35-50,Corporate Insurance,Baku
+968,PT-100967,Male,51-65,Public/State Insurance,Mingachevir
+969,PT-100968,Male,35-50,Public/State Insurance,Baku
+970,PT-100969,Male,0-17,Private Insurance,Shirvan
+971,PT-100970,Female,35-50,Private Insurance,Baku
+972,PT-100971,Male,66+,Private Insurance,Baku
+973,PT-100972,Female,35-50,Public/State Insurance,Baku
+974,PT-100973,Female,18-34,Public/State Insurance,Nakhchivan
+975,PT-100974,Female,35-50,Corporate Insurance,Baku
+976,PT-100975,Female,0-17,Public/State Insurance,Ganja
+977,PT-100976,Male,51-65,Public/State Insurance,Baku
+978,PT-100977,Male,51-65,Public/State Insurance,Mingachevir
+979,PT-100978,Male,35-50,Public/State Insurance,Lankaran
+980,PT-100979,Female,18-34,Private Insurance,Baku
+981,PT-100980,Female,51-65,Public/State Insurance,Ganja
+982,PT-100981,Female,35-50,Public/State Insurance,Lankaran
+983,PT-100982,Male,51-65,Public/State Insurance,Ganja
+984,PT-100983,Female,51-65,Corporate Insurance,Ganja
+985,PT-100984,Male,51-65,Private Insurance,Sumgait
+986,PT-100985,Male,35-50,Private Insurance,Mingachevir
+987,PT-100986,Female,35-50,Public/State Insurance,Baku
+988,PT-100987,Male,66+,Public/State Insurance,Nakhchivan
+989,PT-100988,Female,35-50,Private Insurance,Baku
+990,PT-100989,Male,35-50,Self-Pay,Baku
+991,PT-100990,Male,18-34,Corporate Insurance,Shirvan
+992,PT-100991,Female,51-65,Corporate Insurance,Baku
+993,PT-100992,Female,35-50,Private Insurance,Baku
+994,PT-100993,Male,18-34,Self-Pay,Sumgait
+995,PT-100994,Male,0-17,Public/State Insurance,Nakhchivan
+996,PT-100995,Female,35-50,Public/State Insurance,Nakhchivan
+997,PT-100996,Male,51-65,Public/State Insurance,Sheki
+998,PT-100997,Male,35-50,Self-Pay,Nakhchivan
+999,PT-100998,Male,18-34,Public/State Insurance,Baku
+1000,PT-100999,Female,51-65,Public/State Insurance,Baku
+1001,PT-101000,Male,0-17,Public/State Insurance,Shirvan
+1002,PT-101001,Male,35-50,Public/State Insurance,Baku
+1003,PT-101002,Female,18-34,Private Insurance,Sumgait
+1004,PT-101003,Female,18-34,Corporate Insurance,Sumgait
+1005,PT-101004,Male,18-34,Public/State Insurance,Baku
+1006,PT-101005,Female,35-50,Public/State Insurance,Lankaran
+1007,PT-101006,Male,0-17,Private Insurance,Ganja
+1008,PT-101007,Female,35-50,Public/State Insurance,Ganja
+1009,PT-101008,Female,35-50,Private Insurance,Sheki
+1010,PT-101009,Male,35-50,Private Insurance,Ganja
+1011,PT-101010,Female,35-50,Public/State Insurance,Baku
+1012,PT-101011,Female,51-65,Public/State Insurance,Ganja
+1013,PT-101012,Female,18-34,Public/State Insurance,Shirvan
+1014,PT-101013,Male,35-50,Private Insurance,Shirvan
+1015,PT-101014,Female,0-17,Public/State Insurance,Shirvan
+1016,PT-101015,Female,0-17,Private Insurance,Mingachevir
+1017,PT-101016,Male,35-50,Corporate Insurance,Baku
+1018,PT-101017,Female,35-50,Public/State Insurance,Nakhchivan
+1019,PT-101018,Male,66+,Public/State Insurance,Lankaran
+1020,PT-101019,Female,35-50,Private Insurance,Baku
+1021,PT-101020,Male,66+,Private Insurance,Baku
+1022,PT-101021,Female,0-17,Corporate Insurance,Sheki
+1023,PT-101022,Male,0-17,Private Insurance,Nakhchivan
+1024,PT-101023,Female,0-17,Public/State Insurance,Lankaran
+1025,PT-101024,Female,18-34,Public/State Insurance,Nakhchivan
+1026,PT-101025,Female,35-50,Private Insurance,Ganja
+1027,PT-101026,Female,51-65,Self-Pay,Sumgait
+1028,PT-101027,Female,0-17,Public/State Insurance,Ganja
+1029,PT-101028,Female,66+,Private Insurance,Baku
+1030,PT-101029,Male,51-65,Private Insurance,Mingachevir
+1031,PT-101030,Female,18-34,Private Insurance,Ganja
+1032,PT-101031,Female,0-17,Self-Pay,Sumgait
+1033,PT-101032,Male,18-34,Public/State Insurance,Ganja
+1034,PT-101033,Male,18-34,Private Insurance,Ganja
+1035,PT-101034,Female,18-34,Private Insurance,Baku
+1036,PT-101035,Female,35-50,Public/State Insurance,Baku
+1037,PT-101036,Female,18-34,Public/State Insurance,Baku
+1038,PT-101037,Male,18-34,Public/State Insurance,Baku
+1039,PT-101038,Male,66+,Public/State Insurance,Sheki
+1040,PT-101039,Female,51-65,Private Insurance,Baku
+1041,PT-101040,Male,66+,Public/State Insurance,Baku
+1042,PT-101041,Male,18-34,Corporate Insurance,Sumgait
+1043,PT-101042,Male,35-50,Private Insurance,Sumgait
+1044,PT-101043,Male,35-50,Public/State Insurance,Baku
+1045,PT-101044,Female,0-17,Public/State Insurance,Shirvan
+1046,PT-101045,Female,0-17,Public/State Insurance,Shirvan
+1047,PT-101046,Female,51-65,Private Insurance,Baku
+1048,PT-101047,Female,51-65,Self-Pay,Baku
+1049,PT-101048,Male,35-50,Public/State Insurance,Lankaran
+1050,PT-101049,Male,35-50,Public/State Insurance,Nakhchivan
+1051,PT-101050,Female,35-50,Private Insurance,Mingachevir
+1052,PT-101051,Female,0-17,Private Insurance,Baku
+1053,PT-101052,Female,18-34,Private Insurance,Baku
+1054,PT-101053,Male,18-34,Public/State Insurance,Ganja
+1055,PT-101054,Female,0-17,Private Insurance,Baku
+1056,PT-101055,Female,66+,Public/State Insurance,Baku
+1057,PT-101056,Female,35-50,Public/State Insurance,Sumgait
+1058,PT-101057,Female,51-65,Public/State Insurance,Baku
+1059,PT-101058,Male,18-34,Public/State Insurance,Shirvan
+1060,PT-101059,Male,35-50,Public/State Insurance,Nakhchivan
+1061,PT-101060,Female,18-34,Private Insurance,Baku
+1062,PT-101061,Male,0-17,Private Insurance,Nakhchivan
+1063,PT-101062,Male,18-34,Public/State Insurance,Baku
+1064,PT-101063,Male,51-65,Public/State Insurance,Nakhchivan
+1065,PT-101064,Female,51-65,Private Insurance,Baku
+1066,PT-101065,Female,35-50,Public/State Insurance,Baku
+1067,PT-101066,Female,35-50,Private Insurance,Sumgait
+1068,PT-101067,Male,66+,Private Insurance,Ganja
+1069,PT-101068,Female,0-17,Private Insurance,Lankaran
+1070,PT-101069,Female,18-34,Self-Pay,Baku
+1071,PT-101070,Female,18-34,Private Insurance,Baku
+1072,PT-101071,Male,51-65,Private Insurance,Ganja
+1073,PT-101072,Female,66+,Private Insurance,Ganja
+1074,PT-101073,Male,18-34,Private Insurance,Baku
+1075,PT-101074,Male,66+,Public/State Insurance,Mingachevir
+1076,PT-101075,Female,51-65,Private Insurance,Shirvan
+1077,PT-101076,Male,18-34,Private Insurance,Nakhchivan
+1078,PT-101077,Female,35-50,Public/State Insurance,Sheki
+1079,PT-101078,Male,35-50,Private Insurance,Baku
+1080,PT-101079,Female,66+,Public/State Insurance,Mingachevir
+1081,PT-101080,Male,18-34,Public/State Insurance,Baku
+1082,PT-101081,Male,51-65,Private Insurance,Mingachevir
+1083,PT-101082,Male,18-34,Public/State Insurance,Ganja
+1084,PT-101083,Male,51-65,Private Insurance,Sheki
+1085,PT-101084,Female,35-50,Public/State Insurance,Mingachevir
+1086,PT-101085,Male,35-50,Public/State Insurance,Sheki
+1087,PT-101086,Male,51-65,Private Insurance,Nakhchivan
+1088,PT-101087,Male,51-65,Public/State Insurance,Lankaran
+1089,PT-101088,Female,66+,Self-Pay,Shirvan
+1090,PT-101089,Male,0-17,Corporate Insurance,Ganja
+1091,PT-101090,Male,51-65,Public/State Insurance,Baku
+1092,PT-101091,Male,18-34,Public/State Insurance,Baku
+1093,PT-101092,Female,35-50,Private Insurance,Baku
+1094,PT-101093,Male,35-50,Private Insurance,Ganja
+1095,PT-101094,Female,35-50,Public/State Insurance,Ganja
+1096,PT-101095,Male,35-50,Public/State Insurance,Ganja
+1097,PT-101096,Female,66+,Corporate Insurance,Sheki
+1098,PT-101097,Male,18-34,Public/State Insurance,Lankaran
+1099,PT-101098,Male,51-65,Public/State Insurance,Baku
+1100,PT-101099,Female,35-50,Public/State Insurance,Baku
+1101,PT-101100,Male,18-34,Self-Pay,Baku
+1102,PT-101101,Female,18-34,Public/State Insurance,Baku
+1103,PT-101102,Male,66+,Public/State Insurance,Shirvan
+1104,PT-101103,Male,66+,Private Insurance,Ganja
+1105,PT-101104,Male,66+,Self-Pay,Sumgait
+1106,PT-101105,Male,66+,Private Insurance,Nakhchivan
+1107,PT-101106,Male,18-34,Self-Pay,Shirvan
+1108,PT-101107,Female,18-34,Public/State Insurance,Baku
+1109,PT-101108,Female,51-65,Public/State Insurance,Mingachevir
+1110,PT-101109,Male,35-50,Public/State Insurance,Baku
+1111,PT-101110,Male,35-50,Public/State Insurance,Baku
+1112,PT-101111,Male,18-34,Private Insurance,Baku
+1113,PT-101112,Male,35-50,Self-Pay,Ganja
+1114,PT-101113,Female,35-50,Public/State Insurance,Baku
+1115,PT-101114,Male,18-34,Private Insurance,Baku
+1116,PT-101115,Female,35-50,Private Insurance,Mingachevir
+1117,PT-101116,Male,35-50,Public/State Insurance,Shirvan
+1118,PT-101117,Female,35-50,Public/State Insurance,Baku
+1119,PT-101118,Female,18-34,Public/State Insurance,Baku
+1120,PT-101119,Female,51-65,Public/State Insurance,Nakhchivan
+1121,PT-101120,Female,0-17,Public/State Insurance,Baku
+1122,PT-101121,Male,18-34,Corporate Insurance,Lankaran
+1123,PT-101122,Female,51-65,Public/State Insurance,Sumgait
+1124,PT-101123,Female,35-50,Self-Pay,Baku
+1125,PT-101124,Female,18-34,Private Insurance,Baku
+1126,PT-101125,Female,51-65,Public/State Insurance,Baku
+1127,PT-101126,Female,35-50,Private Insurance,Baku
+1128,PT-101127,Female,51-65,Public/State Insurance,Baku
+1129,PT-101128,Male,51-65,Self-Pay,Sumgait
+1130,PT-101129,Male,35-50,Private Insurance,Baku
+1131,PT-101130,Male,35-50,Private Insurance,Ganja
+1132,PT-101131,Female,18-34,Self-Pay,Sumgait
+1133,PT-101132,Female,18-34,Private Insurance,Baku
+1134,PT-101133,Male,35-50,Public/State Insurance,Baku
+1135,PT-101134,Female,35-50,Public/State Insurance,Baku
+1136,PT-101135,Female,35-50,Self-Pay,Baku
+1137,PT-101136,Female,18-34,Private Insurance,Mingachevir
+1138,PT-101137,Female,0-17,Private Insurance,Baku
+1139,PT-101138,Female,35-50,Public/State Insurance,Shirvan
+1140,PT-101139,Female,18-34,Corporate Insurance,Baku
+1141,PT-101140,Male,51-65,Public/State Insurance,Ganja
+1142,PT-101141,Male,0-17,Private Insurance,Ganja
+1143,PT-101142,Male,35-50,Public/State Insurance,Mingachevir
+1144,PT-101143,Male,66+,Corporate Insurance,Baku
+1145,PT-101144,Male,18-34,Self-Pay,Baku
+1146,PT-101145,Male,35-50,Corporate Insurance,Ganja
+1147,PT-101146,Male,0-17,Private Insurance,Baku
+1148,PT-101147,Female,51-65,Private Insurance,Baku
+1149,PT-101148,Female,35-50,Public/State Insurance,Sumgait
+1150,PT-101149,Female,35-50,Self-Pay,Ganja
+1151,PT-101150,Male,35-50,Private Insurance,Sumgait
+1152,PT-101151,Male,66+,Private Insurance,Ganja
+1153,PT-101152,Female,18-34,Self-Pay,Mingachevir
+1154,PT-101153,Male,0-17,Private Insurance,Mingachevir
+1155,PT-101154,Female,66+,Public/State Insurance,Ganja
+1156,PT-101155,Male,35-50,Public/State Insurance,Mingachevir
+1157,PT-101156,Female,66+,Public/State Insurance,Nakhchivan
+1158,PT-101157,Female,35-50,Public/State Insurance,Baku
+1159,PT-101158,Female,51-65,Public/State Insurance,Baku
+1160,PT-101159,Female,35-50,Public/State Insurance,Shirvan
+1161,PT-101160,Female,51-65,Public/State Insurance,Sumgait
+1162,PT-101161,Female,66+,Public/State Insurance,Baku
+1163,PT-101162,Male,35-50,Public/State Insurance,Lankaran
+1164,PT-101163,Male,18-34,Private Insurance,Baku
+1165,PT-101164,Female,18-34,Private Insurance,Mingachevir
+1166,PT-101165,Male,18-34,Private Insurance,Shirvan
+1167,PT-101166,Male,18-34,Private Insurance,Sheki
+1168,PT-101167,Female,18-34,Public/State Insurance,Baku
+1169,PT-101168,Female,35-50,Self-Pay,Sumgait
+1170,PT-101169,Female,35-50,Public/State Insurance,Baku
+1171,PT-101170,Female,35-50,Self-Pay,Baku
+1172,PT-101171,Male,35-50,Public/State Insurance,Baku
+1173,PT-101172,Female,0-17,Public/State Insurance,Ganja
+1174,PT-101173,Male,0-17,Public/State Insurance,Ganja
+1175,PT-101174,Male,18-34,Private Insurance,Baku
+1176,PT-101175,Female,35-50,Private Insurance,Sumgait
+1177,PT-101176,Male,18-34,Public/State Insurance,Mingachevir
+1178,PT-101177,Female,18-34,Corporate Insurance,Shirvan
+1179,PT-101178,Male,35-50,Private Insurance,Lankaran
+1180,PT-101179,Female,51-65,Private Insurance,Baku
+1181,PT-101180,Male,0-17,Self-Pay,Sheki
+1182,PT-101181,Male,51-65,Private Insurance,Nakhchivan
+1183,PT-101182,Female,51-65,Self-Pay,Baku
+1184,PT-101183,Male,51-65,Public/State Insurance,Baku
+1185,PT-101184,Male,66+,Corporate Insurance,Baku
+1186,PT-101185,Male,0-17,Public/State Insurance,Baku
+1187,PT-101186,Male,18-34,Public/State Insurance,Sumgait
+1188,PT-101187,Male,66+,Public/State Insurance,Sumgait
+1189,PT-101188,Female,35-50,Public/State Insurance,Mingachevir
+1190,PT-101189,Female,35-50,Public/State Insurance,Ganja
+1191,PT-101190,Male,51-65,Private Insurance,Baku
+1192,PT-101191,Female,51-65,Public/State Insurance,Nakhchivan
+1193,PT-101192,Male,66+,Public/State Insurance,Baku
+1194,PT-101193,Male,66+,Self-Pay,Sheki
+1195,PT-101194,Female,51-65,Public/State Insurance,Baku
+1196,PT-101195,Female,18-34,Public/State Insurance,Sheki
+1197,PT-101196,Male,66+,Private Insurance,Baku
+1198,PT-101197,Female,0-17,Public/State Insurance,Baku
+1199,PT-101198,Male,18-34,Public/State Insurance,Baku
+1200,PT-101199,Female,66+,Self-Pay,Mingachevir
+1201,PT-101200,Male,18-34,Corporate Insurance,Nakhchivan
+1202,PT-101201,Female,18-34,Private Insurance,Baku
+1203,PT-101202,Male,18-34,Self-Pay,Lankaran
+1204,PT-101203,Female,51-65,Private Insurance,Sumgait
+1205,PT-101204,Male,35-50,Public/State Insurance,Sumgait
+1206,PT-101205,Female,51-65,Public/State Insurance,Nakhchivan
+1207,PT-101206,Male,18-34,Private Insurance,Baku
+1208,PT-101207,Male,51-65,Public/State Insurance,Baku
+1209,PT-101208,Female,51-65,Private Insurance,Lankaran
+1210,PT-101209,Female,18-34,Private Insurance,Lankaran
+1211,PT-101210,Female,35-50,Public/State Insurance,Sheki
+1212,PT-101211,Male,18-34,Public/State Insurance,Lankaran
+1213,PT-101212,Male,66+,Corporate Insurance,Baku
+1214,PT-101213,Male,51-65,Public/State Insurance,Nakhchivan
+1215,PT-101214,Female,66+,Public/State Insurance,Baku
+1216,PT-101215,Female,18-34,Public/State Insurance,Sheki
+1217,PT-101216,Male,51-65,Private Insurance,Ganja
+1218,PT-101217,Female,51-65,Private Insurance,Ganja
+1219,PT-101218,Male,51-65,Public/State Insurance,Ganja
+1220,PT-101219,Female,66+,Public/State Insurance,Baku
+1221,PT-101220,Male,35-50,Public/State Insurance,Baku
+1222,PT-101221,Female,18-34,Public/State Insurance,Lankaran
+1223,PT-101222,Female,51-65,Public/State Insurance,Shirvan
+1224,PT-101223,Male,51-65,Private Insurance,Baku
+1225,PT-101224,Male,35-50,Private Insurance,Shirvan
+1226,PT-101225,Male,18-34,Self-Pay,Sumgait
+1227,PT-101226,Female,35-50,Public/State Insurance,Baku
+1228,PT-101227,Female,18-34,Self-Pay,Baku
+1229,PT-101228,Male,35-50,Private Insurance,Nakhchivan
+1230,PT-101229,Male,51-65,Corporate Insurance,Mingachevir
+1231,PT-101230,Female,51-65,Private Insurance,Ganja
+1232,PT-101231,Female,18-34,Private Insurance,Sumgait
+1233,PT-101232,Female,35-50,Corporate Insurance,Baku
+1234,PT-101233,Male,18-34,Private Insurance,Ganja
+1235,PT-101234,Female,18-34,Public/State Insurance,Baku
+1236,PT-101235,Female,51-65,Private Insurance,Baku
+1237,PT-101236,Female,66+,Public/State Insurance,Sumgait
+1238,PT-101237,Female,35-50,Corporate Insurance,Lankaran
+1239,PT-101238,Female,51-65,Private Insurance,Baku
+1240,PT-101239,Female,66+,Public/State Insurance,Baku
+1241,PT-101240,Female,51-65,Private Insurance,Sumgait
+1242,PT-101241,Male,18-34,Public/State Insurance,Nakhchivan
+1243,PT-101242,Female,66+,Private Insurance,Mingachevir
+1244,PT-101243,Male,35-50,Private Insurance,Nakhchivan
+1245,PT-101244,Male,18-34,Private Insurance,Ganja
+1246,PT-101245,Male,0-17,Private Insurance,Shirvan
+1247,PT-101246,Male,35-50,Corporate Insurance,Baku
+1248,PT-101247,Female,0-17,Public/State Insurance,Baku
+1249,PT-101248,Female,18-34,Private Insurance,Baku
+1250,PT-101249,Male,18-34,Public/State Insurance,Ganja
+1251,PT-101250,Male,51-65,Private Insurance,Lankaran
+1252,PT-101251,Male,66+,Public/State Insurance,Nakhchivan
+1253,PT-101252,Male,18-34,Corporate Insurance,Baku
+1254,PT-101253,Male,51-65,Public/State Insurance,Baku
+1255,PT-101254,Female,51-65,Self-Pay,Baku
+1256,PT-101255,Female,51-65,Public/State Insurance,Baku
+1257,PT-101256,Male,18-34,Private Insurance,Sumgait
+1258,PT-101257,Male,51-65,Public/State Insurance,Lankaran
+1259,PT-101258,Female,66+,Public/State Insurance,Sheki
+1260,PT-101259,Male,51-65,Public/State Insurance,Sumgait
+1261,PT-101260,Female,18-34,Self-Pay,Nakhchivan
+1262,PT-101261,Male,35-50,Public/State Insurance,Ganja
+1263,PT-101262,Female,51-65,Corporate Insurance,Baku
+1264,PT-101263,Female,35-50,Self-Pay,Ganja
+1265,PT-101264,Male,0-17,Public/State Insurance,Ganja
+1266,PT-101265,Female,18-34,Public/State Insurance,Mingachevir
+1267,PT-101266,Male,51-65,Private Insurance,Baku
+1268,PT-101267,Male,66+,Corporate Insurance,Baku
+1269,PT-101268,Male,18-34,Public/State Insurance,Baku
+1270,PT-101269,Female,66+,Private Insurance,Sheki
+1271,PT-101270,Female,18-34,Private Insurance,Baku
+1272,PT-101271,Female,51-65,Public/State Insurance,Shirvan
+1273,PT-101272,Male,51-65,Private Insurance,Shirvan
+1274,PT-101273,Male,51-65,Private Insurance,Baku
+1275,PT-101274,Male,66+,Public/State Insurance,Sumgait
+1276,PT-101275,Male,18-34,Private Insurance,Lankaran
+1277,PT-101276,Male,51-65,Public/State Insurance,Ganja
+1278,PT-101277,Male,18-34,Private Insurance,Lankaran
+1279,PT-101278,Female,51-65,Private Insurance,Baku
+1280,PT-101279,Male,51-65,Public/State Insurance,Baku
+1281,PT-101280,Female,51-65,Public/State Insurance,Lankaran
+1282,PT-101281,Male,18-34,Private Insurance,Nakhchivan
+1283,PT-101282,Male,66+,Private Insurance,Sheki
+1284,PT-101283,Male,18-34,Public/State Insurance,Mingachevir
+1285,PT-101284,Female,0-17,Private Insurance,Lankaran
+1286,PT-101285,Female,51-65,Private Insurance,Nakhchivan
+1287,PT-101286,Female,35-50,Private Insurance,Nakhchivan
+1288,PT-101287,Female,51-65,Self-Pay,Ganja
+1289,PT-101288,Female,35-50,Self-Pay,Baku
+1290,PT-101289,Male,18-34,Self-Pay,Lankaran
+1291,PT-101290,Male,51-65,Public/State Insurance,Baku
+1292,PT-101291,Female,35-50,Public/State Insurance,Ganja
+1293,PT-101292,Female,18-34,Public/State Insurance,Baku
+1294,PT-101293,Female,51-65,Public/State Insurance,Ganja
+1295,PT-101294,Male,35-50,Private Insurance,Ganja
+1296,PT-101295,Female,35-50,Public/State Insurance,Baku
+1297,PT-101296,Male,35-50,Self-Pay,Nakhchivan
+1298,PT-101297,Female,51-65,Public/State Insurance,Baku
+1299,PT-101298,Male,51-65,Public/State Insurance,Sumgait
+1300,PT-101299,Male,51-65,Private Insurance,Baku
+1301,PT-101300,Female,0-17,Public/State Insurance,Baku
+1302,PT-101301,Male,51-65,Public/State Insurance,Baku
+1303,PT-101302,Female,51-65,Self-Pay,Mingachevir
+1304,PT-101303,Male,51-65,Private Insurance,Baku
+1305,PT-101304,Female,35-50,Self-Pay,Lankaran
+1306,PT-101305,Male,66+,Public/State Insurance,Baku
+1307,PT-101306,Male,51-65,Self-Pay,Baku
+1308,PT-101307,Male,0-17,Public/State Insurance,Baku
+1309,PT-101308,Male,35-50,Public/State Insurance,Baku
+1310,PT-101309,Female,66+,Public/State Insurance,Shirvan
+1311,PT-101310,Female,0-17,Public/State Insurance,Nakhchivan
+1312,PT-101311,Female,66+,Corporate Insurance,Sumgait
+1313,PT-101312,Female,51-65,Private Insurance,Baku
+1314,PT-101313,Male,51-65,Private Insurance,Baku
+1315,PT-101314,Female,18-34,Corporate Insurance,Ganja
+1316,PT-101315,Male,18-34,Public/State Insurance,Sheki
+1317,PT-101316,Male,66+,Public/State Insurance,Baku
+1318,PT-101317,Male,18-34,Public/State Insurance,Mingachevir
+1319,PT-101318,Female,51-65,Private Insurance,Baku
+1320,PT-101319,Male,35-50,Self-Pay,Baku
+1321,PT-101320,Male,18-34,Public/State Insurance,Ganja
+1322,PT-101321,Female,0-17,Private Insurance,Baku
+1323,PT-101322,Male,35-50,Private Insurance,Shirvan
+1324,PT-101323,Male,66+,Self-Pay,Baku
+1325,PT-101324,Female,35-50,Private Insurance,Mingachevir
+1326,PT-101325,Female,18-34,Self-Pay,Baku
+1327,PT-101326,Female,18-34,Private Insurance,Sheki
+1328,PT-101327,Female,35-50,Public/State Insurance,Baku
+1329,PT-101328,Female,35-50,Corporate Insurance,Nakhchivan
+1330,PT-101329,Female,66+,Public/State Insurance,Shirvan
+1331,PT-101330,Female,35-50,Public/State Insurance,Sheki
+1332,PT-101331,Female,35-50,Public/State Insurance,Ganja
+1333,PT-101332,Male,18-34,Private Insurance,Mingachevir
+1334,PT-101333,Male,66+,Private Insurance,Baku
+1335,PT-101334,Male,18-34,Corporate Insurance,Baku
+1336,PT-101335,Female,0-17,Self-Pay,Baku
+1337,PT-101336,Female,51-65,Public/State Insurance,Baku
+1338,PT-101337,Female,35-50,Public/State Insurance,Sheki
+1339,PT-101338,Female,35-50,Private Insurance,Baku
+1340,PT-101339,Female,35-50,Private Insurance,Sumgait
+1341,PT-101340,Male,51-65,Public/State Insurance,Sumgait
+1342,PT-101341,Female,18-34,Self-Pay,Ganja
+1343,PT-101342,Male,51-65,Public/State Insurance,Sumgait
+1344,PT-101343,Male,51-65,Self-Pay,Baku
+1345,PT-101344,Female,35-50,Private Insurance,Ganja
+1346,PT-101345,Female,35-50,Public/State Insurance,Baku
+1347,PT-101346,Male,18-34,Private Insurance,Lankaran
+1348,PT-101347,Female,51-65,Public/State Insurance,Shirvan
+1349,PT-101348,Female,35-50,Private Insurance,Sheki
+1350,PT-101349,Male,18-34,Corporate Insurance,Baku
+1351,PT-101350,Female,35-50,Private Insurance,Baku
+1352,PT-101351,Male,66+,Corporate Insurance,Baku
+1353,PT-101352,Male,35-50,Public/State Insurance,Baku
+1354,PT-101353,Female,66+,Corporate Insurance,Baku
+1355,PT-101354,Female,18-34,Public/State Insurance,Mingachevir
+1356,PT-101355,Female,0-17,Corporate Insurance,Baku
+1357,PT-101356,Female,18-34,Private Insurance,Ganja
+1358,PT-101357,Female,35-50,Public/State Insurance,Nakhchivan
+1359,PT-101358,Male,18-34,Corporate Insurance,Mingachevir
+1360,PT-101359,Female,0-17,Private Insurance,Baku
+1361,PT-101360,Female,66+,Private Insurance,Baku
+1362,PT-101361,Male,51-65,Public/State Insurance,Ganja
+1363,PT-101362,Male,51-65,Corporate Insurance,Baku
+1364,PT-101363,Male,18-34,Public/State Insurance,Sumgait
+1365,PT-101364,Female,18-34,Public/State Insurance,Baku
+1366,PT-101365,Male,0-17,Private Insurance,Nakhchivan
+1367,PT-101366,Male,51-65,Private Insurance,Shirvan
+1368,PT-101367,Female,66+,Self-Pay,Sumgait
+1369,PT-101368,Female,35-50,Private Insurance,Baku
+1370,PT-101369,Male,0-17,Public/State Insurance,Baku
+1371,PT-101370,Female,35-50,Corporate Insurance,Shirvan
+1372,PT-101371,Female,18-34,Private Insurance,Ganja
+1373,PT-101372,Female,35-50,Public/State Insurance,Baku
+1374,PT-101373,Female,51-65,Private Insurance,Baku
+1375,PT-101374,Male,51-65,Public/State Insurance,Baku
+1376,PT-101375,Male,0-17,Private Insurance,Shirvan
+1377,PT-101376,Male,0-17,Public/State Insurance,Baku
+1378,PT-101377,Female,66+,Private Insurance,Ganja
+1379,PT-101378,Female,18-34,Public/State Insurance,Ganja
+1380,PT-101379,Female,0-17,Public/State Insurance,Sumgait
+1381,PT-101380,Female,18-34,Private Insurance,Nakhchivan
+1382,PT-101381,Female,0-17,Public/State Insurance,Nakhchivan
+1383,PT-101382,Male,35-50,Private Insurance,Ganja
+1384,PT-101383,Female,51-65,Public/State Insurance,Baku
+1385,PT-101384,Male,18-34,Private Insurance,Baku
+1386,PT-101385,Female,35-50,Public/State Insurance,Sumgait
+1387,PT-101386,Female,51-65,Private Insurance,Ganja
+1388,PT-101387,Female,35-50,Public/State Insurance,Sumgait
+1389,PT-101388,Male,66+,Private Insurance,Baku
+1390,PT-101389,Male,66+,Public/State Insurance,Sumgait
+1391,PT-101390,Male,0-17,Private Insurance,Baku
+1392,PT-101391,Female,51-65,Self-Pay,Shirvan
+1393,PT-101392,Female,35-50,Self-Pay,Baku
+1394,PT-101393,Male,66+,Private Insurance,Mingachevir
+1395,PT-101394,Female,35-50,Public/State Insurance,Baku
+1396,PT-101395,Male,66+,Private Insurance,Baku
+1397,PT-101396,Female,51-65,Public/State Insurance,Mingachevir
+1398,PT-101397,Female,18-34,Public/State Insurance,Baku
+1399,PT-101398,Female,35-50,Public/State Insurance,Shirvan
+1400,PT-101399,Female,66+,Public/State Insurance,Sumgait
+1401,PT-101400,Male,51-65,Private Insurance,Sumgait
+1402,PT-101401,Female,0-17,Public/State Insurance,Baku
+1403,PT-101402,Female,51-65,Private Insurance,Ganja
+1404,PT-101403,Female,18-34,Public/State Insurance,Sumgait
+1405,PT-101404,Female,0-17,Public/State Insurance,Ganja
+1406,PT-101405,Male,35-50,Public/State Insurance,Mingachevir
+1407,PT-101406,Male,18-34,Private Insurance,Baku
+1408,PT-101407,Male,51-65,Private Insurance,Baku
+1409,PT-101408,Male,18-34,Private Insurance,Baku
+1410,PT-101409,Female,51-65,Private Insurance,Baku
+1411,PT-101410,Male,0-17,Private Insurance,Baku
+1412,PT-101411,Female,18-34,Self-Pay,Mingachevir
+1413,PT-101412,Female,18-34,Self-Pay,Shirvan
+1414,PT-101413,Male,18-34,Public/State Insurance,Baku
+1415,PT-101414,Female,0-17,Public/State Insurance,Sheki
+1416,PT-101415,Male,18-34,Private Insurance,Ganja
+1417,PT-101416,Female,35-50,Self-Pay,Lankaran
+1418,PT-101417,Male,18-34,Private Insurance,Mingachevir
+1419,PT-101418,Male,35-50,Corporate Insurance,Mingachevir
+1420,PT-101419,Male,35-50,Public/State Insurance,Baku
+1421,PT-101420,Male,66+,Private Insurance,Baku
+1422,PT-101421,Male,66+,Corporate Insurance,Baku
+1423,PT-101422,Female,35-50,Private Insurance,Mingachevir
+1424,PT-101423,Female,18-34,Public/State Insurance,Baku
+1425,PT-101424,Female,0-17,Public/State Insurance,Shirvan
+1426,PT-101425,Male,66+,Private Insurance,Baku
+1427,PT-101426,Female,0-17,Public/State Insurance,Shirvan
+1428,PT-101427,Male,18-34,Public/State Insurance,Baku
+1429,PT-101428,Female,18-34,Public/State Insurance,Baku
+1430,PT-101429,Female,18-34,Private Insurance,Baku
+1431,PT-101430,Male,18-34,Corporate Insurance,Baku
+1432,PT-101431,Female,51-65,Private Insurance,Baku
+1433,PT-101432,Female,18-34,Private Insurance,Shirvan
+1434,PT-101433,Female,51-65,Private Insurance,Baku
+1435,PT-101434,Male,18-34,Private Insurance,Baku
+1436,PT-101435,Male,0-17,Private Insurance,Nakhchivan
+1437,PT-101436,Female,66+,Corporate Insurance,Baku
+1438,PT-101437,Female,18-34,Private Insurance,Lankaran
+1439,PT-101438,Female,51-65,Private Insurance,Sheki
+1440,PT-101439,Male,35-50,Private Insurance,Baku
+1441,PT-101440,Male,0-17,Public/State Insurance,Baku
+1442,PT-101441,Female,66+,Self-Pay,Baku
+1443,PT-101442,Female,18-34,Private Insurance,Shirvan
+1444,PT-101443,Female,51-65,Private Insurance,Sumgait
+1445,PT-101444,Male,18-34,Private Insurance,Sumgait
+1446,PT-101445,Male,51-65,Private Insurance,Shirvan
+1447,PT-101446,Female,0-17,Private Insurance,Baku
+1448,PT-101447,Female,35-50,Public/State Insurance,Nakhchivan
+1449,PT-101448,Female,51-65,Private Insurance,Mingachevir
+1450,PT-101449,Male,66+,Public/State Insurance,Sumgait
+1451,PT-101450,Female,66+,Private Insurance,Nakhchivan
+1452,PT-101451,Male,51-65,Corporate Insurance,Mingachevir
+1453,PT-101452,Male,66+,Corporate Insurance,Baku
+1454,PT-101453,Female,18-34,Public/State Insurance,Baku
+1455,PT-101454,Female,18-34,Public/State Insurance,Ganja
+1456,PT-101455,Female,18-34,Public/State Insurance,Baku
+1457,PT-101456,Male,35-50,Public/State Insurance,Sheki
+1458,PT-101457,Male,35-50,Public/State Insurance,Baku
+1459,PT-101458,Male,35-50,Public/State Insurance,Mingachevir
+1460,PT-101459,Male,18-34,Self-Pay,Ganja
+1461,PT-101460,Female,51-65,Corporate Insurance,Baku
+1462,PT-101461,Male,18-34,Private Insurance,Lankaran
+1463,PT-101462,Male,18-34,Public/State Insurance,Nakhchivan
+1464,PT-101463,Female,35-50,Private Insurance,Ganja
+1465,PT-101464,Male,51-65,Private Insurance,Baku
+1466,PT-101465,Male,51-65,Public/State Insurance,Baku
+1467,PT-101466,Male,51-65,Private Insurance,Baku
+1468,PT-101467,Male,18-34,Self-Pay,Baku
+1469,PT-101468,Male,35-50,Private Insurance,Ganja
+1470,PT-101469,Male,0-17,Public/State Insurance,Sheki
+1471,PT-101470,Female,35-50,Public/State Insurance,Sumgait
+1472,PT-101471,Female,35-50,Public/State Insurance,Nakhchivan
+1473,PT-101472,Male,0-17,Public/State Insurance,Sumgait
+1474,PT-101473,Female,18-34,Self-Pay,Ganja
+1475,PT-101474,Female,66+,Public/State Insurance,Nakhchivan
+1476,PT-101475,Female,66+,Public/State Insurance,Ganja
+1477,PT-101476,Female,18-34,Private Insurance,Nakhchivan
+1478,PT-101477,Male,0-17,Public/State Insurance,Baku
+1479,PT-101478,Male,18-34,Self-Pay,Baku
+1480,PT-101479,Female,35-50,Public/State Insurance,Nakhchivan
+1481,PT-101480,Female,66+,Self-Pay,Sumgait
+1482,PT-101481,Female,18-34,Public/State Insurance,Nakhchivan
+1483,PT-101482,Male,51-65,Private Insurance,Lankaran
+1484,PT-101483,Male,0-17,Private Insurance,Baku
+1485,PT-101484,Female,66+,Private Insurance,Ganja
+1486,PT-101485,Male,35-50,Public/State Insurance,Baku
+1487,PT-101486,Male,51-65,Self-Pay,Sumgait
+1488,PT-101487,Male,18-34,Private Insurance,Shirvan
+1489,PT-101488,Male,51-65,Public/State Insurance,Baku
+1490,PT-101489,Female,18-34,Public/State Insurance,Ganja
+1491,PT-101490,Male,18-34,Public/State Insurance,Mingachevir
+1492,PT-101491,Female,66+,Private Insurance,Baku
+1493,PT-101492,Male,66+,Private Insurance,Shirvan
+1494,PT-101493,Male,66+,Private Insurance,Sumgait
+1495,PT-101494,Male,51-65,Private Insurance,Lankaran
+1496,PT-101495,Male,51-65,Private Insurance,Baku
+1497,PT-101496,Female,0-17,Private Insurance,Baku
+1498,PT-101497,Male,18-34,Public/State Insurance,Ganja
+1499,PT-101498,Male,18-34,Private Insurance,Baku
+1500,PT-101499,Male,51-65,Corporate Insurance,Sheki
+1501,PT-101500,Female,18-34,Private Insurance,Baku
+1502,PT-101501,Female,18-34,Private Insurance,Shirvan
+1503,PT-101502,Female,35-50,Public/State Insurance,Ganja
+1504,PT-101503,Male,51-65,Private Insurance,Baku
+1505,PT-101504,Male,35-50,Self-Pay,Baku
+1506,PT-101505,Female,18-34,Private Insurance,Sumgait
+1507,PT-101506,Female,18-34,Corporate Insurance,Sumgait
+1508,PT-101507,Male,18-34,Self-Pay,Baku
+1509,PT-101508,Male,18-34,Public/State Insurance,Lankaran
+1510,PT-101509,Male,51-65,Public/State Insurance,Baku
+1511,PT-101510,Male,35-50,Public/State Insurance,Baku
+1512,PT-101511,Female,51-65,Public/State Insurance,Ganja
+1513,PT-101512,Female,35-50,Public/State Insurance,Baku
+1514,PT-101513,Male,51-65,Private Insurance,Lankaran
+1515,PT-101514,Male,18-34,Private Insurance,Baku
+1516,PT-101515,Male,35-50,Public/State Insurance,Baku
+1517,PT-101516,Male,51-65,Public/State Insurance,Baku
+1518,PT-101517,Male,18-34,Self-Pay,Sumgait
+1519,PT-101518,Female,0-17,Private Insurance,Ganja
+1520,PT-101519,Female,66+,Self-Pay,Mingachevir
+1521,PT-101520,Female,18-34,Private Insurance,Baku
+1522,PT-101521,Female,51-65,Public/State Insurance,Baku
+1523,PT-101522,Male,0-17,Private Insurance,Shirvan
+1524,PT-101523,Male,51-65,Public/State Insurance,Baku
+1525,PT-101524,Female,18-34,Private Insurance,Nakhchivan
+1526,PT-101525,Female,0-17,Public/State Insurance,Baku
+1527,PT-101526,Male,35-50,Self-Pay,Nakhchivan
+1528,PT-101527,Female,18-34,Public/State Insurance,Baku
+1529,PT-101528,Male,35-50,Public/State Insurance,Sumgait
+1530,PT-101529,Male,0-17,Self-Pay,Baku
+1531,PT-101530,Male,18-34,Public/State Insurance,Baku
+1532,PT-101531,Female,18-34,Public/State Insurance,Baku
+1533,PT-101532,Female,0-17,Private Insurance,Baku
+1534,PT-101533,Male,66+,Self-Pay,Baku
+1535,PT-101534,Male,0-17,Public/State Insurance,Ganja
+1536,PT-101535,Female,35-50,Private Insurance,Sumgait
+1537,PT-101536,Male,18-34,Private Insurance,Shirvan
+1538,PT-101537,Female,18-34,Self-Pay,Sumgait
+1539,PT-101538,Male,66+,Private Insurance,Sumgait
+1540,PT-101539,Female,18-34,Corporate Insurance,Baku
+1541,PT-101540,Male,66+,Private Insurance,Ganja
+1542,PT-101541,Female,18-34,Self-Pay,Baku
+1543,PT-101542,Female,51-65,Public/State Insurance,Nakhchivan
+1544,PT-101543,Female,35-50,Public/State Insurance,Baku
+1545,PT-101544,Female,66+,Self-Pay,Baku
+1546,PT-101545,Male,35-50,Public/State Insurance,Sumgait
+1547,PT-101546,Male,35-50,Public/State Insurance,Baku
+1548,PT-101547,Female,18-34,Private Insurance,Lankaran
+1549,PT-101548,Female,18-34,Private Insurance,Nakhchivan
+1550,PT-101549,Male,66+,Private Insurance,Baku
+1551,PT-101550,Male,18-34,Public/State Insurance,Baku
+1552,PT-101551,Male,35-50,Private Insurance,Ganja
+1553,PT-101552,Female,51-65,Private Insurance,Sumgait
+1554,PT-101553,Female,18-34,Public/State Insurance,Baku
+1555,PT-101554,Male,66+,Public/State Insurance,Mingachevir
+1556,PT-101555,Female,51-65,Public/State Insurance,Sumgait
+1557,PT-101556,Male,35-50,Private Insurance,Baku
+1558,PT-101557,Female,66+,Private Insurance,Baku
+1559,PT-101558,Male,0-17,Corporate Insurance,Shirvan
+1560,PT-101559,Female,18-34,Private Insurance,Baku
+1561,PT-101560,Male,35-50,Self-Pay,Nakhchivan
+1562,PT-101561,Female,18-34,Self-Pay,Baku
+1563,PT-101562,Male,51-65,Self-Pay,Sumgait
+1564,PT-101563,Female,66+,Private Insurance,Nakhchivan
+1565,PT-101564,Male,35-50,Self-Pay,Nakhchivan
+1566,PT-101565,Male,18-34,Self-Pay,Baku
+1567,PT-101566,Male,66+,Public/State Insurance,Baku
+1568,PT-101567,Male,35-50,Private Insurance,Shirvan
+1569,PT-101568,Male,35-50,Private Insurance,Baku
+1570,PT-101569,Male,18-34,Private Insurance,Baku
+1571,PT-101570,Female,66+,Public/State Insurance,Lankaran
+1572,PT-101571,Male,35-50,Public/State Insurance,Baku
+1573,PT-101572,Female,51-65,Public/State Insurance,Baku
+1574,PT-101573,Female,51-65,Public/State Insurance,Baku
+1575,PT-101574,Female,18-34,Public/State Insurance,Sumgait
+1576,PT-101575,Female,35-50,Public/State Insurance,Sumgait
+1577,PT-101576,Male,51-65,Corporate Insurance,Baku
+1578,PT-101577,Male,35-50,Private Insurance,Baku
+1579,PT-101578,Male,51-65,Public/State Insurance,Baku
+1580,PT-101579,Female,66+,Private Insurance,Mingachevir
+1581,PT-101580,Female,51-65,Public/State Insurance,Baku
+1582,PT-101581,Female,51-65,Public/State Insurance,Lankaran
+1583,PT-101582,Female,51-65,Corporate Insurance,Baku
+1584,PT-101583,Female,51-65,Private Insurance,Sheki
+1585,PT-101584,Female,35-50,Corporate Insurance,Baku
+1586,PT-101585,Female,0-17,Private Insurance,Shirvan
+1587,PT-101586,Male,35-50,Public/State Insurance,Baku
+1588,PT-101587,Male,51-65,Private Insurance,Baku
+1589,PT-101588,Male,35-50,Self-Pay,Nakhchivan
+1590,PT-101589,Male,51-65,Public/State Insurance,Nakhchivan
+1591,PT-101590,Male,18-34,Public/State Insurance,Baku
+1592,PT-101591,Female,51-65,Self-Pay,Mingachevir
+1593,PT-101592,Male,18-34,Private Insurance,Ganja
+1594,PT-101593,Male,51-65,Private Insurance,Nakhchivan
+1595,PT-101594,Female,35-50,Self-Pay,Baku
+1596,PT-101595,Female,18-34,Private Insurance,Ganja
+1597,PT-101596,Male,18-34,Private Insurance,Ganja
+1598,PT-101597,Female,51-65,Public/State Insurance,Baku
+1599,PT-101598,Male,35-50,Public/State Insurance,Lankaran
+1600,PT-101599,Male,18-34,Private Insurance,Baku
+1601,PT-101600,Female,66+,Private Insurance,Baku
+1602,PT-101601,Female,51-65,Private Insurance,Sumgait
+1603,PT-101602,Female,66+,Public/State Insurance,Sumgait
+1604,PT-101603,Female,35-50,Self-Pay,Baku
+1605,PT-101604,Female,35-50,Corporate Insurance,Baku
+1606,PT-101605,Male,66+,Public/State Insurance,Lankaran
+1607,PT-101606,Female,35-50,Private Insurance,Baku
+1608,PT-101607,Female,51-65,Corporate Insurance,Sumgait
+1609,PT-101608,Female,18-34,Public/State Insurance,Mingachevir
+1610,PT-101609,Male,35-50,Private Insurance,Baku
+1611,PT-101610,Female,18-34,Corporate Insurance,Lankaran
+1612,PT-101611,Female,18-34,Self-Pay,Mingachevir
+1613,PT-101612,Male,0-17,Public/State Insurance,Ganja
+1614,PT-101613,Male,0-17,Public/State Insurance,Ganja
+1615,PT-101614,Female,66+,Private Insurance,Mingachevir
+1616,PT-101615,Male,18-34,Private Insurance,Sumgait
+1617,PT-101616,Female,51-65,Public/State Insurance,Nakhchivan
+1618,PT-101617,Female,51-65,Private Insurance,Baku
+1619,PT-101618,Female,35-50,Public/State Insurance,Baku
+1620,PT-101619,Female,18-34,Self-Pay,Baku
+1621,PT-101620,Male,51-65,Self-Pay,Baku
+1622,PT-101621,Female,35-50,Public/State Insurance,Baku
+1623,PT-101622,Female,51-65,Self-Pay,Nakhchivan
+1624,PT-101623,Male,51-65,Self-Pay,Mingachevir
+1625,PT-101624,Male,66+,Public/State Insurance,Sumgait
+1626,PT-101625,Female,35-50,Private Insurance,Sumgait
+1627,PT-101626,Male,18-34,Private Insurance,Nakhchivan
+1628,PT-101627,Female,51-65,Private Insurance,Ganja
+1629,PT-101628,Male,0-17,Private Insurance,Nakhchivan
+1630,PT-101629,Male,66+,Private Insurance,Baku
+1631,PT-101630,Male,0-17,Private Insurance,Lankaran
+1632,PT-101631,Female,18-34,Public/State Insurance,Mingachevir
+1633,PT-101632,Female,51-65,Corporate Insurance,Baku
+1634,PT-101633,Female,35-50,Private Insurance,Ganja
+1635,PT-101634,Female,35-50,Public/State Insurance,Ganja
+1636,PT-101635,Female,35-50,Public/State Insurance,Baku
+1637,PT-101636,Male,51-65,Private Insurance,Sumgait
+1638,PT-101637,Female,18-34,Corporate Insurance,Baku
+1639,PT-101638,Female,66+,Public/State Insurance,Baku
+1640,PT-101639,Male,0-17,Public/State Insurance,Lankaran
+1641,PT-101640,Female,51-65,Self-Pay,Sumgait
+1642,PT-101641,Male,51-65,Private Insurance,Nakhchivan
+1643,PT-101642,Female,18-34,Public/State Insurance,Mingachevir
+1644,PT-101643,Female,35-50,Private Insurance,Baku
+1645,PT-101644,Female,18-34,Self-Pay,Ganja
+1646,PT-101645,Female,51-65,Public/State Insurance,Mingachevir
+1647,PT-101646,Male,35-50,Public/State Insurance,Sheki
+1648,PT-101647,Female,51-65,Private Insurance,Baku
+1649,PT-101648,Male,18-34,Public/State Insurance,Nakhchivan
+1650,PT-101649,Female,18-34,Self-Pay,Lankaran
+1651,PT-101650,Female,0-17,Public/State Insurance,Mingachevir
+1652,PT-101651,Male,18-34,Public/State Insurance,Lankaran
+1653,PT-101652,Female,35-50,Public/State Insurance,Baku
+1654,PT-101653,Male,51-65,Self-Pay,Sheki
+1655,PT-101654,Male,51-65,Public/State Insurance,Mingachevir
+1656,PT-101655,Male,35-50,Self-Pay,Baku
+1657,PT-101656,Male,66+,Self-Pay,Lankaran
+1658,PT-101657,Female,51-65,Public/State Insurance,Ganja
+1659,PT-101658,Female,66+,Private Insurance,Ganja
+1660,PT-101659,Female,35-50,Public/State Insurance,Ganja
+1661,PT-101660,Male,18-34,Self-Pay,Baku
+1662,PT-101661,Male,0-17,Private Insurance,Ganja
+1663,PT-101662,Female,51-65,Public/State Insurance,Nakhchivan
+1664,PT-101663,Male,18-34,Self-Pay,Baku
+1665,PT-101664,Female,18-34,Public/State Insurance,Baku
+1666,PT-101665,Male,35-50,Public/State Insurance,Baku
+1667,PT-101666,Female,35-50,Private Insurance,Baku
+1668,PT-101667,Male,35-50,Private Insurance,Mingachevir
+1669,PT-101668,Male,18-34,Self-Pay,Shirvan
+1670,PT-101669,Female,35-50,Private Insurance,Lankaran
+1671,PT-101670,Female,35-50,Private Insurance,Sumgait
+1672,PT-101671,Female,66+,Self-Pay,Baku
+1673,PT-101672,Female,51-65,Private Insurance,Lankaran
+1674,PT-101673,Female,66+,Corporate Insurance,Shirvan
+1675,PT-101674,Male,51-65,Corporate Insurance,Sumgait
+1676,PT-101675,Male,35-50,Private Insurance,Mingachevir
+1677,PT-101676,Male,18-34,Private Insurance,Lankaran
+1678,PT-101677,Female,51-65,Public/State Insurance,Mingachevir
+1679,PT-101678,Male,51-65,Public/State Insurance,Baku
+1680,PT-101679,Male,35-50,Private Insurance,Mingachevir
+1681,PT-101680,Female,35-50,Public/State Insurance,Baku
+1682,PT-101681,Male,35-50,Private Insurance,Baku
+1683,PT-101682,Male,18-34,Self-Pay,Baku
+1684,PT-101683,Female,35-50,Private Insurance,Baku
+1685,PT-101684,Female,18-34,Private Insurance,Baku
+1686,PT-101685,Female,51-65,Private Insurance,Baku
+1687,PT-101686,Female,18-34,Corporate Insurance,Sumgait
+1688,PT-101687,Male,0-17,Public/State Insurance,Shirvan
+1689,PT-101688,Male,35-50,Self-Pay,Sheki
+1690,PT-101689,Male,51-65,Public/State Insurance,Baku
+1691,PT-101690,Female,35-50,Private Insurance,Sumgait
+1692,PT-101691,Female,18-34,Private Insurance,Lankaran
+1693,PT-101692,Male,35-50,Public/State Insurance,Baku
+1694,PT-101693,Male,18-34,Public/State Insurance,Mingachevir
+1695,PT-101694,Female,66+,Public/State Insurance,Shirvan
+1696,PT-101695,Female,66+,Private Insurance,Baku
+1697,PT-101696,Male,35-50,Corporate Insurance,Nakhchivan
+1698,PT-101697,Female,18-34,Private Insurance,Shirvan
+1699,PT-101698,Female,51-65,Corporate Insurance,Baku
+1700,PT-101699,Male,0-17,Private Insurance,Baku
+1701,PT-101700,Female,35-50,Public/State Insurance,Baku
+1702,PT-101701,Female,18-34,Private Insurance,Baku
+1703,PT-101702,Female,66+,Public/State Insurance,Ganja
+1704,PT-101703,Female,0-17,Public/State Insurance,Ganja
+1705,PT-101704,Male,35-50,Public/State Insurance,Baku
+1706,PT-101705,Female,51-65,Public/State Insurance,Lankaran
+1707,PT-101706,Female,35-50,Public/State Insurance,Baku
+1708,PT-101707,Male,0-17,Public/State Insurance,Baku
+1709,PT-101708,Male,66+,Self-Pay,Baku
+1710,PT-101709,Male,35-50,Private Insurance,Ganja
+1711,PT-101710,Female,35-50,Public/State Insurance,Baku
+1712,PT-101711,Female,18-34,Public/State Insurance,Baku
+1713,PT-101712,Male,35-50,Public/State Insurance,Baku
+1714,PT-101713,Male,35-50,Public/State Insurance,Shirvan
+1715,PT-101714,Female,0-17,Private Insurance,Sheki
+1716,PT-101715,Female,0-17,Private Insurance,Baku
+1717,PT-101716,Female,51-65,Private Insurance,Baku
+1718,PT-101717,Male,18-34,Private Insurance,Sumgait
+1719,PT-101718,Male,18-34,Public/State Insurance,Mingachevir
+1720,PT-101719,Female,35-50,Public/State Insurance,Baku
+1721,PT-101720,Female,51-65,Corporate Insurance,Lankaran
+1722,PT-101721,Male,0-17,Public/State Insurance,Ganja
+1723,PT-101722,Male,35-50,Private Insurance,Ganja
+1724,PT-101723,Female,0-17,Self-Pay,Sumgait
+1725,PT-101724,Male,0-17,Self-Pay,Sheki
+1726,PT-101725,Male,0-17,Public/State Insurance,Shirvan
+1727,PT-101726,Female,51-65,Public/State Insurance,Baku
+1728,PT-101727,Male,0-17,Corporate Insurance,Baku
+1729,PT-101728,Female,0-17,Public/State Insurance,Ganja
+1730,PT-101729,Male,35-50,Corporate Insurance,Baku
+1731,PT-101730,Male,51-65,Private Insurance,Mingachevir
+1732,PT-101731,Male,18-34,Private Insurance,Nakhchivan
+1733,PT-101732,Male,35-50,Public/State Insurance,Mingachevir
+1734,PT-101733,Female,0-17,Public/State Insurance,Sheki
+1735,PT-101734,Male,35-50,Self-Pay,Baku
+1736,PT-101735,Male,35-50,Corporate Insurance,Nakhchivan
+1737,PT-101736,Female,35-50,Public/State Insurance,Shirvan
+1738,PT-101737,Male,18-34,Private Insurance,Baku
+1739,PT-101738,Male,18-34,Self-Pay,Mingachevir
+1740,PT-101739,Female,0-17,Public/State Insurance,Baku
+1741,PT-101740,Male,35-50,Private Insurance,Shirvan
+1742,PT-101741,Male,0-17,Public/State Insurance,Ganja
+1743,PT-101742,Female,51-65,Public/State Insurance,Baku
+1744,PT-101743,Male,66+,Self-Pay,Sumgait
+1745,PT-101744,Female,66+,Public/State Insurance,Sumgait
+1746,PT-101745,Female,66+,Private Insurance,Baku
+1747,PT-101746,Female,35-50,Corporate Insurance,Baku
+1748,PT-101747,Male,51-65,Public/State Insurance,Baku
+1749,PT-101748,Male,18-34,Public/State Insurance,Ganja
+1750,PT-101749,Female,51-65,Private Insurance,Nakhchivan
+1751,PT-101750,Female,35-50,Public/State Insurance,Lankaran
+1752,PT-101751,Male,35-50,Private Insurance,Ganja
+1753,PT-101752,Female,51-65,Private Insurance,Shirvan
+1754,PT-101753,Male,18-34,Public/State Insurance,Baku
+1755,PT-101754,Male,18-34,Private Insurance,Mingachevir
+1756,PT-101755,Female,66+,Public/State Insurance,Baku
+1757,PT-101756,Male,0-17,Private Insurance,Baku
+1758,PT-101757,Female,35-50,Public/State Insurance,Sumgait
+1759,PT-101758,Male,66+,Private Insurance,Baku
+1760,PT-101759,Male,35-50,Private Insurance,Mingachevir
+1761,PT-101760,Male,35-50,Private Insurance,Nakhchivan
+1762,PT-101761,Female,18-34,Corporate Insurance,Baku
+1763,PT-101762,Male,18-34,Self-Pay,Baku
+1764,PT-101763,Female,51-65,Private Insurance,Nakhchivan
+1765,PT-101764,Female,35-50,Self-Pay,Shirvan
+1766,PT-101765,Female,35-50,Public/State Insurance,Baku
+1767,PT-101766,Male,0-17,Corporate Insurance,Baku
+1768,PT-101767,Male,0-17,Public/State Insurance,Mingachevir
+1769,PT-101768,Male,66+,Public/State Insurance,Ganja
+1770,PT-101769,Male,35-50,Private Insurance,Baku
+1771,PT-101770,Female,35-50,Public/State Insurance,Baku
+1772,PT-101771,Male,0-17,Corporate Insurance,Lankaran
+1773,PT-101772,Female,51-65,Public/State Insurance,Mingachevir
+1774,PT-101773,Male,66+,Private Insurance,Sheki
+1775,PT-101774,Male,35-50,Private Insurance,Shirvan
+1776,PT-101775,Male,18-34,Public/State Insurance,Lankaran
+1777,PT-101776,Male,35-50,Public/State Insurance,Baku
+1778,PT-101777,Female,51-65,Public/State Insurance,Shirvan
+1779,PT-101778,Female,35-50,Corporate Insurance,Baku
+1780,PT-101779,Male,66+,Private Insurance,Mingachevir
+1781,PT-101780,Female,51-65,Private Insurance,Ganja
+1782,PT-101781,Female,66+,Corporate Insurance,Baku
+1783,PT-101782,Female,51-65,Private Insurance,Nakhchivan
+1784,PT-101783,Male,18-34,Private Insurance,Nakhchivan
+1785,PT-101784,Female,18-34,Public/State Insurance,Baku
+1786,PT-101785,Female,18-34,Self-Pay,Sumgait
+1787,PT-101786,Male,66+,Private Insurance,Baku
+1788,PT-101787,Male,51-65,Corporate Insurance,Baku
+1789,PT-101788,Female,51-65,Self-Pay,Nakhchivan
+1790,PT-101789,Female,18-34,Private Insurance,Baku
+1791,PT-101790,Female,18-34,Public/State Insurance,Lankaran
+1792,PT-101791,Female,51-65,Public/State Insurance,Baku
+1793,PT-101792,Female,35-50,Public/State Insurance,Sumgait
+1794,PT-101793,Male,18-34,Self-Pay,Mingachevir
+1795,PT-101794,Male,35-50,Corporate Insurance,Baku
+1796,PT-101795,Male,0-17,Private Insurance,Baku
+1797,PT-101796,Female,18-34,Public/State Insurance,Nakhchivan
+1798,PT-101797,Male,35-50,Public/State Insurance,Shirvan
+1799,PT-101798,Female,18-34,Public/State Insurance,Baku
+1800,PT-101799,Male,66+,Public/State Insurance,Ganja
+1801,PT-101800,Male,18-34,Private Insurance,Baku
+1802,PT-101801,Female,18-34,Public/State Insurance,Baku
+1803,PT-101802,Male,18-34,Public/State Insurance,Ganja
+1804,PT-101803,Female,51-65,Private Insurance,Baku
+1805,PT-101804,Male,35-50,Self-Pay,Nakhchivan
+1806,PT-101805,Female,35-50,Self-Pay,Mingachevir
+1807,PT-101806,Female,0-17,Public/State Insurance,Lankaran
+1808,PT-101807,Male,0-17,Private Insurance,Mingachevir
+1809,PT-101808,Female,35-50,Public/State Insurance,Lankaran
+1810,PT-101809,Male,51-65,Private Insurance,Ganja
+1811,PT-101810,Female,66+,Private Insurance,Sumgait
+1812,PT-101811,Male,0-17,Public/State Insurance,Sheki
+1813,PT-101812,Male,35-50,Private Insurance,Sumgait
+1814,PT-101813,Female,66+,Private Insurance,Baku
+1815,PT-101814,Female,35-50,Private Insurance,Mingachevir
+1816,PT-101815,Female,51-65,Private Insurance,Lankaran
+1817,PT-101816,Female,18-34,Private Insurance,Shirvan
+1818,PT-101817,Female,66+,Corporate Insurance,Sumgait
+1819,PT-101818,Male,51-65,Private Insurance,Mingachevir
+1820,PT-101819,Male,66+,Private Insurance,Sheki
+1821,PT-101820,Male,51-65,Private Insurance,Baku
+1822,PT-101821,Male,35-50,Corporate Insurance,Sumgait
+1823,PT-101822,Male,66+,Public/State Insurance,Baku
+1824,PT-101823,Male,18-34,Public/State Insurance,Sumgait
+1825,PT-101824,Female,18-34,Self-Pay,Sumgait
+1826,PT-101825,Male,51-65,Public/State Insurance,Baku
+1827,PT-101826,Male,51-65,Private Insurance,Baku
+1828,PT-101827,Male,66+,Private Insurance,Sumgait
+1829,PT-101828,Female,18-34,Public/State Insurance,Baku
+1830,PT-101829,Female,51-65,Private Insurance,Baku
+1831,PT-101830,Female,51-65,Public/State Insurance,Nakhchivan
+1832,PT-101831,Male,0-17,Private Insurance,Baku
+1833,PT-101832,Male,35-50,Public/State Insurance,Ganja
+1834,PT-101833,Female,18-34,Private Insurance,Lankaran
+1835,PT-101834,Male,18-34,Private Insurance,Baku
+1836,PT-101835,Female,66+,Public/State Insurance,Baku
+1837,PT-101836,Female,51-65,Corporate Insurance,Sumgait
+1838,PT-101837,Female,51-65,Public/State Insurance,Shirvan
+1839,PT-101838,Male,66+,Public/State Insurance,Lankaran
+1840,PT-101839,Male,35-50,Private Insurance,Lankaran
+1841,PT-101840,Female,51-65,Private Insurance,Shirvan
+1842,PT-101841,Male,35-50,Private Insurance,Baku
+1843,PT-101842,Female,66+,Private Insurance,Baku
+1844,PT-101843,Male,18-34,Private Insurance,Baku
+1845,PT-101844,Male,66+,Private Insurance,Baku
+1846,PT-101845,Male,18-34,Self-Pay,Mingachevir
+1847,PT-101846,Female,18-34,Private Insurance,Sumgait
+1848,PT-101847,Male,51-65,Public/State Insurance,Baku
+1849,PT-101848,Male,35-50,Public/State Insurance,Nakhchivan
+1850,PT-101849,Female,35-50,Public/State Insurance,Baku
+1851,PT-101850,Male,35-50,Public/State Insurance,Baku
+1852,PT-101851,Female,51-65,Private Insurance,Sumgait
+1853,PT-101852,Male,18-34,Private Insurance,Baku
+1854,PT-101853,Female,0-17,Public/State Insurance,Baku
+1855,PT-101854,Male,18-34,Self-Pay,Baku
+1856,PT-101855,Male,35-50,Private Insurance,Baku
+1857,PT-101856,Female,18-34,Private Insurance,Shirvan
+1858,PT-101857,Female,18-34,Self-Pay,Lankaran
+1859,PT-101858,Female,35-50,Private Insurance,Baku
+1860,PT-101859,Female,0-17,Public/State Insurance,Baku
+1861,PT-101860,Female,35-50,Public/State Insurance,Mingachevir
+1862,PT-101861,Male,66+,Private Insurance,Lankaran
+1863,PT-101862,Female,18-34,Public/State Insurance,Baku
+1864,PT-101863,Female,35-50,Public/State Insurance,Baku
+1865,PT-101864,Male,51-65,Private Insurance,Shirvan
+1866,PT-101865,Female,35-50,Public/State Insurance,Sumgait
+1867,PT-101866,Male,51-65,Self-Pay,Baku
+1868,PT-101867,Male,35-50,Public/State Insurance,Sumgait
+1869,PT-101868,Male,35-50,Private Insurance,Baku
+1870,PT-101869,Male,0-17,Public/State Insurance,Ganja
+1871,PT-101870,Male,51-65,Public/State Insurance,Ganja
+1872,PT-101871,Female,51-65,Self-Pay,Nakhchivan
+1873,PT-101872,Female,0-17,Public/State Insurance,Ganja
+1874,PT-101873,Female,35-50,Private Insurance,Baku
+1875,PT-101874,Male,66+,Public/State Insurance,Baku
+1876,PT-101875,Female,35-50,Public/State Insurance,Nakhchivan
+1877,PT-101876,Male,35-50,Private Insurance,Baku
+1878,PT-101877,Male,66+,Public/State Insurance,Baku
+1879,PT-101878,Male,51-65,Private Insurance,Baku
+1880,PT-101879,Male,35-50,Public/State Insurance,Shirvan
+1881,PT-101880,Female,51-65,Private Insurance,Ganja
+1882,PT-101881,Male,66+,Public/State Insurance,Baku
+1883,PT-101882,Male,35-50,Corporate Insurance,Baku
+1884,PT-101883,Female,35-50,Self-Pay,Nakhchivan
+1885,PT-101884,Female,35-50,Corporate Insurance,Ganja
+1886,PT-101885,Male,66+,Corporate Insurance,Mingachevir
+1887,PT-101886,Male,51-65,Private Insurance,Lankaran
+1888,PT-101887,Male,0-17,Public/State Insurance,Lankaran
+1889,PT-101888,Male,66+,Public/State Insurance,Baku
+1890,PT-101889,Male,35-50,Self-Pay,Sheki
+1891,PT-101890,Female,0-17,Private Insurance,Baku
+1892,PT-101891,Female,35-50,Corporate Insurance,Baku
+1893,PT-101892,Female,35-50,Public/State Insurance,Lankaran
+1894,PT-101893,Female,66+,Self-Pay,Baku
+1895,PT-101894,Male,18-34,Private Insurance,Baku
+1896,PT-101895,Male,51-65,Private Insurance,Baku
+1897,PT-101896,Male,35-50,Self-Pay,Sumgait
+1898,PT-101897,Female,0-17,Private Insurance,Baku
+1899,PT-101898,Male,66+,Self-Pay,Mingachevir
+1900,PT-101899,Male,35-50,Private Insurance,Lankaran
+1901,PT-101900,Male,18-34,Public/State Insurance,Mingachevir
+1902,PT-101901,Male,35-50,Public/State Insurance,Baku
+1903,PT-101902,Female,51-65,Public/State Insurance,Lankaran
+1904,PT-101903,Female,18-34,Public/State Insurance,Baku
+1905,PT-101904,Female,18-34,Private Insurance,Baku
+1906,PT-101905,Female,18-34,Private Insurance,Baku
+1907,PT-101906,Female,18-34,Private Insurance,Ganja
+1908,PT-101907,Male,51-65,Public/State Insurance,Baku
+1909,PT-101908,Male,35-50,Public/State Insurance,Baku
+1910,PT-101909,Male,18-34,Public/State Insurance,Baku
+1911,PT-101910,Male,18-34,Public/State Insurance,Baku
+1912,PT-101911,Female,18-34,Public/State Insurance,Sumgait
+1913,PT-101912,Male,66+,Public/State Insurance,Shirvan
+1914,PT-101913,Female,18-34,Private Insurance,Shirvan
+1915,PT-101914,Female,66+,Private Insurance,Baku
+1916,PT-101915,Female,35-50,Corporate Insurance,Baku
+1917,PT-101916,Female,18-34,Self-Pay,Sheki
+1918,PT-101917,Female,66+,Private Insurance,Baku
+1919,PT-101918,Female,35-50,Public/State Insurance,Nakhchivan
+1920,PT-101919,Female,51-65,Self-Pay,Baku
+1921,PT-101920,Male,66+,Public/State Insurance,Lankaran
+1922,PT-101921,Female,0-17,Private Insurance,Baku
+1923,PT-101922,Female,0-17,Private Insurance,Baku
+1924,PT-101923,Female,51-65,Public/State Insurance,Mingachevir
+1925,PT-101924,Male,18-34,Corporate Insurance,Sumgait
+1926,PT-101925,Female,18-34,Public/State Insurance,Baku
+1927,PT-101926,Female,0-17,Private Insurance,Ganja
+1928,PT-101927,Female,0-17,Private Insurance,Mingachevir
+1929,PT-101928,Female,51-65,Self-Pay,Baku
+1930,PT-101929,Female,18-34,Self-Pay,Baku
+1931,PT-101930,Female,35-50,Public/State Insurance,Ganja
+1932,PT-101931,Female,35-50,Public/State Insurance,Baku
+1933,PT-101932,Female,35-50,Private Insurance,Sumgait
+1934,PT-101933,Female,0-17,Self-Pay,Baku
+1935,PT-101934,Male,51-65,Self-Pay,Baku
+1936,PT-101935,Male,0-17,Private Insurance,Baku
+1937,PT-101936,Female,51-65,Public/State Insurance,Ganja
+1938,PT-101937,Female,66+,Private Insurance,Baku
+1939,PT-101938,Male,35-50,Private Insurance,Baku
+1940,PT-101939,Female,35-50,Private Insurance,Baku
+1941,PT-101940,Female,35-50,Private Insurance,Sheki
+1942,PT-101941,Male,35-50,Private Insurance,Baku
+1943,PT-101942,Female,66+,Public/State Insurance,Mingachevir
+1944,PT-101943,Female,66+,Public/State Insurance,Baku
+1945,PT-101944,Female,18-34,Public/State Insurance,Baku
+1946,PT-101945,Male,35-50,Private Insurance,Ganja
+1947,PT-101946,Female,66+,Private Insurance,Ganja
+1948,PT-101947,Male,66+,Public/State Insurance,Sheki
+1949,PT-101948,Male,35-50,Public/State Insurance,Lankaran
+1950,PT-101949,Female,35-50,Private Insurance,Shirvan
+1951,PT-101950,Female,18-34,Self-Pay,Sumgait
+1952,PT-101951,Female,66+,Public/State Insurance,Ganja
+1953,PT-101952,Female,18-34,Self-Pay,Baku
+1954,PT-101953,Female,35-50,Public/State Insurance,Lankaran
+1955,PT-101954,Male,18-34,Private Insurance,Sumgait
+1956,PT-101955,Male,18-34,Public/State Insurance,Sumgait
+1957,PT-101956,Male,35-50,Private Insurance,Baku
+1958,PT-101957,Female,66+,Public/State Insurance,Baku
+1959,PT-101958,Male,0-17,Private Insurance,Lankaran
+1960,PT-101959,Male,35-50,Self-Pay,Baku
+1961,PT-101960,Male,0-17,Private Insurance,Baku
+1962,PT-101961,Female,18-34,Corporate Insurance,Baku
+1963,PT-101962,Male,35-50,Self-Pay,Nakhchivan
+1964,PT-101963,Female,35-50,Public/State Insurance,Baku
+1965,PT-101964,Female,18-34,Public/State Insurance,Nakhchivan
+1966,PT-101965,Female,18-34,Public/State Insurance,Baku
+1967,PT-101966,Male,0-17,Self-Pay,Nakhchivan
+1968,PT-101967,Male,18-34,Public/State Insurance,Mingachevir
+1969,PT-101968,Female,66+,Self-Pay,Baku
+1970,PT-101969,Female,66+,Public/State Insurance,Ganja
+1971,PT-101970,Female,18-34,Corporate Insurance,Baku
+1972,PT-101971,Female,35-50,Public/State Insurance,Baku
+1973,PT-101972,Female,66+,Public/State Insurance,Nakhchivan
+1974,PT-101973,Female,0-17,Self-Pay,Baku
+1975,PT-101974,Male,51-65,Self-Pay,Baku
+1976,PT-101975,Female,66+,Public/State Insurance,Baku
+1977,PT-101976,Female,0-17,Private Insurance,Baku
+1978,PT-101977,Female,18-34,Public/State Insurance,Nakhchivan
+1979,PT-101978,Male,66+,Corporate Insurance,Baku
+1980,PT-101979,Male,35-50,Self-Pay,Sheki
+1981,PT-101980,Male,0-17,Self-Pay,Lankaran
+1982,PT-101981,Female,18-34,Private Insurance,Baku
+1983,PT-101982,Male,35-50,Public/State Insurance,Baku
+1984,PT-101983,Female,51-65,Public/State Insurance,Nakhchivan
+1985,PT-101984,Male,51-65,Self-Pay,Baku
+1986,PT-101985,Male,66+,Private Insurance,Baku
+1987,PT-101986,Male,18-34,Self-Pay,Baku
+1988,PT-101987,Male,35-50,Public/State Insurance,Sumgait
+1989,PT-101988,Male,35-50,Private Insurance,Shirvan
+1990,PT-101989,Female,35-50,Private Insurance,Baku
+1991,PT-101990,Male,18-34,Private Insurance,Baku
+1992,PT-101991,Female,66+,Public/State Insurance,Lankaran
+1993,PT-101992,Male,51-65,Private Insurance,Shirvan
+1994,PT-101993,Female,35-50,Private Insurance,Sumgait
+1995,PT-101994,Female,35-50,Self-Pay,Shirvan
+1996,PT-101995,Female,18-34,Private Insurance,Baku
+1997,PT-101996,Female,35-50,Private Insurance,Shirvan
+1998,PT-101997,Female,51-65,Public/State Insurance,Baku
+1999,PT-101998,Male,35-50,Public/State Insurance,Baku
+2000,PT-101999,Female,66+,Self-Pay,Mingachevir
+2001,PT-102000,Female,35-50,Public/State Insurance,Baku
+2002,PT-102001,Male,35-50,Self-Pay,Sheki
+2003,PT-102002,Female,51-65,Public/State Insurance,Baku
+2004,PT-102003,Male,18-34,Private Insurance,Lankaran
+2005,PT-102004,Male,35-50,Private Insurance,Lankaran
+2006,PT-102005,Male,18-34,Public/State Insurance,Baku
+2007,PT-102006,Male,35-50,Public/State Insurance,Shirvan
+2008,PT-102007,Female,51-65,Public/State Insurance,Baku
+2009,PT-102008,Male,35-50,Public/State Insurance,Lankaran
+2010,PT-102009,Female,51-65,Public/State Insurance,Ganja
+2011,PT-102010,Female,35-50,Private Insurance,Mingachevir
+2012,PT-102011,Male,18-34,Private Insurance,Ganja
+2013,PT-102012,Female,51-65,Public/State Insurance,Baku
+2014,PT-102013,Male,18-34,Public/State Insurance,Baku
+2015,PT-102014,Male,18-34,Public/State Insurance,Baku
+2016,PT-102015,Male,35-50,Private Insurance,Shirvan
+2017,PT-102016,Male,18-34,Public/State Insurance,Sumgait
+2018,PT-102017,Female,0-17,Self-Pay,Mingachevir
+2019,PT-102018,Female,51-65,Private Insurance,Baku
+2020,PT-102019,Male,35-50,Public/State Insurance,Ganja
+2021,PT-102020,Female,35-50,Corporate Insurance,Baku
+2022,PT-102021,Male,66+,Private Insurance,Shirvan
+2023,PT-102022,Male,35-50,Public/State Insurance,Sheki
+2024,PT-102023,Male,66+,Private Insurance,Baku
+2025,PT-102024,Female,18-34,Public/State Insurance,Baku
+2026,PT-102025,Female,35-50,Private Insurance,Baku
+2027,PT-102026,Female,66+,Corporate Insurance,Sumgait
+2028,PT-102027,Female,35-50,Public/State Insurance,Sumgait
+2029,PT-102028,Male,51-65,Self-Pay,Shirvan
+2030,PT-102029,Female,35-50,Public/State Insurance,Baku
+2031,PT-102030,Female,0-17,Public/State Insurance,Shirvan
+2032,PT-102031,Female,35-50,Public/State Insurance,Mingachevir
+2033,PT-102032,Male,35-50,Self-Pay,Baku
+2034,PT-102033,Male,66+,Corporate Insurance,Ganja
+2035,PT-102034,Female,18-34,Public/State Insurance,Baku
+2036,PT-102035,Female,66+,Corporate Insurance,Ganja
+2037,PT-102036,Female,66+,Public/State Insurance,Nakhchivan
+2038,PT-102037,Female,18-34,Public/State Insurance,Baku
+2039,PT-102038,Male,18-34,Public/State Insurance,Nakhchivan
+2040,PT-102039,Male,66+,Private Insurance,Sumgait
+2041,PT-102040,Female,66+,Private Insurance,Baku
+2042,PT-102041,Female,35-50,Private Insurance,Sumgait
+2043,PT-102042,Male,18-34,Public/State Insurance,Ganja
+2044,PT-102043,Female,35-50,Public/State Insurance,Baku
+2045,PT-102044,Male,51-65,Public/State Insurance,Baku
+2046,PT-102045,Female,18-34,Corporate Insurance,Baku
+2047,PT-102046,Female,51-65,Public/State Insurance,Baku
+2048,PT-102047,Female,0-17,Public/State Insurance,Baku
+2049,PT-102048,Female,0-17,Private Insurance,Baku
+2050,PT-102049,Male,35-50,Private Insurance,Baku
+2051,PT-102050,Female,18-34,Self-Pay,Lankaran
+2052,PT-102051,Female,18-34,Public/State Insurance,Baku
+2053,PT-102052,Female,35-50,Self-Pay,Shirvan
+2054,PT-102053,Female,18-34,Private Insurance,Ganja
+2055,PT-102054,Female,18-34,Public/State Insurance,Mingachevir
+2056,PT-102055,Female,18-34,Private Insurance,Baku
+2057,PT-102056,Male,66+,Private Insurance,Lankaran
+2058,PT-102057,Female,35-50,Private Insurance,Ganja
+2059,PT-102058,Female,35-50,Private Insurance,Nakhchivan
+2060,PT-102059,Male,35-50,Private Insurance,Baku
+2061,PT-102060,Female,66+,Private Insurance,Baku
+2062,PT-102061,Male,18-34,Corporate Insurance,Mingachevir
+2063,PT-102062,Female,51-65,Private Insurance,Baku
+2064,PT-102063,Male,51-65,Private Insurance,Ganja
+2065,PT-102064,Male,35-50,Private Insurance,Baku
+2066,PT-102065,Male,0-17,Public/State Insurance,Sumgait
+2067,PT-102066,Male,51-65,Private Insurance,Sheki
+2068,PT-102067,Female,0-17,Self-Pay,Ganja
+2069,PT-102068,Male,35-50,Corporate Insurance,Shirvan
+2070,PT-102069,Female,51-65,Private Insurance,Ganja
+2071,PT-102070,Female,18-34,Public/State Insurance,Ganja
+2072,PT-102071,Female,51-65,Private Insurance,Lankaran
+2073,PT-102072,Male,0-17,Public/State Insurance,Nakhchivan
+2074,PT-102073,Female,51-65,Public/State Insurance,Shirvan
+2075,PT-102074,Male,35-50,Private Insurance,Baku
+2076,PT-102075,Male,18-34,Private Insurance,Ganja
+2077,PT-102076,Male,18-34,Public/State Insurance,Baku
+2078,PT-102077,Male,66+,Public/State Insurance,Baku
+2079,PT-102078,Female,0-17,Private Insurance,Ganja
+2080,PT-102079,Female,18-34,Public/State Insurance,Nakhchivan
+2081,PT-102080,Female,18-34,Public/State Insurance,Lankaran
+2082,PT-102081,Female,51-65,Self-Pay,Baku
+2083,PT-102082,Female,35-50,Private Insurance,Baku
+2084,PT-102083,Female,18-34,Self-Pay,Nakhchivan
+2085,PT-102084,Female,18-34,Public/State Insurance,Baku
+2086,PT-102085,Male,18-34,Private Insurance,Sumgait
+2087,PT-102086,Male,18-34,Public/State Insurance,Baku
+2088,PT-102087,Female,35-50,Public/State Insurance,Baku
+2089,PT-102088,Male,51-65,Corporate Insurance,Sheki
+2090,PT-102089,Female,18-34,Private Insurance,Baku
+2091,PT-102090,Female,35-50,Public/State Insurance,Baku
+2092,PT-102091,Male,35-50,Public/State Insurance,Baku
+2093,PT-102092,Female,66+,Corporate Insurance,Lankaran
+2094,PT-102093,Female,66+,Private Insurance,Nakhchivan
+2095,PT-102094,Male,51-65,Corporate Insurance,Baku
+2096,PT-102095,Male,18-34,Corporate Insurance,Baku
+2097,PT-102096,Male,0-17,Private Insurance,Sumgait
+2098,PT-102097,Male,18-34,Self-Pay,Baku
+2099,PT-102098,Male,18-34,Corporate Insurance,Mingachevir
+2100,PT-102099,Female,35-50,Private Insurance,Baku
+2101,PT-102100,Female,51-65,Public/State Insurance,Baku
+2102,PT-102101,Female,51-65,Public/State Insurance,Mingachevir
+2103,PT-102102,Female,51-65,Private Insurance,Baku
+2104,PT-102103,Male,18-34,Private Insurance,Nakhchivan
+2105,PT-102104,Female,51-65,Private Insurance,Baku
+2106,PT-102105,Male,18-34,Private Insurance,Baku
+2107,PT-102106,Male,0-17,Public/State Insurance,Sheki
+2108,PT-102107,Male,51-65,Private Insurance,Baku
+2109,PT-102108,Male,0-17,Self-Pay,Mingachevir
+2110,PT-102109,Male,35-50,Public/State Insurance,Baku
+2111,PT-102110,Female,18-34,Private Insurance,Sumgait
+2112,PT-102111,Male,51-65,Public/State Insurance,Mingachevir
+2113,PT-102112,Female,51-65,Public/State Insurance,Baku
+2114,PT-102113,Male,18-34,Corporate Insurance,Nakhchivan
+2115,PT-102114,Female,51-65,Private Insurance,Sumgait
+2116,PT-102115,Male,18-34,Private Insurance,Baku
+2117,PT-102116,Male,35-50,Corporate Insurance,Ganja
+2118,PT-102117,Female,51-65,Corporate Insurance,Sumgait
+2119,PT-102118,Female,51-65,Public/State Insurance,Baku
+2120,PT-102119,Male,66+,Self-Pay,Baku
+2121,PT-102120,Female,18-34,Private Insurance,Baku
+2122,PT-102121,Male,51-65,Public/State Insurance,Baku
+2123,PT-102122,Male,35-50,Private Insurance,Shirvan
+2124,PT-102123,Female,66+,Private Insurance,Ganja
+2125,PT-102124,Female,18-34,Self-Pay,Lankaran
+2126,PT-102125,Female,51-65,Private Insurance,Baku
+2127,PT-102126,Male,35-50,Public/State Insurance,Baku
+2128,PT-102127,Female,18-34,Corporate Insurance,Shirvan
+2129,PT-102128,Female,35-50,Private Insurance,Ganja
+2130,PT-102129,Female,18-34,Corporate Insurance,Ganja
+2131,PT-102130,Male,35-50,Corporate Insurance,Baku
+2132,PT-102131,Male,66+,Public/State Insurance,Baku
+2133,PT-102132,Male,35-50,Private Insurance,Baku
+2134,PT-102133,Female,51-65,Private Insurance,Sheki
+2135,PT-102134,Male,35-50,Public/State Insurance,Baku
+2136,PT-102135,Male,0-17,Private Insurance,Nakhchivan
+2137,PT-102136,Male,18-34,Private Insurance,Mingachevir
+2138,PT-102137,Male,35-50,Corporate Insurance,Baku
+2139,PT-102138,Female,18-34,Private Insurance,Ganja
+2140,PT-102139,Female,18-34,Public/State Insurance,Nakhchivan
+2141,PT-102140,Male,35-50,Private Insurance,Nakhchivan
+2142,PT-102141,Female,18-34,Public/State Insurance,Baku
+2143,PT-102142,Male,18-34,Corporate Insurance,Baku
+2144,PT-102143,Male,35-50,Private Insurance,Baku
+2145,PT-102144,Female,18-34,Private Insurance,Baku
+2146,PT-102145,Male,66+,Public/State Insurance,Sumgait
+2147,PT-102146,Female,66+,Public/State Insurance,Nakhchivan
+2148,PT-102147,Female,51-65,Public/State Insurance,Baku
+2149,PT-102148,Male,0-17,Private Insurance,Mingachevir
+2150,PT-102149,Male,51-65,Private Insurance,Sumgait
+2151,PT-102150,Female,51-65,Corporate Insurance,Baku
+2152,PT-102151,Female,51-65,Corporate Insurance,Baku
+2153,PT-102152,Male,0-17,Public/State Insurance,Mingachevir
+2154,PT-102153,Male,51-65,Self-Pay,Nakhchivan
+2155,PT-102154,Male,51-65,Public/State Insurance,Mingachevir
+2156,PT-102155,Female,35-50,Public/State Insurance,Baku
+2157,PT-102156,Female,51-65,Private Insurance,Baku
+2158,PT-102157,Female,35-50,Public/State Insurance,Baku
+2159,PT-102158,Male,35-50,Public/State Insurance,Sumgait
+2160,PT-102159,Female,0-17,Private Insurance,Shirvan
+2161,PT-102160,Female,51-65,Public/State Insurance,Baku
+2162,PT-102161,Male,0-17,Self-Pay,Nakhchivan
+2163,PT-102162,Female,35-50,Public/State Insurance,Ganja
+2164,PT-102163,Male,18-34,Public/State Insurance,Mingachevir
+2165,PT-102164,Male,35-50,Corporate Insurance,Sheki
+2166,PT-102165,Male,18-34,Private Insurance,Baku
+2167,PT-102166,Female,51-65,Public/State Insurance,Lankaran
+2168,PT-102167,Female,51-65,Self-Pay,Baku
+2169,PT-102168,Male,18-34,Public/State Insurance,Baku
+2170,PT-102169,Male,0-17,Private Insurance,Nakhchivan
+2171,PT-102170,Male,18-34,Private Insurance,Lankaran
+2172,PT-102171,Female,66+,Self-Pay,Ganja
+2173,PT-102172,Male,35-50,Public/State Insurance,Sumgait
+2174,PT-102173,Male,35-50,Self-Pay,Mingachevir
+2175,PT-102174,Male,0-17,Public/State Insurance,Nakhchivan
+2176,PT-102175,Male,51-65,Public/State Insurance,Baku
+2177,PT-102176,Male,66+,Self-Pay,Shirvan
+2178,PT-102177,Male,51-65,Public/State Insurance,Ganja
+2179,PT-102178,Female,51-65,Public/State Insurance,Ganja
+2180,PT-102179,Female,0-17,Public/State Insurance,Baku
+2181,PT-102180,Female,0-17,Self-Pay,Ganja
+2182,PT-102181,Female,0-17,Public/State Insurance,Lankaran
+2183,PT-102182,Female,18-34,Public/State Insurance,Ganja
+2184,PT-102183,Female,18-34,Private Insurance,Sheki
+2185,PT-102184,Female,18-34,Corporate Insurance,Baku
+2186,PT-102185,Female,35-50,Private Insurance,Mingachevir
+2187,PT-102186,Male,66+,Public/State Insurance,Shirvan
+2188,PT-102187,Male,35-50,Public/State Insurance,Mingachevir
+2189,PT-102188,Female,51-65,Public/State Insurance,Sumgait
+2190,PT-102189,Male,51-65,Public/State Insurance,Ganja
+2191,PT-102190,Male,0-17,Private Insurance,Nakhchivan
+2192,PT-102191,Female,51-65,Public/State Insurance,Nakhchivan
+2193,PT-102192,Female,18-34,Self-Pay,Baku
+2194,PT-102193,Female,51-65,Self-Pay,Nakhchivan
+2195,PT-102194,Male,18-34,Private Insurance,Baku
+2196,PT-102195,Male,66+,Self-Pay,Baku
+2197,PT-102196,Female,18-34,Public/State Insurance,Nakhchivan
+2198,PT-102197,Female,18-34,Self-Pay,Baku
+2199,PT-102198,Female,66+,Public/State Insurance,Shirvan
+2200,PT-102199,Female,0-17,Public/State Insurance,Baku
+2201,PT-102200,Female,51-65,Corporate Insurance,Baku
+2202,PT-102201,Female,51-65,Self-Pay,Ganja
+2203,PT-102202,Male,51-65,Public/State Insurance,Baku
+2204,PT-102203,Male,66+,Private Insurance,Shirvan
+2205,PT-102204,Female,66+,Public/State Insurance,Baku
+2206,PT-102205,Male,0-17,Public/State Insurance,Baku
+2207,PT-102206,Female,51-65,Private Insurance,Baku
+2208,PT-102207,Female,51-65,Private Insurance,Baku
+2209,PT-102208,Female,51-65,Self-Pay,Shirvan
+2210,PT-102209,Male,18-34,Private Insurance,Baku
+2211,PT-102210,Male,51-65,Public/State Insurance,Sumgait
+2212,PT-102211,Male,66+,Private Insurance,Lankaran
+2213,PT-102212,Female,66+,Private Insurance,Mingachevir
+2214,PT-102213,Male,35-50,Private Insurance,Shirvan
+2215,PT-102214,Female,0-17,Private Insurance,Baku
+2216,PT-102215,Male,35-50,Self-Pay,Baku
+2217,PT-102216,Female,51-65,Self-Pay,Lankaran
+2218,PT-102217,Female,51-65,Private Insurance,Mingachevir
+2219,PT-102218,Male,35-50,Public/State Insurance,Sumgait
+2220,PT-102219,Male,0-17,Public/State Insurance,Sumgait
+2221,PT-102220,Female,35-50,Self-Pay,Baku
+2222,PT-102221,Male,35-50,Self-Pay,Baku
+2223,PT-102222,Female,66+,Public/State Insurance,Shirvan
+2224,PT-102223,Male,51-65,Public/State Insurance,Mingachevir
+2225,PT-102224,Male,18-34,Self-Pay,Ganja
+2226,PT-102225,Male,35-50,Private Insurance,Lankaran
+2227,PT-102226,Male,0-17,Public/State Insurance,Baku
+2228,PT-102227,Male,66+,Corporate Insurance,Baku
+2229,PT-102228,Female,35-50,Public/State Insurance,Nakhchivan
+2230,PT-102229,Male,35-50,Public/State Insurance,Shirvan
+2231,PT-102230,Female,18-34,Public/State Insurance,Ganja
+2232,PT-102231,Female,51-65,Private Insurance,Baku
+2233,PT-102232,Female,51-65,Public/State Insurance,Baku
+2234,PT-102233,Female,51-65,Public/State Insurance,Sumgait
+2235,PT-102234,Male,18-34,Public/State Insurance,Baku
+2236,PT-102235,Female,18-34,Public/State Insurance,Nakhchivan
+2237,PT-102236,Male,18-34,Self-Pay,Lankaran
+2238,PT-102237,Female,51-65,Private Insurance,Shirvan
+2239,PT-102238,Female,0-17,Public/State Insurance,Baku
+2240,PT-102239,Female,35-50,Public/State Insurance,Shirvan
+2241,PT-102240,Female,66+,Public/State Insurance,Baku
+2242,PT-102241,Female,66+,Private Insurance,Baku
+2243,PT-102242,Male,35-50,Public/State Insurance,Baku
+2244,PT-102243,Female,35-50,Self-Pay,Baku
+2245,PT-102244,Male,0-17,Public/State Insurance,Lankaran
+2246,PT-102245,Female,51-65,Corporate Insurance,Baku
+2247,PT-102246,Female,51-65,Corporate Insurance,Baku
+2248,PT-102247,Male,18-34,Private Insurance,Sheki
+2249,PT-102248,Female,35-50,Private Insurance,Baku
+2250,PT-102249,Female,51-65,Corporate Insurance,Shirvan
+2251,PT-102250,Female,66+,Corporate Insurance,Baku
+2252,PT-102251,Female,18-34,Private Insurance,Baku
+2253,PT-102252,Male,35-50,Private Insurance,Lankaran
+2254,PT-102253,Female,18-34,Private Insurance,Baku
+2255,PT-102254,Male,0-17,Corporate Insurance,Ganja
+2256,PT-102255,Male,66+,Private Insurance,Baku
+2257,PT-102256,Female,51-65,Public/State Insurance,Baku
+2258,PT-102257,Male,51-65,Self-Pay,Baku
+2259,PT-102258,Female,0-17,Private Insurance,Baku
+2260,PT-102259,Male,51-65,Public/State Insurance,Baku
+2261,PT-102260,Female,35-50,Private Insurance,Shirvan
+2262,PT-102261,Male,18-34,Self-Pay,Ganja
+2263,PT-102262,Female,35-50,Private Insurance,Baku
+2264,PT-102263,Female,0-17,Public/State Insurance,Baku
+2265,PT-102264,Male,51-65,Public/State Insurance,Lankaran
+2266,PT-102265,Male,35-50,Private Insurance,Lankaran
+2267,PT-102266,Female,18-34,Private Insurance,Mingachevir
+2268,PT-102267,Female,18-34,Public/State Insurance,Nakhchivan
+2269,PT-102268,Male,18-34,Private Insurance,Baku
+2270,PT-102269,Male,0-17,Self-Pay,Baku
+2271,PT-102270,Male,35-50,Self-Pay,Sumgait
+2272,PT-102271,Male,51-65,Public/State Insurance,Sumgait
+2273,PT-102272,Male,0-17,Public/State Insurance,Ganja
+2274,PT-102273,Male,0-17,Public/State Insurance,Baku
+2275,PT-102274,Female,35-50,Self-Pay,Sheki
+2276,PT-102275,Female,51-65,Public/State Insurance,Nakhchivan
+2277,PT-102276,Male,18-34,Private Insurance,Baku
+2278,PT-102277,Male,18-34,Private Insurance,Mingachevir
+2279,PT-102278,Female,35-50,Public/State Insurance,Baku
+2280,PT-102279,Female,18-34,Public/State Insurance,Baku
+2281,PT-102280,Male,0-17,Public/State Insurance,Baku
+2282,PT-102281,Female,51-65,Private Insurance,Baku
+2283,PT-102282,Female,51-65,Public/State Insurance,Baku
+2284,PT-102283,Female,35-50,Private Insurance,Shirvan
+2285,PT-102284,Female,51-65,Private Insurance,Baku
+2286,PT-102285,Female,51-65,Public/State Insurance,Sumgait
+2287,PT-102286,Female,18-34,Private Insurance,Baku
+2288,PT-102287,Female,18-34,Public/State Insurance,Baku
+2289,PT-102288,Male,18-34,Public/State Insurance,Nakhchivan
+2290,PT-102289,Female,18-34,Public/State Insurance,Sumgait
+2291,PT-102290,Male,51-65,Public/State Insurance,Sheki
+2292,PT-102291,Male,51-65,Private Insurance,Sheki
+2293,PT-102292,Female,66+,Private Insurance,Baku
+2294,PT-102293,Male,51-65,Self-Pay,Baku
+2295,PT-102294,Female,18-34,Public/State Insurance,Nakhchivan
+2296,PT-102295,Male,0-17,Public/State Insurance,Sheki
+2297,PT-102296,Female,51-65,Private Insurance,Sumgait
+2298,PT-102297,Male,35-50,Public/State Insurance,Shirvan
+2299,PT-102298,Male,35-50,Public/State Insurance,Shirvan
+2300,PT-102299,Female,51-65,Public/State Insurance,Baku
+2301,PT-102300,Female,51-65,Public/State Insurance,Sumgait
+2302,PT-102301,Male,51-65,Private Insurance,Nakhchivan
+2303,PT-102302,Male,0-17,Private Insurance,Mingachevir
+2304,PT-102303,Female,51-65,Self-Pay,Baku
+2305,PT-102304,Male,51-65,Corporate Insurance,Baku
+2306,PT-102305,Female,18-34,Private Insurance,Baku
+2307,PT-102306,Male,51-65,Public/State Insurance,Baku
+2308,PT-102307,Female,18-34,Private Insurance,Lankaran
+2309,PT-102308,Male,66+,Private Insurance,Baku
+2310,PT-102309,Female,0-17,Private Insurance,Baku
+2311,PT-102310,Female,35-50,Private Insurance,Baku
+2312,PT-102311,Female,18-34,Public/State Insurance,Sumgait
+2313,PT-102312,Female,51-65,Public/State Insurance,Ganja
+2314,PT-102313,Female,18-34,Private Insurance,Baku
+2315,PT-102314,Female,18-34,Private Insurance,Baku
+2316,PT-102315,Male,35-50,Self-Pay,Baku
+2317,PT-102316,Female,66+,Private Insurance,Ganja
+2318,PT-102317,Female,18-34,Public/State Insurance,Baku
+2319,PT-102318,Female,18-34,Private Insurance,Lankaran
+2320,PT-102319,Female,51-65,Public/State Insurance,Ganja
+2321,PT-102320,Female,35-50,Private Insurance,Baku
+2322,PT-102321,Female,66+,Private Insurance,Mingachevir
+2323,PT-102322,Female,18-34,Private Insurance,Baku
+2324,PT-102323,Female,51-65,Private Insurance,Sumgait
+2325,PT-102324,Male,18-34,Public/State Insurance,Baku
+2326,PT-102325,Male,18-34,Public/State Insurance,Sumgait
+2327,PT-102326,Female,51-65,Private Insurance,Shirvan
+2328,PT-102327,Female,35-50,Private Insurance,Lankaran
+2329,PT-102328,Male,51-65,Public/State Insurance,Baku
+2330,PT-102329,Female,18-34,Public/State Insurance,Baku
+2331,PT-102330,Male,35-50,Corporate Insurance,Ganja
+2332,PT-102331,Female,35-50,Public/State Insurance,Lankaran
+2333,PT-102332,Male,66+,Public/State Insurance,Lankaran
+2334,PT-102333,Male,18-34,Public/State Insurance,Baku
+2335,PT-102334,Male,18-34,Corporate Insurance,Baku
+2336,PT-102335,Male,18-34,Self-Pay,Ganja
+2337,PT-102336,Female,35-50,Private Insurance,Baku
+2338,PT-102337,Female,18-34,Private Insurance,Baku
+2339,PT-102338,Male,66+,Private Insurance,Baku
+2340,PT-102339,Male,18-34,Public/State Insurance,Sumgait
+2341,PT-102340,Female,66+,Public/State Insurance,Lankaran
+2342,PT-102341,Female,0-17,Public/State Insurance,Sheki
+2343,PT-102342,Female,51-65,Private Insurance,Baku
+2344,PT-102343,Female,66+,Public/State Insurance,Sumgait
+2345,PT-102344,Male,18-34,Self-Pay,Nakhchivan
+2346,PT-102345,Female,66+,Private Insurance,Baku
+2347,PT-102346,Female,35-50,Public/State Insurance,Mingachevir
+2348,PT-102347,Female,66+,Public/State Insurance,Baku
+2349,PT-102348,Female,51-65,Self-Pay,Baku
+2350,PT-102349,Female,18-34,Self-Pay,Baku
+2351,PT-102350,Male,18-34,Public/State Insurance,Baku
+2352,PT-102351,Male,18-34,Public/State Insurance,Mingachevir
+2353,PT-102352,Male,0-17,Self-Pay,Baku
+2354,PT-102353,Female,18-34,Public/State Insurance,Baku
+2355,PT-102354,Male,0-17,Private Insurance,Baku
+2356,PT-102355,Male,35-50,Self-Pay,Nakhchivan
+2357,PT-102356,Male,51-65,Private Insurance,Ganja
+2358,PT-102357,Female,18-34,Public/State Insurance,Sumgait
+2359,PT-102358,Female,18-34,Self-Pay,Ganja
+2360,PT-102359,Female,51-65,Public/State Insurance,Baku
+2361,PT-102360,Female,18-34,Public/State Insurance,Baku
+2362,PT-102361,Female,0-17,Private Insurance,Mingachevir
+2363,PT-102362,Female,18-34,Public/State Insurance,Baku
+2364,PT-102363,Female,66+,Private Insurance,Baku
+2365,PT-102364,Male,51-65,Private Insurance,Mingachevir
+2366,PT-102365,Female,18-34,Public/State Insurance,Baku
+2367,PT-102366,Female,51-65,Private Insurance,Baku
+2368,PT-102367,Male,35-50,Public/State Insurance,Ganja
+2369,PT-102368,Male,51-65,Public/State Insurance,Baku
+2370,PT-102369,Male,51-65,Corporate Insurance,Mingachevir
+2371,PT-102370,Male,51-65,Public/State Insurance,Sumgait
+2372,PT-102371,Male,18-34,Private Insurance,Sumgait
+2373,PT-102372,Male,0-17,Private Insurance,Mingachevir
+2374,PT-102373,Female,35-50,Public/State Insurance,Baku
+2375,PT-102374,Female,66+,Public/State Insurance,Baku
+2376,PT-102375,Female,35-50,Public/State Insurance,Baku
+2377,PT-102376,Female,51-65,Public/State Insurance,Baku
+2378,PT-102377,Female,66+,Private Insurance,Sheki
+2379,PT-102378,Male,18-34,Public/State Insurance,Shirvan
+2380,PT-102379,Male,51-65,Public/State Insurance,Baku
+2381,PT-102380,Male,51-65,Private Insurance,Baku
+2382,PT-102381,Female,66+,Private Insurance,Baku
+2383,PT-102382,Male,66+,Private Insurance,Baku
+2384,PT-102383,Male,51-65,Private Insurance,Baku
+2385,PT-102384,Female,18-34,Public/State Insurance,Ganja
+2386,PT-102385,Male,51-65,Private Insurance,Nakhchivan
+2387,PT-102386,Female,0-17,Private Insurance,Mingachevir
+2388,PT-102387,Female,51-65,Private Insurance,Baku
+2389,PT-102388,Male,66+,Corporate Insurance,Baku
+2390,PT-102389,Female,35-50,Self-Pay,Ganja
+2391,PT-102390,Female,51-65,Private Insurance,Shirvan
+2392,PT-102391,Male,35-50,Private Insurance,Nakhchivan
+2393,PT-102392,Male,35-50,Private Insurance,Lankaran
+2394,PT-102393,Female,18-34,Public/State Insurance,Ganja
+2395,PT-102394,Female,51-65,Private Insurance,Mingachevir
+2396,PT-102395,Female,66+,Public/State Insurance,Baku
+2397,PT-102396,Male,66+,Public/State Insurance,Ganja
+2398,PT-102397,Female,18-34,Self-Pay,Baku
+2399,PT-102398,Female,66+,Private Insurance,Baku
+2400,PT-102399,Male,51-65,Self-Pay,Sumgait
+2401,PT-102400,Male,18-34,Self-Pay,Baku
+2402,PT-102401,Female,0-17,Private Insurance,Baku
+2403,PT-102402,Female,18-34,Public/State Insurance,Baku
+2404,PT-102403,Male,66+,Private Insurance,Baku
+2405,PT-102404,Female,51-65,Private Insurance,Baku
+2406,PT-102405,Female,51-65,Private Insurance,Baku
+2407,PT-102406,Male,18-34,Public/State Insurance,Baku
+2408,PT-102407,Female,51-65,Public/State Insurance,Baku
+2409,PT-102408,Male,0-17,Corporate Insurance,Sheki
+2410,PT-102409,Female,35-50,Private Insurance,Baku
+2411,PT-102410,Female,51-65,Corporate Insurance,Baku
+2412,PT-102411,Female,18-34,Private Insurance,Ganja
+2413,PT-102412,Female,51-65,Self-Pay,Nakhchivan
+2414,PT-102413,Female,18-34,Private Insurance,Mingachevir
+2415,PT-102414,Female,51-65,Private Insurance,Baku
+2416,PT-102415,Male,35-50,Self-Pay,Ganja
+2417,PT-102416,Male,35-50,Private Insurance,Mingachevir
+2418,PT-102417,Male,0-17,Public/State Insurance,Mingachevir
+2419,PT-102418,Male,0-17,Public/State Insurance,Sumgait
+2420,PT-102419,Female,66+,Public/State Insurance,Nakhchivan
+2421,PT-102420,Male,18-34,Public/State Insurance,Nakhchivan
+2422,PT-102421,Female,51-65,Public/State Insurance,Sumgait
+2423,PT-102422,Male,66+,Private Insurance,Baku
+2424,PT-102423,Male,18-34,Public/State Insurance,Sumgait
+2425,PT-102424,Male,18-34,Self-Pay,Shirvan
+2426,PT-102425,Male,51-65,Private Insurance,Baku
+2427,PT-102426,Male,66+,Private Insurance,Sheki
+2428,PT-102427,Female,66+,Public/State Insurance,Baku
+2429,PT-102428,Female,35-50,Public/State Insurance,Ganja
+2430,PT-102429,Male,51-65,Public/State Insurance,Nakhchivan
+2431,PT-102430,Female,18-34,Private Insurance,Baku
+2432,PT-102431,Male,66+,Public/State Insurance,Ganja
+2433,PT-102432,Male,66+,Private Insurance,Baku
+2434,PT-102433,Female,18-34,Public/State Insurance,Baku
+2435,PT-102434,Male,18-34,Self-Pay,Baku
+2436,PT-102435,Male,0-17,Private Insurance,Baku
+2437,PT-102436,Male,18-34,Public/State Insurance,Baku
+2438,PT-102437,Male,51-65,Corporate Insurance,Sheki
+2439,PT-102438,Male,35-50,Public/State Insurance,Sheki
+2440,PT-102439,Male,0-17,Self-Pay,Baku
+2441,PT-102440,Male,18-34,Public/State Insurance,Mingachevir
+2442,PT-102441,Female,66+,Self-Pay,Baku
+2443,PT-102442,Female,51-65,Private Insurance,Baku
+2444,PT-102443,Male,35-50,Private Insurance,Baku
+2445,PT-102444,Female,18-34,Private Insurance,Sheki
+2446,PT-102445,Male,66+,Public/State Insurance,Lankaran
+2447,PT-102446,Male,51-65,Self-Pay,Baku
+2448,PT-102447,Female,18-34,Private Insurance,Baku
+2449,PT-102448,Male,0-17,Public/State Insurance,Baku
+2450,PT-102449,Male,0-17,Public/State Insurance,Ganja
+2451,PT-102450,Female,18-34,Public/State Insurance,Ganja
+2452,PT-102451,Female,35-50,Public/State Insurance,Baku
+2453,PT-102452,Female,66+,Public/State Insurance,Shirvan
+2454,PT-102453,Female,35-50,Private Insurance,Baku
+2455,PT-102454,Male,51-65,Private Insurance,Lankaran
+2456,PT-102455,Female,35-50,Corporate Insurance,Sumgait
+2457,PT-102456,Male,51-65,Private Insurance,Baku
+2458,PT-102457,Female,51-65,Private Insurance,Shirvan
+2459,PT-102458,Female,18-34,Self-Pay,Shirvan
+2460,PT-102459,Male,35-50,Private Insurance,Baku
+2461,PT-102460,Male,51-65,Public/State Insurance,Baku
+2462,PT-102461,Female,0-17,Private Insurance,Lankaran
+2463,PT-102462,Female,35-50,Public/State Insurance,Baku
+2464,PT-102463,Female,35-50,Private Insurance,Baku
+2465,PT-102464,Female,66+,Private Insurance,Ganja
+2466,PT-102465,Male,35-50,Public/State Insurance,Shirvan
+2467,PT-102466,Female,51-65,Public/State Insurance,Shirvan
+2468,PT-102467,Female,35-50,Public/State Insurance,Lankaran
+2469,PT-102468,Female,51-65,Corporate Insurance,Ganja
+2470,PT-102469,Male,35-50,Private Insurance,Baku
+2471,PT-102470,Male,66+,Public/State Insurance,Sumgait
+2472,PT-102471,Female,35-50,Public/State Insurance,Shirvan
+2473,PT-102472,Male,35-50,Corporate Insurance,Baku
+2474,PT-102473,Female,51-65,Private Insurance,Baku
+2475,PT-102474,Female,35-50,Public/State Insurance,Baku
+2476,PT-102475,Male,18-34,Self-Pay,Sumgait
+2477,PT-102476,Male,0-17,Private Insurance,Nakhchivan
+2478,PT-102477,Male,0-17,Self-Pay,Mingachevir
+2479,PT-102478,Male,66+,Private Insurance,Sheki
+2480,PT-102479,Female,18-34,Public/State Insurance,Baku
+2481,PT-102480,Male,18-34,Corporate Insurance,Lankaran
+2482,PT-102481,Female,51-65,Public/State Insurance,Shirvan
+2483,PT-102482,Male,18-34,Public/State Insurance,Baku
+2484,PT-102483,Female,35-50,Private Insurance,Sheki
+2485,PT-102484,Male,18-34,Corporate Insurance,Baku
+2486,PT-102485,Female,66+,Public/State Insurance,Nakhchivan
+2487,PT-102486,Female,51-65,Private Insurance,Nakhchivan
+2488,PT-102487,Male,66+,Public/State Insurance,Shirvan
+2489,PT-102488,Female,35-50,Public/State Insurance,Ganja
+2490,PT-102489,Female,51-65,Private Insurance,Baku
+2491,PT-102490,Female,18-34,Private Insurance,Ganja
+2492,PT-102491,Female,0-17,Private Insurance,Baku
+2493,PT-102492,Female,0-17,Public/State Insurance,Shirvan
+2494,PT-102493,Female,35-50,Public/State Insurance,Shirvan
+2495,PT-102494,Male,35-50,Public/State Insurance,Lankaran
+2496,PT-102495,Female,35-50,Self-Pay,Baku
+2497,PT-102496,Male,0-17,Self-Pay,Shirvan
+2498,PT-102497,Male,35-50,Public/State Insurance,Lankaran
+2499,PT-102498,Female,51-65,Private Insurance,Shirvan
+2500,PT-102499,Male,35-50,Public/State Insurance,Baku
+2501,PT-102500,Female,51-65,Public/State Insurance,Baku
+2502,PT-102501,Male,18-34,Public/State Insurance,Baku
+2503,PT-102502,Female,51-65,Public/State Insurance,Sumgait
+2504,PT-102503,Female,35-50,Public/State Insurance,Sumgait
+2505,PT-102504,Male,18-34,Corporate Insurance,Sheki
+2506,PT-102505,Male,18-34,Private Insurance,Baku
+2507,PT-102506,Male,51-65,Public/State Insurance,Baku
+2508,PT-102507,Female,51-65,Private Insurance,Sumgait
+2509,PT-102508,Male,35-50,Corporate Insurance,Nakhchivan
+2510,PT-102509,Female,18-34,Private Insurance,Lankaran
+2511,PT-102510,Female,66+,Private Insurance,Shirvan
+2512,PT-102511,Female,51-65,Private Insurance,Baku
+2513,PT-102512,Male,35-50,Public/State Insurance,Sumgait
+2514,PT-102513,Female,35-50,Private Insurance,Nakhchivan
+2515,PT-102514,Female,18-34,Public/State Insurance,Ganja
+2516,PT-102515,Male,51-65,Public/State Insurance,Baku
+2517,PT-102516,Female,18-34,Private Insurance,Baku
+2518,PT-102517,Female,66+,Private Insurance,Baku
+2519,PT-102518,Female,35-50,Self-Pay,Mingachevir
+2520,PT-102519,Male,35-50,Public/State Insurance,Baku
+2521,PT-102520,Female,35-50,Public/State Insurance,Baku
+2522,PT-102521,Female,66+,Public/State Insurance,Baku
+2523,PT-102522,Male,51-65,Private Insurance,Ganja
+2524,PT-102523,Male,35-50,Private Insurance,Baku
+2525,PT-102524,Female,51-65,Private Insurance,Mingachevir
+2526,PT-102525,Male,35-50,Self-Pay,Baku
+2527,PT-102526,Male,35-50,Corporate Insurance,Baku
+2528,PT-102527,Male,18-34,Public/State Insurance,Ganja
+2529,PT-102528,Female,35-50,Private Insurance,Baku
+2530,PT-102529,Male,18-34,Private Insurance,Baku
+2531,PT-102530,Male,66+,Private Insurance,Baku
+2532,PT-102531,Female,18-34,Public/State Insurance,Lankaran
+2533,PT-102532,Female,66+,Private Insurance,Mingachevir
+2534,PT-102533,Female,35-50,Corporate Insurance,Baku
+2535,PT-102534,Female,51-65,Public/State Insurance,Baku
+2536,PT-102535,Male,35-50,Corporate Insurance,Sheki
+2537,PT-102536,Female,18-34,Self-Pay,Mingachevir
+2538,PT-102537,Female,35-50,Self-Pay,Baku
+2539,PT-102538,Male,0-17,Public/State Insurance,Mingachevir
+2540,PT-102539,Female,51-65,Public/State Insurance,Shirvan
+2541,PT-102540,Male,35-50,Public/State Insurance,Shirvan
+2542,PT-102541,Female,51-65,Public/State Insurance,Ganja
+2543,PT-102542,Female,18-34,Public/State Insurance,Baku
+2544,PT-102543,Female,18-34,Corporate Insurance,Baku
+2545,PT-102544,Female,35-50,Public/State Insurance,Lankaran
+2546,PT-102545,Female,66+,Self-Pay,Sumgait
+2547,PT-102546,Male,51-65,Self-Pay,Baku
+2548,PT-102547,Male,35-50,Private Insurance,Lankaran
+2549,PT-102548,Female,35-50,Private Insurance,Lankaran
+2550,PT-102549,Male,0-17,Public/State Insurance,Sheki
+2551,PT-102550,Male,66+,Public/State Insurance,Nakhchivan
+2552,PT-102551,Male,51-65,Self-Pay,Sheki
+2553,PT-102552,Female,18-34,Public/State Insurance,Baku
+2554,PT-102553,Female,35-50,Public/State Insurance,Nakhchivan
+2555,PT-102554,Female,0-17,Public/State Insurance,Nakhchivan
+2556,PT-102555,Male,66+,Private Insurance,Baku
+2557,PT-102556,Male,18-34,Public/State Insurance,Baku
+2558,PT-102557,Female,51-65,Self-Pay,Sheki
+2559,PT-102558,Female,18-34,Private Insurance,Baku
+2560,PT-102559,Male,51-65,Public/State Insurance,Nakhchivan
+2561,PT-102560,Male,51-65,Public/State Insurance,Baku
+2562,PT-102561,Male,51-65,Private Insurance,Baku
+2563,PT-102562,Male,35-50,Private Insurance,Ganja
+2564,PT-102563,Female,66+,Corporate Insurance,Baku
+2565,PT-102564,Male,0-17,Public/State Insurance,Mingachevir
+2566,PT-102565,Male,18-34,Private Insurance,Ganja
+2567,PT-102566,Female,18-34,Private Insurance,Baku
+2568,PT-102567,Male,66+,Public/State Insurance,Baku
+2569,PT-102568,Male,35-50,Public/State Insurance,Baku
+2570,PT-102569,Female,51-65,Public/State Insurance,Baku
+2571,PT-102570,Male,51-65,Private Insurance,Shirvan
+2572,PT-102571,Male,18-34,Self-Pay,Baku
+2573,PT-102572,Male,18-34,Public/State Insurance,Baku
+2574,PT-102573,Female,18-34,Private Insurance,Ganja
+2575,PT-102574,Female,35-50,Public/State Insurance,Baku
+2576,PT-102575,Male,18-34,Public/State Insurance,Baku
+2577,PT-102576,Female,0-17,Self-Pay,Baku
+2578,PT-102577,Male,66+,Corporate Insurance,Nakhchivan
+2579,PT-102578,Male,66+,Private Insurance,Lankaran
+2580,PT-102579,Female,18-34,Self-Pay,Nakhchivan
+2581,PT-102580,Female,18-34,Self-Pay,Baku
+2582,PT-102581,Female,0-17,Corporate Insurance,Baku
+2583,PT-102582,Female,51-65,Private Insurance,Ganja
+2584,PT-102583,Male,51-65,Public/State Insurance,Mingachevir
+2585,PT-102584,Male,18-34,Private Insurance,Sheki
+2586,PT-102585,Male,18-34,Self-Pay,Baku
+2587,PT-102586,Male,51-65,Private Insurance,Baku
+2588,PT-102587,Female,35-50,Public/State Insurance,Mingachevir
+2589,PT-102588,Male,0-17,Private Insurance,Nakhchivan
+2590,PT-102589,Male,51-65,Private Insurance,Nakhchivan
+2591,PT-102590,Male,18-34,Public/State Insurance,Mingachevir
+2592,PT-102591,Male,35-50,Self-Pay,Sheki
+2593,PT-102592,Female,51-65,Public/State Insurance,Ganja
+2594,PT-102593,Male,51-65,Self-Pay,Lankaran
+2595,PT-102594,Female,35-50,Private Insurance,Sheki
+2596,PT-102595,Female,66+,Public/State Insurance,Nakhchivan
+2597,PT-102596,Female,35-50,Public/State Insurance,Baku
+2598,PT-102597,Male,51-65,Private Insurance,Baku
+2599,PT-102598,Male,35-50,Public/State Insurance,Ganja
+2600,PT-102599,Male,66+,Public/State Insurance,Ganja
+2601,PT-102600,Male,66+,Public/State Insurance,Nakhchivan
+2602,PT-102601,Male,0-17,Public/State Insurance,Baku
+2603,PT-102602,Male,66+,Public/State Insurance,Baku
+2604,PT-102603,Female,51-65,Private Insurance,Shirvan
+2605,PT-102604,Female,51-65,Private Insurance,Baku
+2606,PT-102605,Female,18-34,Public/State Insurance,Baku
+2607,PT-102606,Male,51-65,Private Insurance,Baku
+2608,PT-102607,Male,51-65,Private Insurance,Sumgait
+2609,PT-102608,Female,18-34,Public/State Insurance,Baku
+2610,PT-102609,Female,66+,Public/State Insurance,Nakhchivan
+2611,PT-102610,Male,0-17,Private Insurance,Baku
+2612,PT-102611,Female,18-34,Public/State Insurance,Lankaran
+2613,PT-102612,Male,35-50,Public/State Insurance,Ganja
+2614,PT-102613,Male,35-50,Private Insurance,Baku
+2615,PT-102614,Female,51-65,Self-Pay,Baku
+2616,PT-102615,Female,0-17,Public/State Insurance,Baku
+2617,PT-102616,Male,66+,Public/State Insurance,Ganja
+2618,PT-102617,Male,0-17,Public/State Insurance,Baku
+2619,PT-102618,Male,18-34,Private Insurance,Baku
+2620,PT-102619,Male,0-17,Public/State Insurance,Sumgait
+2621,PT-102620,Female,35-50,Public/State Insurance,Baku
+2622,PT-102621,Female,66+,Corporate Insurance,Baku
+2623,PT-102622,Male,51-65,Self-Pay,Shirvan
+2624,PT-102623,Male,51-65,Public/State Insurance,Lankaran
+2625,PT-102624,Female,0-17,Private Insurance,Baku
+2626,PT-102625,Male,35-50,Private Insurance,Baku
+2627,PT-102626,Male,35-50,Private Insurance,Sheki
+2628,PT-102627,Female,35-50,Public/State Insurance,Baku
+2629,PT-102628,Female,0-17,Private Insurance,Sheki
+2630,PT-102629,Male,51-65,Public/State Insurance,Baku
+2631,PT-102630,Female,35-50,Private Insurance,Nakhchivan
+2632,PT-102631,Female,51-65,Corporate Insurance,Baku
+2633,PT-102632,Female,35-50,Private Insurance,Lankaran
+2634,PT-102633,Male,18-34,Corporate Insurance,Baku
+2635,PT-102634,Male,51-65,Corporate Insurance,Sumgait
+2636,PT-102635,Male,18-34,Public/State Insurance,Baku
+2637,PT-102636,Female,66+,Public/State Insurance,Baku
+2638,PT-102637,Male,35-50,Public/State Insurance,Shirvan
+2639,PT-102638,Male,18-34,Public/State Insurance,Ganja
+2640,PT-102639,Male,66+,Private Insurance,Lankaran
+2641,PT-102640,Male,35-50,Private Insurance,Baku
+2642,PT-102641,Female,0-17,Public/State Insurance,Nakhchivan
+2643,PT-102642,Male,51-65,Public/State Insurance,Baku
+2644,PT-102643,Female,18-34,Public/State Insurance,Sheki
+2645,PT-102644,Male,51-65,Private Insurance,Sheki
+2646,PT-102645,Female,51-65,Public/State Insurance,Baku
+2647,PT-102646,Female,66+,Private Insurance,Nakhchivan
+2648,PT-102647,Female,35-50,Private Insurance,Nakhchivan
+2649,PT-102648,Male,35-50,Private Insurance,Baku
+2650,PT-102649,Female,51-65,Private Insurance,Sumgait
+2651,PT-102650,Male,18-34,Private Insurance,Baku
+2652,PT-102651,Female,35-50,Self-Pay,Nakhchivan
+2653,PT-102652,Female,35-50,Private Insurance,Baku
+2654,PT-102653,Male,0-17,Public/State Insurance,Baku
+2655,PT-102654,Female,35-50,Private Insurance,Baku
+2656,PT-102655,Female,51-65,Self-Pay,Sumgait
+2657,PT-102656,Male,51-65,Public/State Insurance,Nakhchivan
+2658,PT-102657,Female,0-17,Private Insurance,Sheki
+2659,PT-102658,Female,0-17,Public/State Insurance,Baku
+2660,PT-102659,Female,18-34,Public/State Insurance,Baku
+2661,PT-102660,Male,66+,Public/State Insurance,Mingachevir
+2662,PT-102661,Male,18-34,Private Insurance,Ganja
+2663,PT-102662,Male,51-65,Corporate Insurance,Baku
+2664,PT-102663,Male,0-17,Public/State Insurance,Baku
+2665,PT-102664,Female,51-65,Private Insurance,Ganja
+2666,PT-102665,Female,18-34,Public/State Insurance,Baku
+2667,PT-102666,Male,51-65,Public/State Insurance,Shirvan
+2668,PT-102667,Female,18-34,Self-Pay,Ganja
+2669,PT-102668,Female,51-65,Public/State Insurance,Nakhchivan
+2670,PT-102669,Female,18-34,Public/State Insurance,Ganja
+2671,PT-102670,Female,51-65,Private Insurance,Baku
+2672,PT-102671,Male,66+,Self-Pay,Nakhchivan
+2673,PT-102672,Female,18-34,Public/State Insurance,Ganja
+2674,PT-102673,Female,66+,Private Insurance,Baku
+2675,PT-102674,Female,35-50,Private Insurance,Sumgait
+2676,PT-102675,Male,18-34,Private Insurance,Baku
+2677,PT-102676,Female,35-50,Corporate Insurance,Nakhchivan
+2678,PT-102677,Female,18-34,Private Insurance,Ganja
+2679,PT-102678,Male,51-65,Public/State Insurance,Mingachevir
+2680,PT-102679,Male,51-65,Private Insurance,Baku
+2681,PT-102680,Female,0-17,Public/State Insurance,Baku
+2682,PT-102681,Female,35-50,Public/State Insurance,Sheki
+2683,PT-102682,Female,51-65,Corporate Insurance,Shirvan
+2684,PT-102683,Female,66+,Public/State Insurance,Baku
+2685,PT-102684,Female,35-50,Self-Pay,Baku
+2686,PT-102685,Female,66+,Public/State Insurance,Baku
+2687,PT-102686,Female,35-50,Private Insurance,Sumgait
+2688,PT-102687,Female,35-50,Private Insurance,Shirvan
+2689,PT-102688,Male,51-65,Public/State Insurance,Mingachevir
+2690,PT-102689,Male,35-50,Corporate Insurance,Ganja
+2691,PT-102690,Male,35-50,Self-Pay,Shirvan
+2692,PT-102691,Female,35-50,Private Insurance,Baku
+2693,PT-102692,Female,51-65,Private Insurance,Baku
+2694,PT-102693,Male,51-65,Private Insurance,Ganja
+2695,PT-102694,Female,35-50,Corporate Insurance,Sheki
+2696,PT-102695,Female,18-34,Self-Pay,Shirvan
+2697,PT-102696,Male,35-50,Self-Pay,Sumgait
+2698,PT-102697,Male,35-50,Public/State Insurance,Sumgait
+2699,PT-102698,Male,18-34,Public/State Insurance,Lankaran
+2700,PT-102699,Female,51-65,Public/State Insurance,Baku
+2701,PT-102700,Female,35-50,Private Insurance,Baku
+2702,PT-102701,Male,18-34,Public/State Insurance,Sheki
+2703,PT-102702,Female,0-17,Private Insurance,Nakhchivan
+2704,PT-102703,Male,18-34,Private Insurance,Baku
+2705,PT-102704,Male,66+,Self-Pay,Ganja
+2706,PT-102705,Male,18-34,Self-Pay,Baku
+2707,PT-102706,Female,18-34,Public/State Insurance,Baku
+2708,PT-102707,Female,35-50,Public/State Insurance,Sheki
+2709,PT-102708,Male,18-34,Public/State Insurance,Baku
+2710,PT-102709,Male,0-17,Public/State Insurance,Nakhchivan
+2711,PT-102710,Male,18-34,Self-Pay,Baku
+2712,PT-102711,Female,35-50,Self-Pay,Ganja
+2713,PT-102712,Female,35-50,Public/State Insurance,Baku
+2714,PT-102713,Male,18-34,Private Insurance,Shirvan
+2715,PT-102714,Male,35-50,Private Insurance,Sumgait
+2716,PT-102715,Male,66+,Public/State Insurance,Sumgait
+2717,PT-102716,Female,35-50,Private Insurance,Baku
+2718,PT-102717,Male,18-34,Self-Pay,Baku
+2719,PT-102718,Male,18-34,Private Insurance,Baku
+2720,PT-102719,Male,35-50,Private Insurance,Baku
+2721,PT-102720,Female,51-65,Public/State Insurance,Sumgait
+2722,PT-102721,Female,18-34,Corporate Insurance,Ganja
+2723,PT-102722,Male,51-65,Private Insurance,Sumgait
+2724,PT-102723,Female,0-17,Public/State Insurance,Ganja
+2725,PT-102724,Female,35-50,Public/State Insurance,Baku
+2726,PT-102725,Male,51-65,Private Insurance,Baku
+2727,PT-102726,Female,18-34,Public/State Insurance,Baku
+2728,PT-102727,Male,35-50,Public/State Insurance,Nakhchivan
+2729,PT-102728,Female,18-34,Public/State Insurance,Sumgait
+2730,PT-102729,Male,51-65,Self-Pay,Baku
+2731,PT-102730,Male,0-17,Private Insurance,Baku
+2732,PT-102731,Female,51-65,Private Insurance,Nakhchivan
+2733,PT-102732,Female,18-34,Corporate Insurance,Mingachevir
+2734,PT-102733,Female,66+,Public/State Insurance,Sumgait
+2735,PT-102734,Female,18-34,Public/State Insurance,Baku
+2736,PT-102735,Male,51-65,Self-Pay,Baku
+2737,PT-102736,Male,18-34,Private Insurance,Sheki
+2738,PT-102737,Female,66+,Public/State Insurance,Shirvan
+2739,PT-102738,Female,18-34,Private Insurance,Baku
+2740,PT-102739,Female,18-34,Private Insurance,Nakhchivan
+2741,PT-102740,Male,35-50,Private Insurance,Shirvan
+2742,PT-102741,Female,0-17,Self-Pay,Baku
+2743,PT-102742,Male,18-34,Private Insurance,Baku
+2744,PT-102743,Male,66+,Public/State Insurance,Baku
+2745,PT-102744,Male,66+,Corporate Insurance,Baku
+2746,PT-102745,Female,35-50,Public/State Insurance,Mingachevir
+2747,PT-102746,Male,66+,Public/State Insurance,Baku
+2748,PT-102747,Female,35-50,Public/State Insurance,Nakhchivan
+2749,PT-102748,Female,18-34,Private Insurance,Sheki
+2750,PT-102749,Male,51-65,Public/State Insurance,Baku
+2751,PT-102750,Male,51-65,Public/State Insurance,Ganja
+2752,PT-102751,Female,66+,Corporate Insurance,Shirvan
+2753,PT-102752,Female,18-34,Corporate Insurance,Shirvan
+2754,PT-102753,Female,51-65,Self-Pay,Shirvan
+2755,PT-102754,Female,0-17,Self-Pay,Baku
+2756,PT-102755,Female,0-17,Public/State Insurance,Ganja
+2757,PT-102756,Female,0-17,Public/State Insurance,Sumgait
+2758,PT-102757,Female,66+,Self-Pay,Sheki
+2759,PT-102758,Male,51-65,Public/State Insurance,Baku
+2760,PT-102759,Male,51-65,Corporate Insurance,Lankaran
+2761,PT-102760,Male,35-50,Public/State Insurance,Baku
+2762,PT-102761,Female,18-34,Public/State Insurance,Sheki
+2763,PT-102762,Male,18-34,Public/State Insurance,Mingachevir
+2764,PT-102763,Male,18-34,Corporate Insurance,Ganja
+2765,PT-102764,Male,35-50,Private Insurance,Sumgait
+2766,PT-102765,Male,51-65,Public/State Insurance,Baku
+2767,PT-102766,Male,35-50,Public/State Insurance,Baku
+2768,PT-102767,Male,0-17,Private Insurance,Baku
+2769,PT-102768,Female,0-17,Self-Pay,Baku
+2770,PT-102769,Male,0-17,Public/State Insurance,Baku
+2771,PT-102770,Male,35-50,Public/State Insurance,Shirvan
+2772,PT-102771,Male,66+,Private Insurance,Sumgait
+2773,PT-102772,Male,51-65,Public/State Insurance,Baku
+2774,PT-102773,Female,51-65,Public/State Insurance,Nakhchivan
+2775,PT-102774,Female,35-50,Public/State Insurance,Sumgait
+2776,PT-102775,Male,35-50,Private Insurance,Sheki
+2777,PT-102776,Male,0-17,Corporate Insurance,Mingachevir
+2778,PT-102777,Male,66+,Public/State Insurance,Baku
+2779,PT-102778,Female,51-65,Public/State Insurance,Ganja
+2780,PT-102779,Female,18-34,Public/State Insurance,Sumgait
+2781,PT-102780,Male,35-50,Public/State Insurance,Baku
+2782,PT-102781,Male,35-50,Public/State Insurance,Baku
+2783,PT-102782,Male,51-65,Public/State Insurance,Baku
+2784,PT-102783,Female,66+,Public/State Insurance,Baku
+2785,PT-102784,Male,35-50,Public/State Insurance,Baku
+2786,PT-102785,Female,35-50,Public/State Insurance,Ganja
+2787,PT-102786,Male,0-17,Private Insurance,Baku
+2788,PT-102787,Female,0-17,Public/State Insurance,Mingachevir
+2789,PT-102788,Female,18-34,Private Insurance,Sumgait
+2790,PT-102789,Male,0-17,Private Insurance,Baku
+2791,PT-102790,Male,51-65,Corporate Insurance,Baku
+2792,PT-102791,Female,51-65,Public/State Insurance,Baku
+2793,PT-102792,Male,18-34,Public/State Insurance,Baku
+2794,PT-102793,Female,51-65,Public/State Insurance,Baku
+2795,PT-102794,Female,18-34,Corporate Insurance,Baku
+2796,PT-102795,Female,18-34,Public/State Insurance,Sumgait
+2797,PT-102796,Female,18-34,Self-Pay,Ganja
+2798,PT-102797,Female,35-50,Public/State Insurance,Baku
+2799,PT-102798,Female,18-34,Corporate Insurance,Baku
+2800,PT-102799,Female,35-50,Self-Pay,Sumgait
+2801,PT-102800,Male,35-50,Self-Pay,Nakhchivan
+2802,PT-102801,Female,66+,Private Insurance,Shirvan
+2803,PT-102802,Male,0-17,Private Insurance,Ganja
+2804,PT-102803,Female,18-34,Private Insurance,Baku
+2805,PT-102804,Male,0-17,Private Insurance,Baku
+2806,PT-102805,Female,51-65,Self-Pay,Nakhchivan
+2807,PT-102806,Female,0-17,Private Insurance,Baku
+2808,PT-102807,Female,51-65,Private Insurance,Sheki
+2809,PT-102808,Female,35-50,Private Insurance,Sumgait
+2810,PT-102809,Female,35-50,Private Insurance,Mingachevir
+2811,PT-102810,Male,35-50,Private Insurance,Baku
+2812,PT-102811,Male,18-34,Self-Pay,Sumgait
+2813,PT-102812,Male,18-34,Public/State Insurance,Ganja
+2814,PT-102813,Male,18-34,Private Insurance,Baku
+2815,PT-102814,Female,35-50,Public/State Insurance,Baku
+2816,PT-102815,Female,18-34,Public/State Insurance,Lankaran
+2817,PT-102816,Female,0-17,Private Insurance,Ganja
+2818,PT-102817,Female,66+,Public/State Insurance,Baku
+2819,PT-102818,Female,0-17,Public/State Insurance,Baku
+2820,PT-102819,Male,51-65,Public/State Insurance,Mingachevir
+2821,PT-102820,Female,51-65,Public/State Insurance,Mingachevir
+2822,PT-102821,Female,18-34,Private Insurance,Sumgait
+2823,PT-102822,Male,18-34,Corporate Insurance,Ganja
+2824,PT-102823,Male,18-34,Self-Pay,Baku
+2825,PT-102824,Female,51-65,Corporate Insurance,Sumgait
+2826,PT-102825,Male,51-65,Private Insurance,Baku
+2827,PT-102826,Male,51-65,Corporate Insurance,Lankaran
+2828,PT-102827,Female,66+,Self-Pay,Sumgait
+2829,PT-102828,Female,51-65,Self-Pay,Baku
+2830,PT-102829,Female,18-34,Private Insurance,Baku
+2831,PT-102830,Male,18-34,Public/State Insurance,Shirvan
+2832,PT-102831,Male,51-65,Corporate Insurance,Baku
+2833,PT-102832,Female,18-34,Public/State Insurance,Baku
+2834,PT-102833,Female,0-17,Public/State Insurance,Mingachevir
+2835,PT-102834,Male,51-65,Corporate Insurance,Baku
+2836,PT-102835,Female,35-50,Public/State Insurance,Shirvan
+2837,PT-102836,Female,66+,Public/State Insurance,Baku
+2838,PT-102837,Male,51-65,Public/State Insurance,Shirvan
+2839,PT-102838,Male,0-17,Corporate Insurance,Baku
+2840,PT-102839,Male,66+,Private Insurance,Baku
+2841,PT-102840,Male,18-34,Public/State Insurance,Lankaran
+2842,PT-102841,Male,18-34,Public/State Insurance,Sumgait
+2843,PT-102842,Female,35-50,Self-Pay,Baku
+2844,PT-102843,Male,0-17,Public/State Insurance,Baku
+2845,PT-102844,Female,35-50,Corporate Insurance,Sumgait
+2846,PT-102845,Male,18-34,Corporate Insurance,Ganja
+2847,PT-102846,Female,35-50,Private Insurance,Sheki
+2848,PT-102847,Male,18-34,Public/State Insurance,Sheki
+2849,PT-102848,Female,51-65,Private Insurance,Sumgait
+2850,PT-102849,Female,51-65,Private Insurance,Baku
+2851,PT-102850,Female,18-34,Public/State Insurance,Ganja
+2852,PT-102851,Female,35-50,Corporate Insurance,Mingachevir
+2853,PT-102852,Male,35-50,Self-Pay,Baku
+2854,PT-102853,Male,18-34,Private Insurance,Baku
+2855,PT-102854,Female,51-65,Private Insurance,Baku
+2856,PT-102855,Female,51-65,Public/State Insurance,Baku
+2857,PT-102856,Female,18-34,Public/State Insurance,Baku
+2858,PT-102857,Female,35-50,Private Insurance,Ganja
+2859,PT-102858,Female,0-17,Self-Pay,Shirvan
+2860,PT-102859,Male,51-65,Corporate Insurance,Ganja
+2861,PT-102860,Female,18-34,Public/State Insurance,Baku
+2862,PT-102861,Female,66+,Self-Pay,Baku
+2863,PT-102862,Female,51-65,Public/State Insurance,Ganja
+2864,PT-102863,Female,35-50,Public/State Insurance,Baku
+2865,PT-102864,Female,35-50,Public/State Insurance,Sumgait
+2866,PT-102865,Male,66+,Private Insurance,Sheki
+2867,PT-102866,Female,35-50,Corporate Insurance,Baku
+2868,PT-102867,Female,18-34,Public/State Insurance,Baku
+2869,PT-102868,Female,35-50,Public/State Insurance,Ganja
+2870,PT-102869,Female,51-65,Public/State Insurance,Sheki
+2871,PT-102870,Female,51-65,Private Insurance,Shirvan
+2872,PT-102871,Male,51-65,Private Insurance,Lankaran
+2873,PT-102872,Male,66+,Public/State Insurance,Baku
+2874,PT-102873,Male,66+,Public/State Insurance,Sheki
+2875,PT-102874,Female,66+,Private Insurance,Baku
+2876,PT-102875,Female,0-17,Public/State Insurance,Baku
+2877,PT-102876,Male,35-50,Public/State Insurance,Nakhchivan
+2878,PT-102877,Male,51-65,Public/State Insurance,Lankaran
+2879,PT-102878,Male,51-65,Public/State Insurance,Baku
+2880,PT-102879,Female,35-50,Corporate Insurance,Baku
+2881,PT-102880,Female,18-34,Public/State Insurance,Baku
+2882,PT-102881,Female,51-65,Public/State Insurance,Baku
+2883,PT-102882,Male,51-65,Private Insurance,Baku
+2884,PT-102883,Male,0-17,Private Insurance,Sheki
+2885,PT-102884,Male,35-50,Private Insurance,Sumgait
+2886,PT-102885,Female,18-34,Public/State Insurance,Shirvan
+2887,PT-102886,Male,18-34,Private Insurance,Shirvan
+2888,PT-102887,Female,0-17,Private Insurance,Ganja
+2889,PT-102888,Female,35-50,Self-Pay,Shirvan
+2890,PT-102889,Female,35-50,Private Insurance,Sumgait
+2891,PT-102890,Male,35-50,Private Insurance,Baku
+2892,PT-102891,Female,51-65,Private Insurance,Ganja
+2893,PT-102892,Female,51-65,Self-Pay,Ganja
+2894,PT-102893,Male,18-34,Private Insurance,Nakhchivan
+2895,PT-102894,Female,18-34,Public/State Insurance,Sheki
+2896,PT-102895,Female,51-65,Public/State Insurance,Baku
+2897,PT-102896,Female,18-34,Public/State Insurance,Shirvan
+2898,PT-102897,Female,66+,Public/State Insurance,Baku
+2899,PT-102898,Male,51-65,Self-Pay,Shirvan
+2900,PT-102899,Female,35-50,Private Insurance,Baku
+2901,PT-102900,Female,66+,Private Insurance,Baku
+2902,PT-102901,Male,0-17,Private Insurance,Baku
+2903,PT-102902,Male,18-34,Private Insurance,Sumgait
+2904,PT-102903,Male,51-65,Private Insurance,Baku
+2905,PT-102904,Female,18-34,Private Insurance,Lankaran
+2906,PT-102905,Female,66+,Public/State Insurance,Baku
+2907,PT-102906,Male,0-17,Public/State Insurance,Lankaran
+2908,PT-102907,Male,35-50,Public/State Insurance,Mingachevir
+2909,PT-102908,Male,35-50,Public/State Insurance,Baku
+2910,PT-102909,Male,51-65,Private Insurance,Baku
+2911,PT-102910,Male,18-34,Private Insurance,Mingachevir
+2912,PT-102911,Female,35-50,Public/State Insurance,Sumgait
+2913,PT-102912,Female,51-65,Private Insurance,Mingachevir
+2914,PT-102913,Male,18-34,Private Insurance,Baku
+2915,PT-102914,Female,51-65,Public/State Insurance,Ganja
+2916,PT-102915,Female,35-50,Corporate Insurance,Sheki
+2917,PT-102916,Male,51-65,Public/State Insurance,Baku
+2918,PT-102917,Male,51-65,Private Insurance,Baku
+2919,PT-102918,Female,18-34,Self-Pay,Baku
+2920,PT-102919,Female,35-50,Public/State Insurance,Shirvan
+2921,PT-102920,Female,66+,Public/State Insurance,Shirvan
+2922,PT-102921,Male,35-50,Self-Pay,Baku
+2923,PT-102922,Male,66+,Public/State Insurance,Baku
+2924,PT-102923,Female,35-50,Private Insurance,Baku
+2925,PT-102924,Female,18-34,Public/State Insurance,Baku
+2926,PT-102925,Male,35-50,Public/State Insurance,Baku
+2927,PT-102926,Female,66+,Public/State Insurance,Sheki
+2928,PT-102927,Male,18-34,Public/State Insurance,Ganja
+2929,PT-102928,Male,66+,Corporate Insurance,Baku
+2930,PT-102929,Female,66+,Corporate Insurance,Lankaran
+2931,PT-102930,Male,18-34,Self-Pay,Ganja
+2932,PT-102931,Female,0-17,Self-Pay,Sumgait
+2933,PT-102932,Female,51-65,Corporate Insurance,Baku
+2934,PT-102933,Male,18-34,Private Insurance,Baku
+2935,PT-102934,Female,51-65,Private Insurance,Lankaran
+2936,PT-102935,Male,35-50,Public/State Insurance,Sumgait
+2937,PT-102936,Male,35-50,Self-Pay,Baku
+2938,PT-102937,Female,51-65,Public/State Insurance,Sumgait
+2939,PT-102938,Female,35-50,Public/State Insurance,Lankaran
+2940,PT-102939,Female,35-50,Private Insurance,Baku
+2941,PT-102940,Female,35-50,Private Insurance,Ganja
+2942,PT-102941,Female,35-50,Public/State Insurance,Sheki
+2943,PT-102942,Female,35-50,Private Insurance,Baku
+2944,PT-102943,Female,51-65,Public/State Insurance,Mingachevir
+2945,PT-102944,Male,35-50,Private Insurance,Sumgait
+2946,PT-102945,Male,35-50,Private Insurance,Mingachevir
+2947,PT-102946,Male,51-65,Public/State Insurance,Baku
+2948,PT-102947,Female,18-34,Public/State Insurance,Baku
+2949,PT-102948,Female,18-34,Public/State Insurance,Mingachevir
+2950,PT-102949,Male,66+,Private Insurance,Baku
+2951,PT-102950,Female,51-65,Self-Pay,Baku
+2952,PT-102951,Female,35-50,Public/State Insurance,Baku
+2953,PT-102952,Male,51-65,Public/State Insurance,Baku
+2954,PT-102953,Male,0-17,Public/State Insurance,Sheki
+2955,PT-102954,Male,35-50,Private Insurance,Baku
+2956,PT-102955,Female,35-50,Self-Pay,Sheki
+2957,PT-102956,Male,35-50,Public/State Insurance,Baku
+2958,PT-102957,Male,18-34,Public/State Insurance,Sumgait
+2959,PT-102958,Male,0-17,Private Insurance,Baku
+2960,PT-102959,Male,18-34,Corporate Insurance,Shirvan
+2961,PT-102960,Male,66+,Self-Pay,Shirvan
+2962,PT-102961,Female,35-50,Private Insurance,Baku
+2963,PT-102962,Female,35-50,Private Insurance,Lankaran
+2964,PT-102963,Male,0-17,Self-Pay,Baku
+2965,PT-102964,Male,0-17,Public/State Insurance,Sumgait
+2966,PT-102965,Male,51-65,Self-Pay,Sheki
+2967,PT-102966,Female,35-50,Public/State Insurance,Nakhchivan
+2968,PT-102967,Female,35-50,Public/State Insurance,Sheki
+2969,PT-102968,Male,18-34,Public/State Insurance,Baku
+2970,PT-102969,Male,51-65,Private Insurance,Baku
+2971,PT-102970,Male,18-34,Public/State Insurance,Baku
+2972,PT-102971,Male,18-34,Corporate Insurance,Ganja
+2973,PT-102972,Male,35-50,Private Insurance,Shirvan
+2974,PT-102973,Male,18-34,Public/State Insurance,Baku
+2975,PT-102974,Male,18-34,Public/State Insurance,Sumgait
+2976,PT-102975,Male,51-65,Public/State Insurance,Baku
+2977,PT-102976,Male,51-65,Self-Pay,Baku
+2978,PT-102977,Female,51-65,Self-Pay,Sumgait
+2979,PT-102978,Female,35-50,Private Insurance,Ganja
+2980,PT-102979,Male,0-17,Corporate Insurance,Shirvan
+2981,PT-102980,Female,18-34,Self-Pay,Baku
+2982,PT-102981,Female,66+,Self-Pay,Shirvan
+2983,PT-102982,Female,35-50,Public/State Insurance,Baku
+2984,PT-102983,Female,51-65,Self-Pay,Baku
+2985,PT-102984,Female,0-17,Private Insurance,Sumgait
+2986,PT-102985,Female,35-50,Private Insurance,Nakhchivan
+2987,PT-102986,Male,0-17,Self-Pay,Baku
+2988,PT-102987,Female,35-50,Private Insurance,Baku
+2989,PT-102988,Female,66+,Private Insurance,Ganja
+2990,PT-102989,Female,66+,Self-Pay,Baku
+2991,PT-102990,Male,35-50,Self-Pay,Shirvan
+2992,PT-102991,Female,35-50,Private Insurance,Shirvan
+2993,PT-102992,Male,66+,Self-Pay,Baku
+2994,PT-102993,Male,51-65,Public/State Insurance,Ganja
+2995,PT-102994,Male,0-17,Public/State Insurance,Shirvan
+2996,PT-102995,Female,35-50,Self-Pay,Baku
+2997,PT-102996,Male,18-34,Public/State Insurance,Sumgait
+2998,PT-102997,Female,35-50,Private Insurance,Baku
+2999,PT-102998,Male,35-50,Private Insurance,Sumgait
+3000,PT-102999,Male,35-50,Public/State Insurance,Baku
