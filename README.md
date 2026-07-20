@@ -6,4 +6,7 @@ An interactive Power BI dashboard analyzing hospital patient flow, bed occupancy
 
 ## 📊 Overview
 
-This dashboard provides a 360° view of hospital operations,clinical outcomes,and financial performance—helping healthcare administrators track capacity, quality of care,and cost efficiency across departments.
+This dashboard provides a 360° view of hospital operations,clinical outcomes,and financial performance-helping healthcare administrators track capacity, quality of care,and cost efficiency across departments.
+
+The project simulates a two-year period (2024–2025) across 10 hospital departments,45 doctors,3000 patients,and 9000 admission records,modeled in a standard **star schema** for optimal performance and clean DAX.
+
